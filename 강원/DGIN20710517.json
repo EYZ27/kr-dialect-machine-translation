@@ -1,0 +1,198 @@
+{
+    "id": "DGIN20710517",
+    "metadata": {
+        "title": "강원방언 AI 학습데이터 DGIN20710517",
+        "creator": "인피닉",
+        "distributor": "인피닉",
+        "year": "2020",
+        "category": "강원방언 > 사적 대화 > 일상 대화",
+        "annotation_level": [
+            ""
+        ],
+        "sampling": "본문 전체",
+        "author": "개인 발화자",
+        "publisher": "개인 발화 녹음",
+        "date": "20201229",
+        "topic": "가족"
+    },
+    "speaker": [
+        {
+            "id": "1",
+            "name": "null",
+            "age": "20대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "principal_residence": "강원",
+            "current_residence": "강원",
+            "education": "대졸"
+        }
+    ],
+    "setting": {
+        "relation": "부모/자녀"
+    },
+    "utterance": [
+        {
+            "id": "DGIN20710517.1.1.1",
+            "form": "(머나?)/(뭐야?)",
+            "standard_form": "뭐야?",
+            "dialect_form": "머나?",
+            "speaker_id": "1",
+            "start": 2.28,
+            "end": 2.67,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "머나?",
+                    "standard": "뭐야?",
+                    "isDialect": true
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710517.1.1.2",
+            "form": "(오놀도)/(오늘도) 만나고 들어오는 거야?",
+            "standard_form": "오늘도 만나고 들어오는 거야?",
+            "dialect_form": "오놀도 만나고 들어오는 거야?",
+            "speaker_id": "1",
+            "start": 4.77,
+            "end": 6.61,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "오놀도",
+                    "standard": "오늘도",
+                    "isDialect": true
+                },
+                {
+                    "id": 2,
+                    "eojeol": "만나고",
+                    "standard": "만나고",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "들어오는",
+                    "standard": "들어오는",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "거야?",
+                    "standard": "거야?",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710517.1.1.3",
+            "start": 6.72,
+            "end": 10.22,
+            "speaker_id": "1",
+            "form": "엄마 딸 고민 좀 덜어줄래?",
+            "standard_form": "엄마 딸 고민 좀 덜어줄래?",
+            "dialect_form": "엄마 딸 고민 좀 덜어줄래?",
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "엄마",
+                    "standard": "엄마",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "딸",
+                    "standard": "딸",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "고민",
+                    "standard": "고민",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "좀",
+                    "standard": "좀",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "덜어줄래?",
+                    "standard": "덜어줄래?",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710517.1.1.4",
+            "form": "그럼 (얼매든지.)/(얼마든지.)",
+            "standard_form": "그럼 얼마든지.",
+            "dialect_form": "그럼 얼매든지.",
+            "speaker_id": "1",
+            "start": 11.95,
+            "end": 14.61542857142857,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "그럼",
+                    "standard": "그럼",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "얼매든지.",
+                    "standard": "얼마든지.",
+                    "isDialect": true
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710517.1.1.5",
+            "start": 14.62542857142857,
+            "end": 16.86,
+            "speaker_id": "1",
+            "form": "둘이 그렇게 둘이 크게 싸워?",
+            "standard_form": "둘이 그렇게 둘이 크게 싸워?",
+            "dialect_form": "둘이 그렇게 둘이 크게 싸워?",
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "둘이",
+                    "standard": "둘이",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "그렇게",
+                    "standard": "그렇게",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "둘이",
+                    "standard": "둘이",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "크게",
+                    "standard": "크게",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "싸워?",
+                    "standard": "싸워?",
+                    "isDialect": false
+                }
+            ]
+        }
+    ]
+}

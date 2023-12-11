@@ -1,0 +1,156 @@
+{
+    "id": "DGDQ20005213",
+    "metadata": {
+        "title": "강원방언 AI 학습데이터 DGDQ20005213",
+        "creator": "디큐",
+        "distributor": "디큐",
+        "year": "2021",
+        "category": "강원방언 > 사적 대화 > 일상 대화",
+        "annotation_level": [
+            ""
+        ],
+        "sampling": "본문 전체",
+        "author": "개인 발화자",
+        "publisher": "개인 발화 녹음",
+        "date": "20210217",
+        "topic": "가족"
+    },
+    "speaker": [
+        {
+            "id": "1",
+            "name": "null",
+            "age": "40대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "principal_residence": "강원",
+            "current_residence": "강원",
+            "education": "대졸"
+        }
+    ],
+    "setting": {
+        "relation": "기타"
+    },
+    "utterance": [
+        {
+            "id": "DGDQ20005213.1.1.1",
+            "form": "한국에 온 지 (얼매나)/(얼마나) 됐지?",
+            "standard_form": "한국에 온 지 얼마나 됐지?",
+            "dialect_form": "한국에 온 지 얼매나 됐지?",
+            "speaker_id": "1",
+            "start": 6.29,
+            "end": 8.52,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "한국에",
+                    "standard": "한국에",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "온",
+                    "standard": "온",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "지",
+                    "standard": "지",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "얼매나",
+                    "standard": "얼마나",
+                    "isDialect": true
+                },
+                {
+                    "id": 5,
+                    "eojeol": "됐지?",
+                    "standard": "됐지?",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGDQ20005213.1.1.2",
+            "form": "한국에 (와가주)/(와서) 가장 놀란 게 있다면?",
+            "standard_form": "한국에 와서 가장 놀란 게 있다면?",
+            "dialect_form": "한국에 와가주 가장 놀란 게 있다면?",
+            "speaker_id": "1",
+            "start": 9.82,
+            "end": 12.61,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "한국에",
+                    "standard": "한국에",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "와가주",
+                    "standard": "와서",
+                    "isDialect": true
+                },
+                {
+                    "id": 3,
+                    "eojeol": "가장",
+                    "standard": "가장",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "놀란",
+                    "standard": "놀란",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "게",
+                    "standard": "게",
+                    "isDialect": false
+                },
+                {
+                    "id": 6,
+                    "eojeol": "있다면?",
+                    "standard": "있다면?",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGDQ20005213.1.1.3",
+            "form": "한국엔 (언재)/(언제) 오셨어요?",
+            "standard_form": "한국엔 언제 오셨어요?",
+            "dialect_form": "한국엔 언재 오셨어요?",
+            "speaker_id": "1",
+            "start": 15.42,
+            "end": 17.23,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "한국엔",
+                    "standard": "한국엔",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "언재",
+                    "standard": "언제",
+                    "isDialect": true
+                },
+                {
+                    "id": 3,
+                    "eojeol": "오셨어요?",
+                    "standard": "오셨어요?",
+                    "isDialect": false
+                }
+            ]
+        }
+    ]
+}

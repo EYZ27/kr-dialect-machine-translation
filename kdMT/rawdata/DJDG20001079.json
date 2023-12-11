@@ -1,0 +1,8177 @@
+﻿{
+	"id": "DJDG20001079",
+	"metadata": {
+		"title": "전라방언 AI 학습데이터 DJDG20001079",
+		"creator": "솔트룩스",
+		"distributor": "솔트룩스",
+		"year": "2020",
+		"category": "전라방언 > 사적 대화 > 일상 대화",
+		"annotation_level": [
+			"원시"
+		],
+		"sampling": "본문 전체",
+		"author": "개인 발화자",
+		"publisher": "개인 발화 녹음",
+		"date": "20201120",
+		"topic": "선물"
+	},
+	"speaker": [
+		{
+			"id": "1",
+			"name": "",
+			"age": "20대",
+			"occupation": "무직/취업준비생",
+			"sex": "여성",
+			"birthplace": "전남",
+			"principal_residence": "전남",
+			"current_residence": "전남",
+			"education": "고졸"
+		},
+		{
+			"id": "2",
+			"name": "",
+			"age": "20대",
+			"occupation": "기타",
+			"sex": "남성",
+			"birthplace": "전남",
+			"principal_residence": "전남",
+			"current_residence": "전남",
+			"education": "대졸"
+		}
+	],
+	"setting": {
+		"relation": "기타"
+	},
+	"utterance": [
+		{
+			"id": "DJDG20001079.1.1.1",
+			"form": "선물하시면 생각나시는 선물이 있으세요?",
+			"standard_form": "선물하시면 생각나시는 선물이 있으세요?",
+			"dialect_form": "선물하시면 생각나시는 선물이 있으세요?",
+			"speaker_id": "1",
+			"start": 0.01,
+			"end": 11.6,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "선물하시면",
+					"standard": "선물하시면",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "생각나시는",
+					"standard": "생각나시는",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "선물이",
+					"standard": "선물이",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "있으세요?",
+					"standard": "있으세요?",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.2",
+			"form": "저는 일단",
+			"standard_form": "저는 일단",
+			"dialect_form": "저는 일단",
+			"speaker_id": "2",
+			"start": 11.6,
+			"end": 14.8,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "저는",
+					"standard": "저는",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "일단",
+					"standard": "일단",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.3",
+			"form": "초콜렛 같은 게 제일 생각이 많이 남",
+			"standard_form": "초콜렛 같은 게 제일 생각이 많이 남",
+			"dialect_form": "초콜렛 같은 게 제일 생각이 많이 남",
+			"speaker_id": "2",
+			"start": 14.8,
+			"end": 19.46,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "초콜렛",
+					"standard": "초콜렛",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "같은",
+					"standard": "같은",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "게",
+					"standard": "게",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "제일",
+					"standard": "제일",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "생각이",
+					"standard": "생각이",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "많이",
+					"standard": "많이",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "남",
+					"standard": "남",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.4",
+			"form": "어~ 초콜렛에 특별한 추억이 있으신가요?",
+			"standard_form": "어~ 초콜렛에 특별한 추억이 있으신가요?",
+			"dialect_form": "어~ 초콜렛에 특별한 추억이 있으신가요?",
+			"speaker_id": "1",
+			"start": 19.46,
+			"end": 28.35,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "어~",
+					"standard": "어~",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "초콜렛에",
+					"standard": "초콜렛에",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "특별한",
+					"standard": "특별한",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "추억이",
+					"standard": "추억이",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "있으신가요?",
+					"standard": "있으신가요?",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.5",
+			"form": "어~ 전 여자 친구가 초콜렛을 많이 줘가지구",
+			"standard_form": "어~ 전 여자 친구가 초콜렛을 많이 줘가지구",
+			"dialect_form": "어~ 전 여자 친구가 초콜렛을 많이 줘가지구",
+			"speaker_id": "2",
+			"start": 28.35,
+			"end": 34.55,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "어~",
+					"standard": "어~",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "전",
+					"standard": "전",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "여자",
+					"standard": "여자",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "친구가",
+					"standard": "친구가",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "초콜렛을",
+					"standard": "초콜렛을",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "많이",
+					"standard": "많이",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "줘가지구",
+					"standard": "줘가지구",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.6",
+			"form": "되게 만들어서 줬거 되게 어~ 전 여자친구가",
+			"standard_form": "되게 만들어서 줬거 되게 어~ 전 여자친구가",
+			"dialect_form": "되게 만들어서 줬거 되게 어~ 전 여자친구가",
+			"speaker_id": "2",
+			"start": 34.55,
+			"end": 42.31,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "되게",
+					"standard": "되게",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "만들어서",
+					"standard": "만들어서",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "줬거",
+					"standard": "줬거",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "되게",
+					"standard": "되게",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "어~",
+					"standard": "어~",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "전",
+					"standard": "전",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "여자친구가",
+					"standard": "여자친구가",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.7",
+			"form": "전에 처음에 초콜렛 선물을 받았을 때",
+			"standard_form": "전에 처음에 초콜렛 선물을 받았을 때",
+			"dialect_form": "전에 처음에 초콜렛 선물을 받았을 때",
+			"speaker_id": "2",
+			"start": 42.31,
+			"end": 47.32,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "전에",
+					"standard": "전에",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "처음에",
+					"standard": "처음에",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "초콜렛",
+					"standard": "초콜렛",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "선물을",
+					"standard": "선물을",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "받았을",
+					"standard": "받았을",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "때",
+					"standard": "때",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.8",
+			"form": "되게 기분이 되게 좋았거든요.",
+			"standard_form": "되게 기분이 되게 좋았거든요.",
+			"dialect_form": "되게 기분이 되게 좋았거든요.",
+			"speaker_id": "2",
+			"start": 47.32,
+			"end": 50.76,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "되게",
+					"standard": "되게",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "기분이",
+					"standard": "기분이",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "되게",
+					"standard": "되게",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "좋았거든요.",
+					"standard": "좋았거든요.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.9",
+			"form": "만들어 준 선물이어가지고 되게 엄청 좋았습니다.",
+			"standard_form": "만들어 준 선물이어가지고 되게 엄청 좋았습니다.",
+			"dialect_form": "만들어 준 선물이어가지고 되게 엄청 좋았습니다.",
+			"speaker_id": "2",
+			"start": 50.76,
+			"end": 55.76,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "만들어",
+					"standard": "만들어",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "준",
+					"standard": "준",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "선물이어가지고",
+					"standard": "선물이어가지고",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "되게",
+					"standard": "되게",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "엄청",
+					"standard": "엄청",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "좋았습니다.",
+					"standard": "좋았습니다.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.10",
+			"form": "@이름1 님은 선물에 대한 어떤 게 제일",
+			"standard_form": "&name1& 님은 선물에 대한 어떤 게 제일",
+			"dialect_form": "&name1& 님은 선물에 대한 어떤 게 제일",
+			"speaker_id": "2",
+			"start": 55.76,
+			"end": 62.4,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "&name1&",
+					"standard": "&name1&",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "님은",
+					"standard": "님은",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "선물에",
+					"standard": "선물에",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "대한",
+					"standard": "대한",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "어떤",
+					"standard": "어떤",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "게",
+					"standard": "게",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "제일",
+					"standard": "제일",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.11",
+			"form": "뜻깊은가요?",
+			"standard_form": "뜻깊은가요?",
+			"dialect_form": "뜻깊은가요?",
+			"speaker_id": "2",
+			"start": 62.4,
+			"end": 67.14,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "뜻깊은가요?",
+					"standard": "뜻깊은가요?",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.12",
+			"form": "저는 선물 하면 어~ 생일날",
+			"standard_form": "저는 선물 하면 어~ 생일날",
+			"dialect_form": "저는 선물 하면 어~ 생일날",
+			"speaker_id": "1",
+			"start": 67.14,
+			"end": 72.39,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "저는",
+					"standard": "저는",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "선물",
+					"standard": "선물",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "하면",
+					"standard": "하면",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "어~",
+					"standard": "어~",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "생일날",
+					"standard": "생일날",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.13",
+			"form": "받은 생일 선물이 제일 뜻깊은데요.",
+			"standard_form": "받은 생일 선물이 제일 뜻깊은데요.",
+			"dialect_form": "받은 생일 선물이 제일 뜻깊은데요.",
+			"speaker_id": "1",
+			"start": 72.39,
+			"end": 77.12,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "받은",
+					"standard": "받은",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "생일",
+					"standard": "생일",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "선물이",
+					"standard": "선물이",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "제일",
+					"standard": "제일",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "뜻깊은데요.",
+					"standard": "뜻깊은데요.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.14",
+			"form": "저는 생일 날 되면 제 친구들이",
+			"standard_form": "저는 생일 날 되면 제 친구들이",
+			"dialect_form": "저는 생일 날 되면 제 친구들이",
+			"speaker_id": "1",
+			"start": 77.12,
+			"end": 83.06,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "저는",
+					"standard": "저는",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "생일",
+					"standard": "생일",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "날",
+					"standard": "날",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "되면",
+					"standard": "되면",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "제",
+					"standard": "제",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "친구들이",
+					"standard": "친구들이",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.15",
+			"form": "이벤트로 저 모르게 깜짝 서프라이즈를 해주거든요.",
+			"standard_form": "이벤트로 저 모르게 깜짝 서프라이즈를 해주거든요.",
+			"dialect_form": "이벤트로 저 모르게 깜짝 서프라이즈를 해주거든요.",
+			"speaker_id": "1",
+			"start": 83.06,
+			"end": 89.29,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "이벤트로",
+					"standard": "이벤트로",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "저",
+					"standard": "저",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "모르게",
+					"standard": "모르게",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "깜짝",
+					"standard": "깜짝",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "서프라이즈를",
+					"standard": "서프라이즈를",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "해주거든요.",
+					"standard": "해주거든요.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.16",
+			"form": "그래서 되게 이번에는 애들이 빔프로젝트로 해가지고",
+			"standard_form": "그래서 되게 이번에는 애들이 빔프로젝트로 해가지고",
+			"dialect_form": "그래서 되게 이번에는 애들이 빔프로젝트로 해가지고",
+			"speaker_id": "1",
+			"start": 89.29,
+			"end": 96.0,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "그래서",
+					"standard": "그래서",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "되게",
+					"standard": "되게",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "이번에는",
+					"standard": "이번에는",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "애들이",
+					"standard": "애들이",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "빔프로젝트로",
+					"standard": "빔프로젝트로",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "해가지고",
+					"standard": "해가지고",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.17",
+			"form": "동영상 만들어서 보여주고",
+			"standard_form": "동영상 만들어서 보여주고",
+			"dialect_form": "동영상 만들어서 보여주고",
+			"speaker_id": "1",
+			"start": 96.0,
+			"end": 100.26,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "동영상",
+					"standard": "동영상",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "만들어서",
+					"standard": "만들어서",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "보여주고",
+					"standard": "보여주고",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.18",
+			"form": "애들한테 꽃도 선물 받고 되게 그런 게 되게 저한테는",
+			"standard_form": "애들한테 꽃도 선물 받고 되게 그런 게 되게 저한테는",
+			"dialect_form": "애들한테 꽃도 선물 받고 되게 그런 게 되게 저한테는",
+			"speaker_id": "1",
+			"start": 100.26,
+			"end": 104.84,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "애들한테",
+					"standard": "애들한테",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "꽃도",
+					"standard": "꽃도",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "선물",
+					"standard": "선물",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "받고",
+					"standard": "받고",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "되게",
+					"standard": "되게",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "그런",
+					"standard": "그런",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "게",
+					"standard": "게",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "되게",
+					"standard": "되게",
+					"isDialect": false
+				},
+				{
+					"id": 9,
+					"eojeol": "저한테는",
+					"standard": "저한테는",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.19",
+			"form": "뜻깊은 선물인 거 같애요.",
+			"standard_form": "뜻깊은 선물인 거 같애요.",
+			"dialect_form": "뜻깊은 선물인 거 같애요.",
+			"speaker_id": "1",
+			"start": 104.84,
+			"end": 108.36,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "뜻깊은",
+					"standard": "뜻깊은",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "선물인",
+					"standard": "선물인",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "거",
+					"standard": "거",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "같애요.",
+					"standard": "같애요.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.20",
+			"form": "혹시 뭐~ 받아보신 이벤트 있으세요?",
+			"standard_form": "혹시 뭐~ 받아보신 이벤트 있으세요?",
+			"dialect_form": "혹시 뭐~ 받아보신 이벤트 있으세요?",
+			"speaker_id": "1",
+			"start": 108.36,
+			"end": 113.84,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "혹시",
+					"standard": "혹시",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "뭐~",
+					"standard": "뭐~",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "받아보신",
+					"standard": "받아보신",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "이벤트",
+					"standard": "이벤트",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "있으세요?",
+					"standard": "있으세요?",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.21",
+			"form": "저는 이벤트로 이벤트로 여러 가지 인제",
+			"standard_form": "저는 이벤트로 이벤트로 여러 가지 인제",
+			"dialect_form": "저는 이벤트로 이벤트로 여러 가지 인제",
+			"speaker_id": "2",
+			"start": 113.84,
+			"end": 119.78,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "저는",
+					"standard": "저는",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "이벤트로",
+					"standard": "이벤트로",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "이벤트로",
+					"standard": "이벤트로",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "여러",
+					"standard": "여러",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "가지",
+					"standard": "가지",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "인제",
+					"standard": "인제",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.22",
+			"form": "자주 놀러가는 어~ 피씨방이 있는데",
+			"standard_form": "자주 놀러가는 어~ 피씨방이 있는데",
+			"dialect_form": "자주 놀러가는 어~ 피씨방이 있는데",
+			"speaker_id": "2",
+			"start": 119.78,
+			"end": 124.72,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "자주",
+					"standard": "자주",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "놀러가는",
+					"standard": "놀러가는",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "어~",
+					"standard": "어~",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "피씨방이",
+					"standard": "피씨방이",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "있는데",
+					"standard": "있는데",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.23",
+			"form": "거기서 선물을 많이 주더라구요.",
+			"standard_form": "거기서 선물을 많이 주더라구요.",
+			"dialect_form": "거기서 선물을 많이 주더라구요.",
+			"speaker_id": "2",
+			"start": 124.72,
+			"end": 128.2,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "거기서",
+					"standard": "거기서",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "선물을",
+					"standard": "선물을",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "많이",
+					"standard": "많이",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "주더라구요.",
+					"standard": "주더라구요.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.24",
+			"form": "그래서 뭔가 (()) 받아보고 여러 가지 많이 받았습니다.",
+			"standard_form": "그래서 뭔가 (()) 받아보고 여러 가지 많이 받았습니다.",
+			"dialect_form": "그래서 뭔가 (()) 받아보고 여러 가지 많이 받았습니다.",
+			"speaker_id": "2",
+			"start": 128.2,
+			"end": 134.03,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "그래서",
+					"standard": "그래서",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "뭔가",
+					"standard": "뭔가",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "(())",
+					"standard": "(())",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "받아보고",
+					"standard": "받아보고",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "여러",
+					"standard": "여러",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "가지",
+					"standard": "가지",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "많이",
+					"standard": "많이",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "받았습니다.",
+					"standard": "받았습니다.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.25",
+			"form": "저는 그게 제일 좋은 거 같애요.",
+			"standard_form": "저는 그게 제일 좋은 거 같애요.",
+			"dialect_form": "저는 그게 제일 좋은 거 같애요.",
+			"speaker_id": "2",
+			"start": 134.03,
+			"end": 137.14,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "저는",
+					"standard": "저는",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "그게",
+					"standard": "그게",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "제일",
+					"standard": "제일",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "좋은",
+					"standard": "좋은",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "거",
+					"standard": "거",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "같애요.",
+					"standard": "같애요.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.26",
+			"form": "@이름1 님은 그러면 선물을 받을 때 어떤 종류의 선물을 많이 받았어요?",
+			"standard_form": "&name1& 님은 그러면 선물을 받을 때 어떤 종류의 선물을 많이 받았어요?",
+			"dialect_form": "&name1& 님은 그러면 선물을 받을 때 어떤 종류의 선물을 많이 받았어요?",
+			"speaker_id": "2",
+			"start": 137.14,
+			"end": 143.65,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "&name1&",
+					"standard": "&name1&",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "님은",
+					"standard": "님은",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "그러면",
+					"standard": "그러면",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "선물을",
+					"standard": "선물을",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "받을",
+					"standard": "받을",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "때",
+					"standard": "때",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "어떤",
+					"standard": "어떤",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "종류의",
+					"standard": "종류의",
+					"isDialect": false
+				},
+				{
+					"id": 9,
+					"eojeol": "선물을",
+					"standard": "선물을",
+					"isDialect": false
+				},
+				{
+					"id": 10,
+					"eojeol": "많이",
+					"standard": "많이",
+					"isDialect": false
+				},
+				{
+					"id": 11,
+					"eojeol": "받았어요?",
+					"standard": "받았어요?",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.27",
+			"form": "저는 거의 화장품 종류 많이 받았어요.",
+			"standard_form": "저는 거의 화장품 종류 많이 받았어요.",
+			"dialect_form": "저는 거의 화장품 종류 많이 받았어요.",
+			"speaker_id": "1",
+			"start": 143.65,
+			"end": 149.75,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "저는",
+					"standard": "저는",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "거의",
+					"standard": "거의",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "화장품",
+					"standard": "화장품",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "종류",
+					"standard": "종류",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "많이",
+					"standard": "많이",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "받았어요.",
+					"standard": "받았어요.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.28",
+			"form": "혹시 손으로 뭐~ 직접 만들어가지고 선물해보신 적 있으세요?",
+			"standard_form": "혹시 손으로 뭐~ 직접 만들어가지고 선물해보신 적 있으세요?",
+			"dialect_form": "혹시 손으로 뭐~ 직접 만들어가지고 선물해보신 적 있으세요?",
+			"speaker_id": "1",
+			"start": 149.75,
+			"end": 157.12,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "혹시",
+					"standard": "혹시",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "손으로",
+					"standard": "손으로",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "뭐~",
+					"standard": "뭐~",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "직접",
+					"standard": "직접",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "만들어가지고",
+					"standard": "만들어가지고",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "선물해보신",
+					"standard": "선물해보신",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "적",
+					"standard": "적",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "있으세요?",
+					"standard": "있으세요?",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.29",
+			"form": "저는 목걸이 같은 거 선물 많이 (())",
+			"standard_form": "저는 목걸이 같은 거 선물 많이 (())",
+			"dialect_form": "저는 목걸이 같은 거 선물 많이 (())",
+			"speaker_id": "2",
+			"start": 157.12,
+			"end": 163.25,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "저는",
+					"standard": "저는",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "목걸이",
+					"standard": "목걸이",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "같은",
+					"standard": "같은",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "거",
+					"standard": "거",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "선물",
+					"standard": "선물",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "많이",
+					"standard": "많이",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "(())",
+					"standard": "(())",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.30",
+			"form": "어~ 따로 손재주가 있으신가요?",
+			"standard_form": "어~ 따로 손재주가 있으신가요?",
+			"dialect_form": "어~ 따로 손재주가 있으신가요?",
+			"speaker_id": "1",
+			"start": 163.25,
+			"end": 168.73,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "어~",
+					"standard": "어~",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "따로",
+					"standard": "따로",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "손재주가",
+					"standard": "손재주가",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "있으신가요?",
+					"standard": "있으신가요?",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.31",
+			"form": "손재주는 없 손재주는 없는데",
+			"standard_form": "손재주는 없 손재주는 없는데",
+			"dialect_form": "손재주는 없 손재주는 없는데",
+			"speaker_id": "2",
+			"start": 168.73,
+			"end": 173.76,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "손재주는",
+					"standard": "손재주는",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "없",
+					"standard": "없",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "손재주는",
+					"standard": "손재주는",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "없는데",
+					"standard": "없는데",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.32",
+			"form": "어~ (쫌)/(조금) 많이 만들어 줬습 @이름1 님은 그러면",
+			"standard_form": "어~ 조금 많이 만들어 줬습 &name1& 님은 그러면",
+			"dialect_form": "어~ 쫌 많이 만들어 줬습 &name1& 님은 그러면",
+			"speaker_id": "2",
+			"start": 173.76,
+			"end": 178.68,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "어~",
+					"standard": "어~",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "쫌",
+					"standard": "조금",
+					"isDialect": true
+				},
+				{
+					"id": 3,
+					"eojeol": "많이",
+					"standard": "많이",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "만들어",
+					"standard": "만들어",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "줬습",
+					"standard": "줬습",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "&name1&",
+					"standard": "&name1&",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "님은",
+					"standard": "님은",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "그러면",
+					"standard": "그러면",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.33",
+			"form": "선물에 대한 추억이 어~ 어느 정도 되세요?",
+			"standard_form": "선물에 대한 추억이 어~ 어느 정도 되세요?",
+			"dialect_form": "선물에 대한 추억이 어~ 어느 정도 되세요?",
+			"speaker_id": "2",
+			"start": 178.68,
+			"end": 183.99,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "선물에",
+					"standard": "선물에",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "대한",
+					"standard": "대한",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "추억이",
+					"standard": "추억이",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "어~",
+					"standard": "어~",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "어느",
+					"standard": "어느",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "정도",
+					"standard": "정도",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "되세요?",
+					"standard": "되세요?",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.34",
+			"form": "선물에 대한 추억은",
+			"standard_form": "선물에 대한 추억은",
+			"dialect_form": "선물에 대한 추억은",
+			"speaker_id": "1",
+			"start": 183.99,
+			"end": 189.93,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "선물에",
+					"standard": "선물에",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "대한",
+					"standard": "대한",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "추억은",
+					"standard": "추억은",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.35",
+			"form": "어~ 생일 날 받을 때?",
+			"standard_form": "어~ 생일 날 받을 때?",
+			"dialect_form": "어~ 생일 날 받을 때?",
+			"speaker_id": "1",
+			"start": 189.93,
+			"end": 193.21,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "어~",
+					"standard": "어~",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "생일",
+					"standard": "생일",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "날",
+					"standard": "날",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "받을",
+					"standard": "받을",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "때?",
+					"standard": "때?",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.36",
+			"form": "아니면 아무 날도 아닌데 이제 막 깜짝 서프라이스 식으로",
+			"standard_form": "아니면 아무 날도 아닌데 이제 막 깜짝 서프라이스 식으로",
+			"dialect_form": "아니면 아무 날도 아닌데 이제 막 깜짝 서프라이스 식으로",
+			"speaker_id": "1",
+			"start": 193.21,
+			"end": 199.13,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "아니면",
+					"standard": "아니면",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "아무",
+					"standard": "아무",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "날도",
+					"standard": "날도",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "아닌데",
+					"standard": "아닌데",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "이제",
+					"standard": "이제",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "막",
+					"standard": "막",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "깜짝",
+					"standard": "깜짝",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "서프라이스",
+					"standard": "서프라이스",
+					"isDialect": false
+				},
+				{
+					"id": 9,
+					"eojeol": "식으로",
+					"standard": "식으로",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.37",
+			"form": "받는 그런 그~ 감동 감동을 주는 거",
+			"standard_form": "받는 그런 그~ 감동 감동을 주는 거",
+			"dialect_form": "받는 그런 그~ 감동 감동을 주는 거",
+			"speaker_id": "1",
+			"start": 199.13,
+			"end": 204.69,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "받는",
+					"standard": "받는",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "그런",
+					"standard": "그런",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "그~",
+					"standard": "그~",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "감동",
+					"standard": "감동",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "감동을",
+					"standard": "감동을",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "주는",
+					"standard": "주는",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "거",
+					"standard": "거",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.38",
+			"form": "어떤 종류의 선물을 제일 많이 받아보셨어요?",
+			"standard_form": "어떤 종류의 선물을 제일 많이 받아보셨어요?",
+			"dialect_form": "어떤 종류의 선물을 제일 많이 받아보셨어요?",
+			"speaker_id": "1",
+			"start": 204.69,
+			"end": 210.19,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "어떤",
+					"standard": "어떤",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "종류의",
+					"standard": "종류의",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "선물을",
+					"standard": "선물을",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "제일",
+					"standard": "제일",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "많이",
+					"standard": "많이",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "받아보셨어요?",
+					"standard": "받아보셨어요?",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.39",
+			"form": "저는 일단 어~",
+			"standard_form": "저는 일단 어~",
+			"dialect_form": "저는 일단 어~",
+			"speaker_id": "2",
+			"start": 210.19,
+			"end": 214.72,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "저는",
+					"standard": "저는",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "일단",
+					"standard": "일단",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "어~",
+					"standard": "어~",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.40",
+			"form": "블루투스 이어폰을 선물로 많이 받았어요.",
+			"standard_form": "블루투스 이어폰을 선물로 많이 받았어요.",
+			"dialect_form": "블루투스 이어폰을 선물로 많이 받았어요.",
+			"speaker_id": "2",
+			"start": 214.72,
+			"end": 220.07,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "블루투스",
+					"standard": "블루투스",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "이어폰을",
+					"standard": "이어폰을",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "선물로",
+					"standard": "선물로",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "많이",
+					"standard": "많이",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "받았어요.",
+					"standard": "받았어요.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.41",
+			"form": "블루투스 이어폰을 자주 사용하시나요?",
+			"standard_form": "블루투스 이어폰을 자주 사용하시나요?",
+			"dialect_form": "블루투스 이어폰을 자주 사용하시나요?",
+			"speaker_id": "1",
+			"start": 220.07,
+			"end": 225.26,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "블루투스",
+					"standard": "블루투스",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "이어폰을",
+					"standard": "이어폰을",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "자주",
+					"standard": "자주",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "사용하시나요?",
+					"standard": "사용하시나요?",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.42",
+			"form": "저 같은 경우에는 자주 사용하죠.",
+			"standard_form": "저 같은 경우에는 자주 사용하죠.",
+			"dialect_form": "저 같은 경우에는 자주 사용하죠.",
+			"speaker_id": "2",
+			"start": 225.26,
+			"end": 231.36,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "저",
+					"standard": "저",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "같은",
+					"standard": "같은",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "경우에는",
+					"standard": "경우에는",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "자주",
+					"standard": "자주",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "사용하죠.",
+					"standard": "사용하죠.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.43",
+			"form": "(()) 출근할 때나 이제 어디 갈 때",
+			"standard_form": "(()) 출근할 때나 이제 어디 갈 때",
+			"dialect_form": "(()) 출근할 때나 이제 어디 갈 때",
+			"speaker_id": "2",
+			"start": 231.36,
+			"end": 236.41,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "(())",
+					"standard": "(())",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "출근할",
+					"standard": "출근할",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "때나",
+					"standard": "때나",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "이제",
+					"standard": "이제",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "어디",
+					"standard": "어디",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "갈",
+					"standard": "갈",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "때",
+					"standard": "때",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.44",
+			"form": "자주 인제 음악 같은 거 듣기 때문에 되게",
+			"standard_form": "자주 인제 음악 같은 거 듣기 때문에 되게",
+			"dialect_form": "자주 인제 음악 같은 거 듣기 때문에 되게",
+			"speaker_id": "2",
+			"start": 236.41,
+			"end": 241.57,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "자주",
+					"standard": "자주",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "인제",
+					"standard": "인제",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "음악",
+					"standard": "음악",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "같은",
+					"standard": "같은",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "거",
+					"standard": "거",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "듣기",
+					"standard": "듣기",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "때문에",
+					"standard": "때문에",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "되게",
+					"standard": "되게",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.45",
+			"form": "되게 편합니다.",
+			"standard_form": "되게 편합니다.",
+			"dialect_form": "되게 편합니다.",
+			"speaker_id": "2",
+			"start": 241.57,
+			"end": 245.65,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "되게",
+					"standard": "되게",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "편합니다.",
+					"standard": "편합니다.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.46",
+			"form": "음~ 그러면 되게",
+			"standard_form": "음~ 그러면 되게",
+			"dialect_form": "음~ 그러면 되게",
+			"speaker_id": "1",
+			"start": 245.65,
+			"end": 248.23,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "음~",
+					"standard": "음~",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "그러면",
+					"standard": "그러면",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "되게",
+					"standard": "되게",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.47",
+			"form": "일상 생활에 도움이 많이 되는 선물을 받으셨네요.",
+			"standard_form": "일상 생활에 도움이 많이 되는 선물을 받으셨네요.",
+			"dialect_form": "일상 생활에 도움이 많이 되는 선물을 받으셨네요.",
+			"speaker_id": "1",
+			"start": 248.23,
+			"end": 254.39,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "일상",
+					"standard": "일상",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "생활에",
+					"standard": "생활에",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "도움이",
+					"standard": "도움이",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "많이",
+					"standard": "많이",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "되는",
+					"standard": "되는",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "선물을",
+					"standard": "선물을",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "받으셨네요.",
+					"standard": "받으셨네요.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.48",
+			"form": "네 (()) 저는 제 인생에서 뭔가",
+			"standard_form": "네 (()) 저는 제 인생에서 뭔가",
+			"dialect_form": "네 (()) 저는 제 인생에서 뭔가",
+			"speaker_id": "2",
+			"start": 254.39,
+			"end": 259.25,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "네",
+					"standard": "네",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "(())",
+					"standard": "(())",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "저는",
+					"standard": "저는",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "제",
+					"standard": "제",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "인생에서",
+					"standard": "인생에서",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "뭔가",
+					"standard": "뭔가",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.49",
+			"form": "그런 선물을 받아서 너무 좋은 거 같애요 특히",
+			"standard_form": "그런 선물을 받아서 너무 좋은 거 같애요 특히",
+			"dialect_form": "그런 선물을 받아서 너무 좋은 거 같애요 특히",
+			"speaker_id": "2",
+			"start": 259.25,
+			"end": 263.47,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "그런",
+					"standard": "그런",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "선물을",
+					"standard": "선물을",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "받아서",
+					"standard": "받아서",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "너무",
+					"standard": "너무",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "좋은",
+					"standard": "좋은",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "거",
+					"standard": "거",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "같애요",
+					"standard": "같애요",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "특히",
+					"standard": "특히",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.50",
+			"form": "편하기도 하고 이제 @이름1 님은 어떤 사람들이",
+			"standard_form": "편하기도 하고 이제 &name1& 님은 어떤 사람들이",
+			"dialect_form": "편하기도 하고 이제 &name1& 님은 어떤 사람들이",
+			"speaker_id": "2",
+			"start": 263.47,
+			"end": 268.99,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "편하기도",
+					"standard": "편하기도",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "하고",
+					"standard": "하고",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "이제",
+					"standard": "이제",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "&name1&",
+					"standard": "&name1&",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "님은",
+					"standard": "님은",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "어떤",
+					"standard": "어떤",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "사람들이",
+					"standard": "사람들이",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.51",
+			"form": "선물을 제일 많이 제일 제일 많이 받아보셨나요?",
+			"standard_form": "선물을 제일 많이 제일 제일 많이 받아보셨나요?",
+			"dialect_form": "선물을 제일 많이 제일 제일 많이 받아보셨나요?",
+			"speaker_id": "2",
+			"start": 268.99,
+			"end": 274.31,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "선물을",
+					"standard": "선물을",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "제일",
+					"standard": "제일",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "많이",
+					"standard": "많이",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "제일",
+					"standard": "제일",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "제일",
+					"standard": "제일",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "많이",
+					"standard": "많이",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "받아보셨나요?",
+					"standard": "받아보셨나요?",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.52",
+			"form": "어떤 사람한테 선물을 제일 많이 받아봤냐구요?",
+			"standard_form": "어떤 사람한테 선물을 제일 많이 받아봤냐구요?",
+			"dialect_form": "어떤 사람한테 선물을 제일 많이 받아봤냐구요?",
+			"speaker_id": "1",
+			"start": 274.31,
+			"end": 279.68,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "어떤",
+					"standard": "어떤",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "사람한테",
+					"standard": "사람한테",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "선물을",
+					"standard": "선물을",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "제일",
+					"standard": "제일",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "많이",
+					"standard": "많이",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "받아봤냐구요?",
+					"standard": "받아봤냐구요?",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.53",
+			"form": "네.",
+			"standard_form": "네.",
+			"dialect_form": "네.",
+			"speaker_id": "2",
+			"start": 279.68,
+			"end": 284.8,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "네.",
+					"standard": "네.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.54",
+			"form": "저는 제일 친한 친구가 있는데",
+			"standard_form": "저는 제일 친한 친구가 있는데",
+			"dialect_form": "저는 제일 친한 친구가 있는데",
+			"speaker_id": "2",
+			"start": 284.8,
+			"end": 288.8,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "저는",
+					"standard": "저는",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "제일",
+					"standard": "제일",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "친한",
+					"standard": "친한",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "친구가",
+					"standard": "친구가",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "있는데",
+					"standard": "있는데",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.55",
+			"form": "그 친구한테 제일 많이 받은 거 같애요.",
+			"standard_form": "그 친구한테 제일 많이 받은 거 같애요.",
+			"dialect_form": "그 친구한테 제일 많이 받은 거 같애요.",
+			"speaker_id": "2",
+			"start": 288.8,
+			"end": 292.26,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "그",
+					"standard": "그",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "친구한테",
+					"standard": "친구한테",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "제일",
+					"standard": "제일",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "많이",
+					"standard": "많이",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "받은",
+					"standard": "받은",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "거",
+					"standard": "거",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "같애요.",
+					"standard": "같애요.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.56",
+			"form": "혹시 추억하시면 떠 어~ 기억에 남는",
+			"standard_form": "혹시 추억하시면 떠 어~ 기억에 남는",
+			"dialect_form": "혹시 추억하시면 떠 어~ 기억에 남는",
+			"speaker_id": "2",
+			"start": 292.26,
+			"end": 297.27,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "혹시",
+					"standard": "혹시",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "추억하시면",
+					"standard": "추억하시면",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "떠",
+					"standard": "떠",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "어~",
+					"standard": "어~",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "기억에",
+					"standard": "기억에",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "남는",
+					"standard": "남는",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.57",
+			"form": "좋은 추억이 있으신가요?",
+			"standard_form": "좋은 추억이 있으신가요?",
+			"dialect_form": "좋은 추억이 있으신가요?",
+			"speaker_id": "2",
+			"start": 297.27,
+			"end": 302.19,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "좋은",
+					"standard": "좋은",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "추억이",
+					"standard": "추억이",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "있으신가요?",
+					"standard": "있으신가요?",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.58",
+			"form": "저는 추억 중에",
+			"standard_form": "저는 추억 중에",
+			"dialect_form": "저는 추억 중에",
+			"speaker_id": "2",
+			"start": 302.19,
+			"end": 307.24,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "저는",
+					"standard": "저는",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "추억",
+					"standard": "추억",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "중에",
+					"standard": "중에",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.59",
+			"form": "-친구- 친구들이 제 이벤트나 여러 가지 인제",
+			"standard_form": "-친구- 친구들이 제 이벤트나 여러 가지 인제",
+			"dialect_form": "-친구- 친구들이 제 이벤트나 여러 가지 인제",
+			"speaker_id": "2",
+			"start": 307.24,
+			"end": 313.33,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "-친구-",
+					"standard": "-친구-",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "친구들이",
+					"standard": "친구들이",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "제",
+					"standard": "제",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "이벤트나",
+					"standard": "이벤트나",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "여러",
+					"standard": "여러",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "가지",
+					"standard": "가지",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "인제",
+					"standard": "인제",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.60",
+			"form": "특히 핸드크림 같은 핸드크림을 많이 선물 받았거든요.",
+			"standard_form": "특히 핸드크림 같은 핸드크림을 많이 선물 받았거든요.",
+			"dialect_form": "특히 핸드크림 같은 핸드크림을 많이 선물 받았거든요.",
+			"speaker_id": "2",
+			"start": 313.33,
+			"end": 319.37,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "특히",
+					"standard": "특히",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "핸드크림",
+					"standard": "핸드크림",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "같은",
+					"standard": "같은",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "핸드크림을",
+					"standard": "핸드크림을",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "많이",
+					"standard": "많이",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "선물",
+					"standard": "선물",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "받았거든요.",
+					"standard": "받았거든요.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.61",
+			"form": "그래서 그게 제일 추억에 남아요 친구들이 너무 저한테",
+			"standard_form": "그래서 그게 제일 추억에 남아요 친구들이 너무 저한테",
+			"dialect_form": "그래서 그게 제일 추억에 남아요 친구들이 너무 저한테",
+			"speaker_id": "2",
+			"start": 319.37,
+			"end": 324.12,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "그래서",
+					"standard": "그래서",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "그게",
+					"standard": "그게",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "제일",
+					"standard": "제일",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "추억에",
+					"standard": "추억에",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "남아요",
+					"standard": "남아요",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "친구들이",
+					"standard": "친구들이",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "너무",
+					"standard": "너무",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "저한테",
+					"standard": "저한테",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.62",
+			"form": "잘해주기도 잘해줘서 친구들이 그 선물을 저한테 많이 (())",
+			"standard_form": "잘해주기도 잘해줘서 친구들이 그 선물을 저한테 많이 (())",
+			"dialect_form": "잘해주기도 잘해줘서 친구들이 그 선물을 저한테 많이 (())",
+			"speaker_id": "2",
+			"start": 324.12,
+			"end": 329.55,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "잘해주기도",
+					"standard": "잘해주기도",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "잘해줘서",
+					"standard": "잘해줘서",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "친구들이",
+					"standard": "친구들이",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "그",
+					"standard": "그",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "선물을",
+					"standard": "선물을",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "저한테",
+					"standard": "저한테",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "많이",
+					"standard": "많이",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "(())",
+					"standard": "(())",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.63",
+			"form": "핸드크림 선물을 많이 받아서 그게 제일 기억이",
+			"standard_form": "핸드크림 선물을 많이 받아서 그게 제일 기억이",
+			"dialect_form": "핸드크림 선물을 많이 받아서 그게 제일 기억이",
+			"speaker_id": "2",
+			"start": 329.55,
+			"end": 334.28,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "핸드크림",
+					"standard": "핸드크림",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "선물을",
+					"standard": "선물을",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "많이",
+					"standard": "많이",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "받아서",
+					"standard": "받아서",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "그게",
+					"standard": "그게",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "제일",
+					"standard": "제일",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "기억이",
+					"standard": "기억이",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.64",
+			"form": "제일 되게 기분이 최고였습니다.",
+			"standard_form": "제일 되게 기분이 최고였습니다.",
+			"dialect_form": "제일 되게 기분이 최고였습니다.",
+			"speaker_id": "2",
+			"start": 334.28,
+			"end": 339.04,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "제일",
+					"standard": "제일",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "되게",
+					"standard": "되게",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "기분이",
+					"standard": "기분이",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "최고였습니다.",
+					"standard": "최고였습니다.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.65",
+			"form": "손을 많이 쓰시는 일을 하시나요?",
+			"standard_form": "손을 많이 쓰시는 일을 하시나요?",
+			"dialect_form": "손을 많이 쓰시는 일을 하시나요?",
+			"speaker_id": "1",
+			"start": 339.04,
+			"end": 345.05,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "손을",
+					"standard": "손을",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "많이",
+					"standard": "많이",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "쓰시는",
+					"standard": "쓰시는",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "일을",
+					"standard": "일을",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "하시나요?",
+					"standard": "하시나요?",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.66",
+			"form": "네 저는 손 쓰는 일을 많이 해서 손이 자주",
+			"standard_form": "네 저는 손 쓰는 일을 많이 해서 손이 자주",
+			"dialect_form": "네 저는 손 쓰는 일을 많이 해서 손이 자주",
+			"speaker_id": "2",
+			"start": 345.05,
+			"end": 352.34,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "네",
+					"standard": "네",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "저는",
+					"standard": "저는",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "손",
+					"standard": "손",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "쓰는",
+					"standard": "쓰는",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "일을",
+					"standard": "일을",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "많이",
+					"standard": "많이",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "해서",
+					"standard": "해서",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "손이",
+					"standard": "손이",
+					"isDialect": false
+				},
+				{
+					"id": 9,
+					"eojeol": "자주",
+					"standard": "자주",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.67",
+			"form": "터요 그래서 항상 핸드크림을 바르고 다녀",
+			"standard_form": "터요 그래서 항상 핸드크림을 바르고 다녀",
+			"dialect_form": "터요 그래서 항상 핸드크림을 바르고 다녀",
+			"speaker_id": "2",
+			"start": 352.34,
+			"end": 356.87,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "터요",
+					"standard": "터요",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "그래서",
+					"standard": "그래서",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "항상",
+					"standard": "항상",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "핸드크림을",
+					"standard": "핸드크림을",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "바르고",
+					"standard": "바르고",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "다녀",
+					"standard": "다녀",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.68",
+			"form": "바르고 다녀요 그럼 @이름1 님은",
+			"standard_form": "바르고 다녀요 그럼 &name1& 님은",
+			"dialect_form": "바르고 다녀요 그럼 &name1& 님은",
+			"speaker_id": "2",
+			"start": 356.87,
+			"end": 362.25,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "바르고",
+					"standard": "바르고",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "다녀요",
+					"standard": "다녀요",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "그럼",
+					"standard": "그럼",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "&name1&",
+					"standard": "&name1&",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "님은",
+					"standard": "님은",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.69",
+			"form": "@이름1 @이름1 님도 추억이 있을 텐데",
+			"standard_form": "&name1& &name1& 님도 추억이 있을 텐데",
+			"dialect_form": "&name1& &name1& 님도 추억이 있을 텐데",
+			"speaker_id": "2",
+			"start": 362.25,
+			"end": 367.14,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "&name1&",
+					"standard": "&name1&",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "&name1&",
+					"standard": "&name1&",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "님도",
+					"standard": "님도",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "추억이",
+					"standard": "추억이",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "있을",
+					"standard": "있을",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "텐데",
+					"standard": "텐데",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.70",
+			"form": "어떤 게 제 어떤 게 어떤 추억이 어떤 추억이셨나요?",
+			"standard_form": "어떤 게 제 어떤 게 어떤 추억이 어떤 추억이셨나요?",
+			"dialect_form": "어떤 게 제 어떤 게 어떤 추억이 어떤 추억이셨나요?",
+			"speaker_id": "2",
+			"start": 367.14,
+			"end": 373.33,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "어떤",
+					"standard": "어떤",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "게",
+					"standard": "게",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "제",
+					"standard": "제",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "어떤",
+					"standard": "어떤",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "게",
+					"standard": "게",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "어떤",
+					"standard": "어떤",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "추억이",
+					"standard": "추억이",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "어떤",
+					"standard": "어떤",
+					"isDialect": false
+				},
+				{
+					"id": 9,
+					"eojeol": "추억이셨나요?",
+					"standard": "추억이셨나요?",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.71",
+			"form": "추억하면 제일 생각나는 거는",
+			"standard_form": "추억하면 제일 생각나는 거는",
+			"dialect_form": "추억하면 제일 생각나는 거는",
+			"speaker_id": "1",
+			"start": 373.33,
+			"end": 379.18,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "추억하면",
+					"standard": "추억하면",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "제일",
+					"standard": "제일",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "생각나는",
+					"standard": "생각나는",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "거는",
+					"standard": "거는",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.72",
+			"form": "이제 친구들하고 같이 간 여행",
+			"standard_form": "이제 친구들하고 같이 간 여행",
+			"dialect_form": "이제 친구들하고 같이 간 여행",
+			"speaker_id": "1",
+			"start": 379.18,
+			"end": 384.14,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "이제",
+					"standard": "이제",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "친구들하고",
+					"standard": "친구들하고",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "같이",
+					"standard": "같이",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "간",
+					"standard": "간",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "여행",
+					"standard": "여행",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.73",
+			"form": "요즘에는 여행을 많이 못 가니까",
+			"standard_form": "요즘에는 여행을 많이 못 가니까",
+			"dialect_form": "요즘에는 여행을 많이 못 가니까",
+			"speaker_id": "1",
+			"start": 384.14,
+			"end": 389.11,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "요즘에는",
+					"standard": "요즘에는",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "여행을",
+					"standard": "여행을",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "많이",
+					"standard": "많이",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "못",
+					"standard": "못",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "가니까",
+					"standard": "가니까",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.74",
+			"form": "예전에 갔던 그~ 여행에 대한 추억이 생각이 많이 나더라구요.",
+			"standard_form": "예전에 갔던 그~ 여행에 대한 추억이 생각이 많이 나더라구요.",
+			"dialect_form": "예전에 갔던 그~ 여행에 대한 추억이 생각이 많이 나더라구요.",
+			"speaker_id": "1",
+			"start": 389.11,
+			"end": 394.85,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "예전에",
+					"standard": "예전에",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "갔던",
+					"standard": "갔던",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "그~",
+					"standard": "그~",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "여행에",
+					"standard": "여행에",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "대한",
+					"standard": "대한",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "추억이",
+					"standard": "추억이",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "생각이",
+					"standard": "생각이",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "많이",
+					"standard": "많이",
+					"isDialect": false
+				},
+				{
+					"id": 9,
+					"eojeol": "나더라구요.",
+					"standard": "나더라구요.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.75",
+			"form": "그러면 친구들이랑 여행 갔을 때 선물을 선물 같은 거 받았던",
+			"standard_form": "그러면 친구들이랑 여행 갔을 때 선물을 선물 같은 거 받았던",
+			"dialect_form": "그러면 친구들이랑 여행 갔을 때 선물을 선물 같은 거 받았던",
+			"speaker_id": "2",
+			"start": 394.85,
+			"end": 401.65,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "그러면",
+					"standard": "그러면",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "친구들이랑",
+					"standard": "친구들이랑",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "여행",
+					"standard": "여행",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "갔을",
+					"standard": "갔을",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "때",
+					"standard": "때",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "선물을",
+					"standard": "선물을",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "선물",
+					"standard": "선물",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "같은",
+					"standard": "같은",
+					"isDialect": false
+				},
+				{
+					"id": 9,
+					"eojeol": "거",
+					"standard": "거",
+					"isDialect": false
+				},
+				{
+					"id": 10,
+					"eojeol": "받았던",
+					"standard": "받았던",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.76",
+			"form": "선물 같은 거는 그렇게 받아보셨나요?",
+			"standard_form": "선물 같은 거는 그렇게 받아보셨나요?",
+			"dialect_form": "선물 같은 거는 그렇게 받아보셨나요?",
+			"speaker_id": "2",
+			"start": 401.65,
+			"end": 406.43,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "선물",
+					"standard": "선물",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "같은",
+					"standard": "같은",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "거는",
+					"standard": "거는",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "그렇게",
+					"standard": "그렇게",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "받아보셨나요?",
+					"standard": "받아보셨나요?",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.77",
+			"form": "저희는 여행 가면 먹방을 찍으러 가 @웃음 거의 그렇게 가서",
+			"standard_form": "저희는 여행 가면 먹방을 찍으러 가 {laughing} 거의 그렇게 가서",
+			"dialect_form": "저희는 여행 가면 먹방을 찍으러 가 {laughing} 거의 그렇게 가서",
+			"speaker_id": "1",
+			"start": 406.43,
+			"end": 412.86,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "저희는",
+					"standard": "저희는",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "여행",
+					"standard": "여행",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "가면",
+					"standard": "가면",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "먹방을",
+					"standard": "먹방을",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "찍으러",
+					"standard": "찍으러",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "가",
+					"standard": "가",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "{laughing}",
+					"standard": "{laughing}",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "거의",
+					"standard": "거의",
+					"isDialect": false
+				},
+				{
+					"id": 9,
+					"eojeol": "그렇게",
+					"standard": "그렇게",
+					"isDialect": false
+				},
+				{
+					"id": 10,
+					"eojeol": "가서",
+					"standard": "가서",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.78",
+			"form": "여행 가서 선물을 주고받은 적은 없던 거 같아요.",
+			"standard_form": "여행 가서 선물을 주고받은 적은 없던 거 같아요.",
+			"dialect_form": "여행 가서 선물을 주고받은 적은 없던 거 같아요.",
+			"speaker_id": "1",
+			"start": 412.86,
+			"end": 416.81,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "여행",
+					"standard": "여행",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "가서",
+					"standard": "가서",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "선물을",
+					"standard": "선물을",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "주고받은",
+					"standard": "주고받은",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "적은",
+					"standard": "적은",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "없던",
+					"standard": "없던",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "거",
+					"standard": "거",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "같아요.",
+					"standard": "같아요.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.79",
+			"form": "그냥 가서 재밌게 웃고 떠들고 막",
+			"standard_form": "그냥 가서 재밌게 웃고 떠들고 막",
+			"dialect_form": "그냥 가서 재밌게 웃고 떠들고 막",
+			"speaker_id": "1",
+			"start": 416.81,
+			"end": 421.58,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "그냥",
+					"standard": "그냥",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "가서",
+					"standard": "가서",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "재밌게",
+					"standard": "재밌게",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "웃고",
+					"standard": "웃고",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "떠들고",
+					"standard": "떠들고",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "막",
+					"standard": "막",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.80",
+			"form": "그~ 일상 생활에서 막 쌓인 스트레스를 (이케)/(이렇게)",
+			"standard_form": "그~ 일상 생활에서 막 쌓인 스트레스를 이렇게",
+			"dialect_form": "그~ 일상 생활에서 막 쌓인 스트레스를 이케",
+			"speaker_id": "1",
+			"start": 421.58,
+			"end": 428.01,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "그~",
+					"standard": "그~",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "일상",
+					"standard": "일상",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "생활에서",
+					"standard": "생활에서",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "막",
+					"standard": "막",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "쌓인",
+					"standard": "쌓인",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "스트레스를",
+					"standard": "스트레스를",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "이케",
+					"standard": "이렇게",
+					"isDialect": true
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.81",
+			"form": "풀러 가는 거니까 여행 가셨을 때",
+			"standard_form": "풀러 가는 거니까 여행 가셨을 때",
+			"dialect_form": "풀러 가는 거니까 여행 가셨을 때",
+			"speaker_id": "1",
+			"start": 428.01,
+			"end": 433.27,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "풀러",
+					"standard": "풀러",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "가는",
+					"standard": "가는",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "거니까",
+					"standard": "거니까",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "여행",
+					"standard": "여행",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "가셨을",
+					"standard": "가셨을",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "때",
+					"standard": "때",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.82",
+			"form": "받으신 선물 있으세요?",
+			"standard_form": "받으신 선물 있으세요?",
+			"dialect_form": "받으신 선물 있으세요?",
+			"speaker_id": "1",
+			"start": 433.27,
+			"end": 438.32,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "받으신",
+					"standard": "받으신",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "선물",
+					"standard": "선물",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "있으세요?",
+					"standard": "있으세요?",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.83",
+			"form": "저도 저는 여행 가서",
+			"standard_form": "저도 저는 여행 가서",
+			"dialect_form": "저도 저는 여행 가서",
+			"speaker_id": "2",
+			"start": 438.32,
+			"end": 442.82,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "저도",
+					"standard": "저도",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "저는",
+					"standard": "저는",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "여행",
+					"standard": "여행",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "가서",
+					"standard": "가서",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.84",
+			"form": "(()) 여행 가면 전 여자 친구가 여자 친구가 이제",
+			"standard_form": "(()) 여행 가면 전 여자 친구가 여자 친구가 이제",
+			"dialect_form": "(()) 여행 가면 전 여자 친구가 여자 친구가 이제",
+			"speaker_id": "2",
+			"start": 442.82,
+			"end": 448.48,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "(())",
+					"standard": "(())",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "여행",
+					"standard": "여행",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "가면",
+					"standard": "가면",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "전",
+					"standard": "전",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "여자",
+					"standard": "여자",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "친구가",
+					"standard": "친구가",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "여자",
+					"standard": "여자",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "친구가",
+					"standard": "친구가",
+					"isDialect": false
+				},
+				{
+					"id": 9,
+					"eojeol": "이제",
+					"standard": "이제",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.85",
+			"form": "편지 편지나 선물보다 편지 같은 걸",
+			"standard_form": "편지 편지나 선물보다 편지 같은 걸",
+			"dialect_form": "편지 편지나 선물보다 편지 같은 걸",
+			"speaker_id": "2",
+			"start": 448.48,
+			"end": 454.39,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "편지",
+					"standard": "편지",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "편지나",
+					"standard": "편지나",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "선물보다",
+					"standard": "선물보다",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "편지",
+					"standard": "편지",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "같은",
+					"standard": "같은",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "걸",
+					"standard": "걸",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.86",
+			"form": "많이 (()) 줬거든요 그래서 되게 그게",
+			"standard_form": "많이 (()) 줬거든요 그래서 되게 그게",
+			"dialect_form": "많이 (()) 줬거든요 그래서 되게 그게",
+			"speaker_id": "2",
+			"start": 454.39,
+			"end": 459.66,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "많이",
+					"standard": "많이",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "(())",
+					"standard": "(())",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "줬거든요",
+					"standard": "줬거든요",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "그래서",
+					"standard": "그래서",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "되게",
+					"standard": "되게",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "그게",
+					"standard": "그게",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.87",
+			"form": "뜻깊었던 거 같애요 제 인생에 있어서",
+			"standard_form": "뜻깊었던 거 같애요 제 인생에 있어서",
+			"dialect_form": "뜻깊었던 거 같애요 제 인생에 있어서",
+			"speaker_id": "2",
+			"start": 459.66,
+			"end": 464.31,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "뜻깊었던",
+					"standard": "뜻깊었던",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "거",
+					"standard": "거",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "같애요",
+					"standard": "같애요",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "제",
+					"standard": "제",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "인생에",
+					"standard": "인생에",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "있어서",
+					"standard": "있어서",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.88",
+			"form": "어~ 손편지란 게 이게 참",
+			"standard_form": "어~ 손편지란 게 이게 참",
+			"dialect_form": "어~ 손편지란 게 이게 참",
+			"speaker_id": "2",
+			"start": 464.31,
+			"end": 469.48,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "어~",
+					"standard": "어~",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "손편지란",
+					"standard": "손편지란",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "게",
+					"standard": "게",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "이게",
+					"standard": "이게",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "참",
+					"standard": "참",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.89",
+			"form": "저는 기분이 좋았습니다.",
+			"standard_form": "저는 기분이 좋았습니다.",
+			"dialect_form": "저는 기분이 좋았습니다.",
+			"speaker_id": "2",
+			"start": 469.48,
+			"end": 471.75,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "저는",
+					"standard": "저는",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "기분이",
+					"standard": "기분이",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "좋았습니다.",
+					"standard": "좋았습니다.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.90",
+			"form": "그러면 어~ @이름1 같은 경우에는",
+			"standard_form": "그러면 어~ &name1& 같은 경우에는",
+			"dialect_form": "그러면 어~ &name1& 같은 경우에는",
+			"speaker_id": "2",
+			"start": 471.75,
+			"end": 476.01,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "그러면",
+					"standard": "그러면",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "어~",
+					"standard": "어~",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "&name1&",
+					"standard": "&name1&",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "같은",
+					"standard": "같은",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "경우에는",
+					"standard": "경우에는",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.91",
+			"form": "기념 아 기념일이 기념일 같은 걸 많이",
+			"standard_form": "기념 아 기념일이 기념일 같은 걸 많이",
+			"dialect_form": "기념 아 기념일이 기념일 같은 걸 많이",
+			"speaker_id": "2",
+			"start": 476.01,
+			"end": 481.65,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "기념",
+					"standard": "기념",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "아",
+					"standard": "아",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "기념일이",
+					"standard": "기념일이",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "기념일",
+					"standard": "기념일",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "같은",
+					"standard": "같은",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "걸",
+					"standard": "걸",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "많이",
+					"standard": "많이",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.92",
+			"form": "기념일 기념일 날 이렇게 -선- 선물이나 아니면",
+			"standard_form": "기념일 기념일 날 이렇게 -선- 선물이나 아니면",
+			"dialect_form": "기념일 기념일 날 이렇게 -선- 선물이나 아니면",
+			"speaker_id": "2",
+			"start": 481.65,
+			"end": 488.3,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "기념일",
+					"standard": "기념일",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "기념일",
+					"standard": "기념일",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "날",
+					"standard": "날",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "이렇게",
+					"standard": "이렇게",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "-선-",
+					"standard": "-선-",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "선물이나",
+					"standard": "선물이나",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "아니면",
+					"standard": "아니면",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.93",
+			"form": "누구 챙겨주신 적 있나요?",
+			"standard_form": "누구 챙겨주신 적 있나요?",
+			"dialect_form": "누구 챙겨주신 적 있나요?",
+			"speaker_id": "2",
+			"start": 488.3,
+			"end": 492.42,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "누구",
+					"standard": "누구",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "챙겨주신",
+					"standard": "챙겨주신",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "적",
+					"standard": "적",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "있나요?",
+					"standard": "있나요?",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.94",
+			"form": "저는 아직 남자 친구랑 기념일을 보내본 적이 없어서",
+			"standard_form": "저는 아직 남자 친구랑 기념일을 보내본 적이 없어서",
+			"dialect_form": "저는 아직 남자 친구랑 기념일을 보내본 적이 없어서",
+			"speaker_id": "1",
+			"start": 492.42,
+			"end": 497.88,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "저는",
+					"standard": "저는",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "아직",
+					"standard": "아직",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "남자",
+					"standard": "남자",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "친구랑",
+					"standard": "친구랑",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "기념일을",
+					"standard": "기념일을",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "보내본",
+					"standard": "보내본",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "적이",
+					"standard": "적이",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "없어서",
+					"standard": "없어서",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.95",
+			"form": "거의 생일 날 그냥 친구들이",
+			"standard_form": "거의 생일 날 그냥 친구들이",
+			"dialect_form": "거의 생일 날 그냥 친구들이",
+			"speaker_id": "1",
+			"start": 497.88,
+			"end": 502.54,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "거의",
+					"standard": "거의",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "생일",
+					"standard": "생일",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "날",
+					"standard": "날",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "그냥",
+					"standard": "그냥",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "친구들이",
+					"standard": "친구들이",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.96",
+			"form": "저 많이 챙겨주고 특별한 기념일은",
+			"standard_form": "저 많이 챙겨주고 특별한 기념일은",
+			"dialect_form": "저 많이 챙겨주고 특별한 기념일은",
+			"speaker_id": "1",
+			"start": 502.54,
+			"end": 508.76,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "저",
+					"standard": "저",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "많이",
+					"standard": "많이",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "챙겨주고",
+					"standard": "챙겨주고",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "특별한",
+					"standard": "특별한",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "기념일은",
+					"standard": "기념일은",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.97",
+			"form": "생일 말곤 따로 없는 거 같아요.",
+			"standard_form": "생일 말곤 따로 없는 거 같아요.",
+			"dialect_form": "생일 말곤 따로 없는 거 같아요.",
+			"speaker_id": "1",
+			"start": 508.76,
+			"end": 513.81,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "생일",
+					"standard": "생일",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "말곤",
+					"standard": "말곤",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "따로",
+					"standard": "따로",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "없는",
+					"standard": "없는",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "거",
+					"standard": "거",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "같아요.",
+					"standard": "같아요.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.98",
+			"form": "그러면은 특히 친구들이 (()) 챙겨줬을 때",
+			"standard_form": "그러면은 특히 친구들이 (()) 챙겨줬을 때",
+			"dialect_form": "그러면은 특히 친구들이 (()) 챙겨줬을 때",
+			"speaker_id": "2",
+			"start": 513.81,
+			"end": 519.6,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "그러면은",
+					"standard": "그러면은",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "특히",
+					"standard": "특히",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "친구들이",
+					"standard": "친구들이",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "(())",
+					"standard": "(())",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "챙겨줬을",
+					"standard": "챙겨줬을",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "때",
+					"standard": "때",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.99",
+			"form": "어떤 걸 주로 챙겨 주 챙겨 주셨어요?",
+			"standard_form": "어떤 걸 주로 챙겨 주 챙겨 주셨어요?",
+			"dialect_form": "어떤 걸 주로 챙겨 주 챙겨 주셨어요?",
+			"speaker_id": "2",
+			"start": 519.6,
+			"end": 525.74,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "어떤",
+					"standard": "어떤",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "걸",
+					"standard": "걸",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "주로",
+					"standard": "주로",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "챙겨",
+					"standard": "챙겨",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "주",
+					"standard": "주",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "챙겨",
+					"standard": "챙겨",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "주셨어요?",
+					"standard": "주셨어요?",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.100",
+			"form": "저는 이벤트 하면 이제 제가",
+			"standard_form": "저는 이벤트 하면 이제 제가",
+			"dialect_form": "저는 이벤트 하면 이제 제가",
+			"speaker_id": "1",
+			"start": 525.74,
+			"end": 532.83,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "저는",
+					"standard": "저는",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "이벤트",
+					"standard": "이벤트",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "하면",
+					"standard": "하면",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "이제",
+					"standard": "이제",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "제가",
+					"standard": "제가",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.101",
+			"form": "딱 이벤트 받는 걸 되게 좋아해가지고",
+			"standard_form": "딱 이벤트 받는 걸 되게 좋아해가지고",
+			"dialect_form": "딱 이벤트 받는 걸 되게 좋아해가지고",
+			"speaker_id": "1",
+			"start": 532.83,
+			"end": 537.21,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "딱",
+					"standard": "딱",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "이벤트",
+					"standard": "이벤트",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "받는",
+					"standard": "받는",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "걸",
+					"standard": "걸",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "되게",
+					"standard": "되게",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "좋아해가지고",
+					"standard": "좋아해가지고",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.102",
+			"form": "친구들이 되게 (긍까)/(그러니까) 저의",
+			"standard_form": "친구들이 되게 그러니까 저의",
+			"dialect_form": "친구들이 되게 긍까 저의",
+			"speaker_id": "1",
+			"start": 537.21,
+			"end": 542.82,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "친구들이",
+					"standard": "친구들이",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "되게",
+					"standard": "되게",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "긍까",
+					"standard": "그러니까",
+					"isDialect": true
+				},
+				{
+					"id": 4,
+					"eojeol": "저의",
+					"standard": "저의",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.103",
+			"form": "취향에 맞춰서 꽃다발도 준비를 해놓고 막",
+			"standard_form": "취향에 맞춰서 꽃다발도 준비를 해놓고 막",
+			"dialect_form": "취향에 맞춰서 꽃다발도 준비를 해놓고 막",
+			"speaker_id": "1",
+			"start": 542.82,
+			"end": 547.97,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "취향에",
+					"standard": "취향에",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "맞춰서",
+					"standard": "맞춰서",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "꽃다발도",
+					"standard": "꽃다발도",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "준비를",
+					"standard": "준비를",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "해놓고",
+					"standard": "해놓고",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "막",
+					"standard": "막",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.104",
+			"form": "케이크랑 제가 되게 아기자기한 걸 되게 좋아하거든요.",
+			"standard_form": "케이크랑 제가 되게 아기자기한 걸 되게 좋아하거든요.",
+			"dialect_form": "케이크랑 제가 되게 아기자기한 걸 되게 좋아하거든요.",
+			"speaker_id": "1",
+			"start": 547.97,
+			"end": 553.97,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "케이크랑",
+					"standard": "케이크랑",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "제가",
+					"standard": "제가",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "되게",
+					"standard": "되게",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "아기자기한",
+					"standard": "아기자기한",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "걸",
+					"standard": "걸",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "되게",
+					"standard": "되게",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "좋아하거든요.",
+					"standard": "좋아하거든요.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.105",
+			"form": "막 저의 취향에 맞춰서 막 준비해주는",
+			"standard_form": "막 저의 취향에 맞춰서 막 준비해주는",
+			"dialect_form": "막 저의 취향에 맞춰서 막 준비해주는",
+			"speaker_id": "1",
+			"start": 553.97,
+			"end": 559.62,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "막",
+					"standard": "막",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "저의",
+					"standard": "저의",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "취향에",
+					"standard": "취향에",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "맞춰서",
+					"standard": "맞춰서",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "막",
+					"standard": "막",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "준비해주는",
+					"standard": "준비해주는",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.106",
+			"form": "그런 이벤트?",
+			"standard_form": "그런 이벤트?",
+			"dialect_form": "그런 이벤트?",
+			"speaker_id": "1",
+			"start": 559.62,
+			"end": 563.39,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "그런",
+					"standard": "그런",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "이벤트?",
+					"standard": "이벤트?",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.107",
+			"form": "저 같은 경우에는 특히 여자친구나 인제",
+			"standard_form": "저 같은 경우에는 특히 여자친구나 인제",
+			"dialect_form": "저 같은 경우에는 특히 여자친구나 인제",
+			"speaker_id": "2",
+			"start": 563.39,
+			"end": 568.02,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "저",
+					"standard": "저",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "같은",
+					"standard": "같은",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "경우에는",
+					"standard": "경우에는",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "특히",
+					"standard": "특히",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "여자친구나",
+					"standard": "여자친구나",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "인제",
+					"standard": "인제",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.108",
+			"form": "주변 사람들이 되게 많이 챙겨줄 스타일이어가지고",
+			"standard_form": "주변 사람들이 되게 많이 챙겨줄 스타일이어가지고",
+			"dialect_form": "주변 사람들이 되게 많이 챙겨줄 스타일이어가지고",
+			"speaker_id": "2",
+			"start": 568.02,
+			"end": 573.8,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "주변",
+					"standard": "주변",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "사람들이",
+					"standard": "사람들이",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "되게",
+					"standard": "되게",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "많이",
+					"standard": "많이",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "챙겨줄",
+					"standard": "챙겨줄",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "스타일이어가지고",
+					"standard": "스타일이어가지고",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.109",
+			"form": "그래도 그런 선물 받으면 항상 감사하다는 말을 항상 하고 다니거든요.",
+			"standard_form": "그래도 그런 선물 받으면 항상 감사하다는 말을 항상 하고 다니거든요.",
+			"dialect_form": "그래도 그런 선물 받으면 항상 감사하다는 말을 항상 하고 다니거든요.",
+			"speaker_id": "2",
+			"start": 573.8,
+			"end": 579.76,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "그래도",
+					"standard": "그래도",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "그런",
+					"standard": "그런",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "선물",
+					"standard": "선물",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "받으면",
+					"standard": "받으면",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "항상",
+					"standard": "항상",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "감사하다는",
+					"standard": "감사하다는",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "말을",
+					"standard": "말을",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "항상",
+					"standard": "항상",
+					"isDialect": false
+				},
+				{
+					"id": 9,
+					"eojeol": "하고",
+					"standard": "하고",
+					"isDialect": false
+				},
+				{
+					"id": 10,
+					"eojeol": "다니거든요.",
+					"standard": "다니거든요.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.110",
+			"form": "그래서 그런 거 보면은",
+			"standard_form": "그래서 그런 거 보면은",
+			"dialect_form": "그래서 그런 거 보면은",
+			"speaker_id": "2",
+			"start": 579.76,
+			"end": 585.01,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "그래서",
+					"standard": "그래서",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "그런",
+					"standard": "그런",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "거",
+					"standard": "거",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "보면은",
+					"standard": "보면은",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.111",
+			"form": "이게 선물이라는 자체가 그사람",
+			"standard_form": "이게 선물이라는 자체가 그사람",
+			"dialect_form": "이게 선물이라는 자체가 그사람",
+			"speaker_id": "2",
+			"start": 585.01,
+			"end": 590.63,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "이게",
+					"standard": "이게",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "선물이라는",
+					"standard": "선물이라는",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "자체가",
+					"standard": "자체가",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "그사람",
+					"standard": "그사람",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.112",
+			"form": "어~ 그런 사람들의 소소한 행복이다 보니까 아무래도",
+			"standard_form": "어~ 그런 사람들의 소소한 행복이다 보니까 아무래도",
+			"dialect_form": "어~ 그런 사람들의 소소한 행복이다 보니까 아무래도",
+			"speaker_id": "2",
+			"start": 590.63,
+			"end": 594.91,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "어~",
+					"standard": "어~",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "그런",
+					"standard": "그런",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "사람들의",
+					"standard": "사람들의",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "소소한",
+					"standard": "소소한",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "행복이다",
+					"standard": "행복이다",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "보니까",
+					"standard": "보니까",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "아무래도",
+					"standard": "아무래도",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.113",
+			"form": "저는 항상 감사하고 행복해요.",
+			"standard_form": "저는 항상 감사하고 행복해요.",
+			"dialect_form": "저는 항상 감사하고 행복해요.",
+			"speaker_id": "2",
+			"start": 594.91,
+			"end": 599.71,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "저는",
+					"standard": "저는",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "항상",
+					"standard": "항상",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "감사하고",
+					"standard": "감사하고",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "행복해요.",
+					"standard": "행복해요.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.114",
+			"form": "그~ 선물들을 준비한다는 거 자체가",
+			"standard_form": "그~ 선물들을 준비한다는 거 자체가",
+			"dialect_form": "그~ 선물들을 준비한다는 거 자체가",
+			"speaker_id": "1",
+			"start": 599.71,
+			"end": 604.23,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "그~",
+					"standard": "그~",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "선물들을",
+					"standard": "선물들을",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "준비한다는",
+					"standard": "준비한다는",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "거",
+					"standard": "거",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "자체가",
+					"standard": "자체가",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.115",
+			"form": "그 사람을 생각을 하면서 준비를 한다는 그 마음이 되게 이쁘잖아요.",
+			"standard_form": "그 사람을 생각을 하면서 준비를 한다는 그 마음이 되게 이쁘잖아요.",
+			"dialect_form": "그 사람을 생각을 하면서 준비를 한다는 그 마음이 되게 이쁘잖아요.",
+			"speaker_id": "1",
+			"start": 604.23,
+			"end": 608.53,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "그",
+					"standard": "그",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "사람을",
+					"standard": "사람을",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "생각을",
+					"standard": "생각을",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "하면서",
+					"standard": "하면서",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "준비를",
+					"standard": "준비를",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "한다는",
+					"standard": "한다는",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "그",
+					"standard": "그",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "마음이",
+					"standard": "마음이",
+					"isDialect": false
+				},
+				{
+					"id": 9,
+					"eojeol": "되게",
+					"standard": "되게",
+					"isDialect": false
+				},
+				{
+					"id": 10,
+					"eojeol": "이쁘잖아요.",
+					"standard": "이쁘잖아요.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.116",
+			"form": "그래서 더 고마움이 큰 거 같아요.",
+			"standard_form": "그래서 더 고마움이 큰 거 같아요.",
+			"dialect_form": "그래서 더 고마움이 큰 거 같아요.",
+			"speaker_id": "1",
+			"start": 608.53,
+			"end": 611.86,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "그래서",
+					"standard": "그래서",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "더",
+					"standard": "더",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "고마움이",
+					"standard": "고마움이",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "큰",
+					"standard": "큰",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "거",
+					"standard": "거",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "같아요.",
+					"standard": "같아요.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.117",
+			"form": "크리스마스 때는 주로 어떤 선물을 받아보셨어요?",
+			"standard_form": "크리스마스 때는 주로 어떤 선물을 받아보셨어요?",
+			"dialect_form": "크리스마스 때는 주로 어떤 선물을 받아보셨어요?",
+			"speaker_id": "1",
+			"start": 611.86,
+			"end": 619.61,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "크리스마스",
+					"standard": "크리스마스",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "때는",
+					"standard": "때는",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "주로",
+					"standard": "주로",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "어떤",
+					"standard": "어떤",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "선물을",
+					"standard": "선물을",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "받아보셨어요?",
+					"standard": "받아보셨어요?",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.118",
+			"form": "크리스마스날",
+			"standard_form": "크리스마스날",
+			"dialect_form": "크리스마스날",
+			"speaker_id": "2",
+			"start": 619.61,
+			"end": 622.91,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "크리스마스날",
+					"standard": "크리스마스날",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.119",
+			"form": "또 인제 겨울에 인제 롱패팅 같은 선물을 (())",
+			"standard_form": "또 인제 겨울에 인제 롱패팅 같은 선물을 (())",
+			"dialect_form": "또 인제 겨울에 인제 롱패팅 같은 선물을 (())",
+			"speaker_id": "2",
+			"start": 622.91,
+			"end": 629.74,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "또",
+					"standard": "또",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "인제",
+					"standard": "인제",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "겨울에",
+					"standard": "겨울에",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "인제",
+					"standard": "인제",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "롱패팅",
+					"standard": "롱패팅",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "같은",
+					"standard": "같은",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "선물을",
+					"standard": "선물을",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "(())",
+					"standard": "(())",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.120",
+			"form": "받았거든요 춥지만 그거 입고 있으면 그 사람의",
+			"standard_form": "받았거든요 춥지만 그거 입고 있으면 그 사람의",
+			"dialect_form": "받았거든요 춥지만 그거 입고 있으면 그 사람의",
+			"speaker_id": "2",
+			"start": 629.74,
+			"end": 636.77,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "받았거든요",
+					"standard": "받았거든요",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "춥지만",
+					"standard": "춥지만",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "그거",
+					"standard": "그거",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "입고",
+					"standard": "입고",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "있으면",
+					"standard": "있으면",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "그",
+					"standard": "그",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "사람의",
+					"standard": "사람의",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.121",
+			"form": "(()) 어~ 선물을 준비했다는 자체가 되게 의미 있다 생각해요 저는",
+			"standard_form": "(()) 어~ 선물을 준비했다는 자체가 되게 의미 있다 생각해요 저는",
+			"dialect_form": "(()) 어~ 선물을 준비했다는 자체가 되게 의미 있다 생각해요 저는",
+			"speaker_id": "2",
+			"start": 636.77,
+			"end": 643.05,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "(())",
+					"standard": "(())",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "어~",
+					"standard": "어~",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "선물을",
+					"standard": "선물을",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "준비했다는",
+					"standard": "준비했다는",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "자체가",
+					"standard": "자체가",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "되게",
+					"standard": "되게",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "의미",
+					"standard": "의미",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "있다",
+					"standard": "있다",
+					"isDialect": false
+				},
+				{
+					"id": 9,
+					"eojeol": "생각해요",
+					"standard": "생각해요",
+					"isDialect": false
+				},
+				{
+					"id": 10,
+					"eojeol": "저는",
+					"standard": "저는",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.122",
+			"form": "저는 크리스마스날 주로 애들하고 파티를 하거든요.",
+			"standard_form": "저는 크리스마스날 주로 애들하고 파티를 하거든요.",
+			"dialect_form": "저는 크리스마스날 주로 애들하고 파티를 하거든요.",
+			"speaker_id": "1",
+			"start": 643.05,
+			"end": 649.49,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "저는",
+					"standard": "저는",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "크리스마스날",
+					"standard": "크리스마스날",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "주로",
+					"standard": "주로",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "애들하고",
+					"standard": "애들하고",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "파티를",
+					"standard": "파티를",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "하거든요.",
+					"standard": "하거든요.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.123",
+			"form": "알전구 같은 거 달아놓고",
+			"standard_form": "알전구 같은 거 달아놓고",
+			"dialect_form": "알전구 같은 거 달아놓고",
+			"speaker_id": "1",
+			"start": 649.49,
+			"end": 653.0,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "알전구",
+					"standard": "알전구",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "같은",
+					"standard": "같은",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "거",
+					"standard": "거",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "달아놓고",
+					"standard": "달아놓고",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.124",
+			"form": "되게 어릴 때는 산타 할아버지를 기다리는 느낌이었다면",
+			"standard_form": "되게 어릴 때는 산타 할아버지를 기다리는 느낌이었다면",
+			"dialect_form": "되게 어릴 때는 산타 할아버지를 기다리는 느낌이었다면",
+			"speaker_id": "1",
+			"start": 653.0,
+			"end": 657.9,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "되게",
+					"standard": "되게",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "어릴",
+					"standard": "어릴",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "때는",
+					"standard": "때는",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "산타",
+					"standard": "산타",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "할아버지를",
+					"standard": "할아버지를",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "기다리는",
+					"standard": "기다리는",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "느낌이었다면",
+					"standard": "느낌이었다면",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.125",
+			"form": "어른이 되고 나서는 친구들 하고 이제 막",
+			"standard_form": "어른이 되고 나서는 친구들 하고 이제 막",
+			"dialect_form": "어른이 되고 나서는 친구들 하고 이제 막",
+			"speaker_id": "1",
+			"start": 657.9,
+			"end": 662.53,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "어른이",
+					"standard": "어른이",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "되고",
+					"standard": "되고",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "나서는",
+					"standard": "나서는",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "친구들",
+					"standard": "친구들",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "하고",
+					"standard": "하고",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "이제",
+					"standard": "이제",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "막",
+					"standard": "막",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.126",
+			"form": "소소하게 이렇게 이벤트를 하면서",
+			"standard_form": "소소하게 이렇게 이벤트를 하면서",
+			"dialect_form": "소소하게 이렇게 이벤트를 하면서",
+			"speaker_id": "1",
+			"start": 662.53,
+			"end": 667.55,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "소소하게",
+					"standard": "소소하게",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "이렇게",
+					"standard": "이렇게",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "이벤트를",
+					"standard": "이벤트를",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "하면서",
+					"standard": "하면서",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.127",
+			"form": "즐기는",
+			"standard_form": "즐기는",
+			"dialect_form": "즐기는",
+			"speaker_id": "1",
+			"start": 667.55,
+			"end": 671.24,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "즐기는",
+					"standard": "즐기는",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.128",
+			"form": "그러면은 @이름1 님은 -손- 손편지를 받으신 적이 (())",
+			"standard_form": "그러면은 &name1& 님은 -손- 손편지를 받으신 적이 (())",
+			"dialect_form": "그러면은 &name1& 님은 -손- 손편지를 받으신 적이 (())",
+			"speaker_id": "2",
+			"start": 671.24,
+			"end": 678.33,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "그러면은",
+					"standard": "그러면은",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "&name1&",
+					"standard": "&name1&",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "님은",
+					"standard": "님은",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "-손-",
+					"standard": "-손-",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "손편지를",
+					"standard": "손편지를",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "받으신",
+					"standard": "받으신",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "적이",
+					"standard": "적이",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "(())",
+					"standard": "(())",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.129",
+			"form": "네 저는 생일마다 항상 손 편지를 받고",
+			"standard_form": "네 저는 생일마다 항상 손 편지를 받고",
+			"dialect_form": "네 저는 생일마다 항상 손 편지를 받고",
+			"speaker_id": "1",
+			"start": 678.33,
+			"end": 684.47,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "네",
+					"standard": "네",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "저는",
+					"standard": "저는",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "생일마다",
+					"standard": "생일마다",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "항상",
+					"standard": "항상",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "손",
+					"standard": "손",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "편지를",
+					"standard": "편지를",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "받고",
+					"standard": "받고",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.130",
+			"form": "또 친구들 생일마다 아직까지도 손 편지를 제가 써주고 있거든요.",
+			"standard_form": "또 친구들 생일마다 아직까지도 손 편지를 제가 써주고 있거든요.",
+			"dialect_form": "또 친구들 생일마다 아직까지도 손 편지를 제가 써주고 있거든요.",
+			"speaker_id": "1",
+			"start": 684.47,
+			"end": 689.71,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "또",
+					"standard": "또",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "친구들",
+					"standard": "친구들",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "생일마다",
+					"standard": "생일마다",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "아직까지도",
+					"standard": "아직까지도",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "손",
+					"standard": "손",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "편지를",
+					"standard": "편지를",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "제가",
+					"standard": "제가",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "써주고",
+					"standard": "써주고",
+					"isDialect": false
+				},
+				{
+					"id": 9,
+					"eojeol": "있거든요.",
+					"standard": "있거든요.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.131",
+			"form": "인제 많은 많고 막 긴 내용은 아니더라도",
+			"standard_form": "인제 많은 많고 막 긴 내용은 아니더라도",
+			"dialect_form": "인제 많은 많고 막 긴 내용은 아니더라도",
+			"speaker_id": "1",
+			"start": 689.71,
+			"end": 694.38,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "인제",
+					"standard": "인제",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "많은",
+					"standard": "많은",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "많고",
+					"standard": "많고",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "막",
+					"standard": "막",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "긴",
+					"standard": "긴",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "내용은",
+					"standard": "내용은",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "아니더라도",
+					"standard": "아니더라도",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.132",
+			"form": "짧게라도 이제 손 편지로 그나마 축하한다는 말 한마디는 또 써가지고",
+			"standard_form": "짧게라도 이제 손 편지로 그나마 축하한다는 말 한마디는 또 써가지고",
+			"dialect_form": "짧게라도 이제 손 편지로 그나마 축하한다는 말 한마디는 또 써가지고",
+			"speaker_id": "1",
+			"start": 694.38,
+			"end": 699.75,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "짧게라도",
+					"standard": "짧게라도",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "이제",
+					"standard": "이제",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "손",
+					"standard": "손",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "편지로",
+					"standard": "편지로",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "그나마",
+					"standard": "그나마",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "축하한다는",
+					"standard": "축하한다는",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "말",
+					"standard": "말",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "한마디는",
+					"standard": "한마디는",
+					"isDialect": false
+				},
+				{
+					"id": 9,
+					"eojeol": "또",
+					"standard": "또",
+					"isDialect": false
+				},
+				{
+					"id": 10,
+					"eojeol": "써가지고",
+					"standard": "써가지고",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.133",
+			"form": "아직까지도 손 편지는 자주 쓰고 있어요.",
+			"standard_form": "아직까지도 손 편지는 자주 쓰고 있어요.",
+			"dialect_form": "아직까지도 손 편지는 자주 쓰고 있어요.",
+			"speaker_id": "1",
+			"start": 699.75,
+			"end": 703.11,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "아직까지도",
+					"standard": "아직까지도",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "손",
+					"standard": "손",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "편지는",
+					"standard": "편지는",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "자주",
+					"standard": "자주",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "쓰고",
+					"standard": "쓰고",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "있어요.",
+					"standard": "있어요.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.134",
+			"form": "손 편지 써 보신 적 있으세요?",
+			"standard_form": "손 편지 써 보신 적 있으세요?",
+			"dialect_form": "손 편지 써 보신 적 있으세요?",
+			"speaker_id": "1",
+			"start": 703.11,
+			"end": 708.0,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "손",
+					"standard": "손",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "편지",
+					"standard": "편지",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "써",
+					"standard": "써",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "보신",
+					"standard": "보신",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "적",
+					"standard": "적",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "있으세요?",
+					"standard": "있으세요?",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.135",
+			"form": "저는 요즘에 인제 한 이백 일쯤 돼서",
+			"standard_form": "저는 요즘에 인제 한 이백 일쯤 돼서",
+			"dialect_form": "저는 요즘에 인제 한 이백 일쯤 돼서",
+			"speaker_id": "2",
+			"start": 708.0,
+			"end": 714.52,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "저는",
+					"standard": "저는",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "요즘에",
+					"standard": "요즘에",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "인제",
+					"standard": "인제",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "한",
+					"standard": "한",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "이백",
+					"standard": "이백",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "일쯤",
+					"standard": "일쯤",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "돼서",
+					"standard": "돼서",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.136",
+			"form": "손 편지를 썼는데",
+			"standard_form": "손 편지를 썼는데",
+			"dialect_form": "손 편지를 썼는데",
+			"speaker_id": "2",
+			"start": 714.52,
+			"end": 717.84,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "손",
+					"standard": "손",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "편지를",
+					"standard": "편지를",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "썼는데",
+					"standard": "썼는데",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.137",
+			"form": "손 편지를 자주 안 쓰다가 인제 한 번 써 보 써 보고 난 후에",
+			"standard_form": "손 편지를 자주 안 쓰다가 인제 한 번 써 보 써 보고 난 후에",
+			"dialect_form": "손 편지를 자주 안 쓰다가 인제 한 번 써 보 써 보고 난 후에",
+			"speaker_id": "2",
+			"start": 717.84,
+			"end": 722.72,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "손",
+					"standard": "손",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "편지를",
+					"standard": "편지를",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "자주",
+					"standard": "자주",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "안",
+					"standard": "안",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "쓰다가",
+					"standard": "쓰다가",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "인제",
+					"standard": "인제",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "한",
+					"standard": "한",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "번",
+					"standard": "번",
+					"isDialect": false
+				},
+				{
+					"id": 9,
+					"eojeol": "써",
+					"standard": "써",
+					"isDialect": false
+				},
+				{
+					"id": 10,
+					"eojeol": "보",
+					"standard": "보",
+					"isDialect": false
+				},
+				{
+					"id": 11,
+					"eojeol": "써",
+					"standard": "써",
+					"isDialect": false
+				},
+				{
+					"id": 12,
+					"eojeol": "보고",
+					"standard": "보고",
+					"isDialect": false
+				},
+				{
+					"id": 13,
+					"eojeol": "난",
+					"standard": "난",
+					"isDialect": false
+				},
+				{
+					"id": 14,
+					"eojeol": "후에",
+					"standard": "후에",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.138",
+			"form": "어~ 여자 친구나 이렇게 같이 서로 읽어주는데 서로 감동받드라구요.",
+			"standard_form": "어~ 여자 친구나 이렇게 같이 서로 읽어주는데 서로 감동받드라구요.",
+			"dialect_form": "어~ 여자 친구나 이렇게 같이 서로 읽어주는데 서로 감동받드라구요.",
+			"speaker_id": "2",
+			"start": 722.72,
+			"end": 729.05,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "어~",
+					"standard": "어~",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "여자",
+					"standard": "여자",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "친구나",
+					"standard": "친구나",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "이렇게",
+					"standard": "이렇게",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "같이",
+					"standard": "같이",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "서로",
+					"standard": "서로",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "읽어주는데",
+					"standard": "읽어주는데",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "서로",
+					"standard": "서로",
+					"isDialect": false
+				},
+				{
+					"id": 9,
+					"eojeol": "감동받드라구요.",
+					"standard": "감동받드라구요.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.139",
+			"form": "이게 읽다 보면 그 사람의 마음도 그 사람의 막 고마웠던 거 생각나고 여러 가지 스쳐가더라구요 사귀면서도",
+			"standard_form": "이게 읽다 보면 그 사람의 마음도 그 사람의 막 고마웠던 거 생각나고 여러 가지 스쳐가더라구요 사귀면서도",
+			"dialect_form": "이게 읽다 보면 그 사람의 마음도 그 사람의 막 고마웠던 거 생각나고 여러 가지 스쳐가더라구요 사귀면서도",
+			"speaker_id": "2",
+			"start": 729.05,
+			"end": 737.03,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "이게",
+					"standard": "이게",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "읽다",
+					"standard": "읽다",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "보면",
+					"standard": "보면",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "그",
+					"standard": "그",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "사람의",
+					"standard": "사람의",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "마음도",
+					"standard": "마음도",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "그",
+					"standard": "그",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "사람의",
+					"standard": "사람의",
+					"isDialect": false
+				},
+				{
+					"id": 9,
+					"eojeol": "막",
+					"standard": "막",
+					"isDialect": false
+				},
+				{
+					"id": 10,
+					"eojeol": "고마웠던",
+					"standard": "고마웠던",
+					"isDialect": false
+				},
+				{
+					"id": 11,
+					"eojeol": "거",
+					"standard": "거",
+					"isDialect": false
+				},
+				{
+					"id": 12,
+					"eojeol": "생각나고",
+					"standard": "생각나고",
+					"isDialect": false
+				},
+				{
+					"id": 13,
+					"eojeol": "여러",
+					"standard": "여러",
+					"isDialect": false
+				},
+				{
+					"id": 14,
+					"eojeol": "가지",
+					"standard": "가지",
+					"isDialect": false
+				},
+				{
+					"id": 15,
+					"eojeol": "스쳐가더라구요",
+					"standard": "스쳐가더라구요",
+					"isDialect": false
+				},
+				{
+					"id": 16,
+					"eojeol": "사귀면서도",
+					"standard": "사귀면서도",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.140",
+			"form": "아~ 내가 이런 사람이랑 여자 친구 사귈라면",
+			"standard_form": "아~ 내가 이런 사람이랑 여자 친구 사귈라면",
+			"dialect_form": "아~ 내가 이런 사람이랑 여자 친구 사귈라면",
+			"speaker_id": "2",
+			"start": 737.03,
+			"end": 741.66,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "아~",
+					"standard": "아~",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "내가",
+					"standard": "내가",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "이런",
+					"standard": "이런",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "사람이랑",
+					"standard": "사람이랑",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "여자",
+					"standard": "여자",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "친구",
+					"standard": "친구",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "사귈라면",
+					"standard": "사귈라면",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.141",
+			"form": "뭔가 더 의미가 더 행복하다라고라는 게 생각이 들드라구요.",
+			"standard_form": "뭔가 더 의미가 더 행복하다라고라는 게 생각이 들드라구요.",
+			"dialect_form": "뭔가 더 의미가 더 행복하다라고라는 게 생각이 들드라구요.",
+			"speaker_id": "2",
+			"start": 741.66,
+			"end": 748.15,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "뭔가",
+					"standard": "뭔가",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "더",
+					"standard": "더",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "의미가",
+					"standard": "의미가",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "더",
+					"standard": "더",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "행복하다라고라는",
+					"standard": "행복하다라고라는",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "게",
+					"standard": "게",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "생각이",
+					"standard": "생각이",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "들드라구요.",
+					"standard": "들드라구요.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.142",
+			"form": "이백 일 기념으로 그럼 손 편지를 쓰셨다고 했는데",
+			"standard_form": "이백 일 기념으로 그럼 손 편지를 쓰셨다고 했는데",
+			"dialect_form": "이백 일 기념으로 그럼 손 편지를 쓰셨다고 했는데",
+			"speaker_id": "1",
+			"start": 748.15,
+			"end": 753.37,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "이백",
+					"standard": "이백",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "일",
+					"standard": "일",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "기념으로",
+					"standard": "기념으로",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "그럼",
+					"standard": "그럼",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "손",
+					"standard": "손",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "편지를",
+					"standard": "편지를",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "쓰셨다고",
+					"standard": "쓰셨다고",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "했는데",
+					"standard": "했는데",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.143",
+			"form": "이백 일 기념 선물은 어떤 거 하셨어요?",
+			"standard_form": "이백 일 기념 선물은 어떤 거 하셨어요?",
+			"dialect_form": "이백 일 기념 선물은 어떤 거 하셨어요?",
+			"speaker_id": "1",
+			"start": 753.37,
+			"end": 758.56,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "이백",
+					"standard": "이백",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "일",
+					"standard": "일",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "기념",
+					"standard": "기념",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "선물은",
+					"standard": "선물은",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "어떤",
+					"standard": "어떤",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "거",
+					"standard": "거",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "하셨어요?",
+					"standard": "하셨어요?",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.144",
+			"form": "그때 선물은 저는",
+			"standard_form": "그때 선물은 저는",
+			"dialect_form": "그때 선물은 저는",
+			"speaker_id": "2",
+			"start": 758.56,
+			"end": 763.29,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "그때",
+					"standard": "그때",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "선물은",
+					"standard": "선물은",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "저는",
+					"standard": "저는",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.145",
+			"form": "어~ 항상 밥하고 식사 왜냐면 선물보다는 저는 항상",
+			"standard_form": "어~ 항상 밥하고 식사 왜냐면 선물보다는 저는 항상",
+			"dialect_form": "어~ 항상 밥하고 식사 왜냐면 선물보다는 저는 항상",
+			"speaker_id": "2",
+			"start": 763.29,
+			"end": 769.81,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "어~",
+					"standard": "어~",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "항상",
+					"standard": "항상",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "밥하고",
+					"standard": "밥하고",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "식사",
+					"standard": "식사",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "왜냐면",
+					"standard": "왜냐면",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "선물보다는",
+					"standard": "선물보다는",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "저는",
+					"standard": "저는",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "항상",
+					"standard": "항상",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.146",
+			"form": "항상 고마웠고 항상 챙겨준 게 좀 고마워서 (()) 저는 인제",
+			"standard_form": "항상 고마웠고 항상 챙겨준 게 좀 고마워서 (()) 저는 인제",
+			"dialect_form": "항상 고마웠고 항상 챙겨준 게 좀 고마워서 (()) 저는 인제",
+			"speaker_id": "2",
+			"start": 769.81,
+			"end": 775.34,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "항상",
+					"standard": "항상",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "고마웠고",
+					"standard": "고마웠고",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "항상",
+					"standard": "항상",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "챙겨준",
+					"standard": "챙겨준",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "게",
+					"standard": "게",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "좀",
+					"standard": "좀",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "고마워서",
+					"standard": "고마워서",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "(())",
+					"standard": "(())",
+					"isDialect": false
+				},
+				{
+					"id": 9,
+					"eojeol": "저는",
+					"standard": "저는",
+					"isDialect": false
+				},
+				{
+					"id": 10,
+					"eojeol": "인제",
+					"standard": "인제",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.147",
+			"form": "먹으러 가자 (()) 그냥 그게 그 사람의",
+			"standard_form": "먹으러 가자 (()) 그냥 그게 그 사람의",
+			"dialect_form": "먹으러 가자 (()) 그냥 그게 그 사람의",
+			"speaker_id": "2",
+			"start": 775.34,
+			"end": 780.79,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "먹으러",
+					"standard": "먹으러",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "가자",
+					"standard": "가자",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "(())",
+					"standard": "(())",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "그냥",
+					"standard": "그냥",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "그게",
+					"standard": "그게",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "그",
+					"standard": "그",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "사람의",
+					"standard": "사람의",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.148",
+			"form": "어~ 의미 있단 생각이 들고",
+			"standard_form": "어~ 의미 있단 생각이 들고",
+			"dialect_form": "어~ 의미 있단 생각이 들고",
+			"speaker_id": "2",
+			"start": 780.79,
+			"end": 783.99,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "어~",
+					"standard": "어~",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "의미",
+					"standard": "의미",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "있단",
+					"standard": "있단",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "생각이",
+					"standard": "생각이",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "들고",
+					"standard": "들고",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.149",
+			"form": "항상 그래요 여자 친구는 인제 저한테 선물을 이제",
+			"standard_form": "항상 그래요 여자 친구는 인제 저한테 선물을 이제",
+			"dialect_form": "항상 그래요 여자 친구는 인제 저한테 선물을 이제",
+			"speaker_id": "2",
+			"start": 783.99,
+			"end": 789.13,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "항상",
+					"standard": "항상",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "그래요",
+					"standard": "그래요",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "여자",
+					"standard": "여자",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "친구는",
+					"standard": "친구는",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "인제",
+					"standard": "인제",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "저한테",
+					"standard": "저한테",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "선물을",
+					"standard": "선물을",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "이제",
+					"standard": "이제",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.150",
+			"form": "줬는데 서로가 더 그게 더 의미 있다고 생각해요 저는",
+			"standard_form": "줬는데 서로가 더 그게 더 의미 있다고 생각해요 저는",
+			"dialect_form": "줬는데 서로가 더 그게 더 의미 있다고 생각해요 저는",
+			"speaker_id": "2",
+			"start": 789.13,
+			"end": 796.54,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "줬는데",
+					"standard": "줬는데",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "서로가",
+					"standard": "서로가",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "더",
+					"standard": "더",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "그게",
+					"standard": "그게",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "더",
+					"standard": "더",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "의미",
+					"standard": "의미",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "있다고",
+					"standard": "있다고",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "생각해요",
+					"standard": "생각해요",
+					"isDialect": false
+				},
+				{
+					"id": 9,
+					"eojeol": "저는",
+					"standard": "저는",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.151",
+			"form": "어~ 그러면 이백 일 기념 선물을 어떤 걸 받으셨어요?",
+			"standard_form": "어~ 그러면 이백 일 기념 선물을 어떤 걸 받으셨어요?",
+			"dialect_form": "어~ 그러면 이백 일 기념 선물을 어떤 걸 받으셨어요?",
+			"speaker_id": "1",
+			"start": 796.54,
+			"end": 802.16,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "어~",
+					"standard": "어~",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "그러면",
+					"standard": "그러면",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "이백",
+					"standard": "이백",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "일",
+					"standard": "일",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "기념",
+					"standard": "기념",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "선물을",
+					"standard": "선물을",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "어떤",
+					"standard": "어떤",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "걸",
+					"standard": "걸",
+					"isDialect": false
+				},
+				{
+					"id": 9,
+					"eojeol": "받으셨어요?",
+					"standard": "받으셨어요?",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.152",
+			"form": "저는 모자 받았습니다 모자",
+			"standard_form": "저는 모자 받았습니다 모자",
+			"dialect_form": "저는 모자 받았습니다 모자",
+			"speaker_id": "2",
+			"start": 802.16,
+			"end": 807.52,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "저는",
+					"standard": "저는",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "모자",
+					"standard": "모자",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "받았습니다",
+					"standard": "받았습니다",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "모자",
+					"standard": "모자",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.153",
+			"form": "빵모자 받았어요.",
+			"standard_form": "빵모자 받았어요.",
+			"dialect_form": "빵모자 받았어요.",
+			"speaker_id": "2",
+			"start": 807.52,
+			"end": 811.52,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "빵모자",
+					"standard": "빵모자",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "받았어요.",
+					"standard": "받았어요.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.154",
+			"form": "크리스마스 때 핸드메이드 목도리로 선물해줄 생각은 없으신가요?",
+			"standard_form": "크리스마스 때 핸드메이드 목도리로 선물해줄 생각은 없으신가요?",
+			"dialect_form": "크리스마스 때 핸드메이드 목도리로 선물해줄 생각은 없으신가요?",
+			"speaker_id": "1",
+			"start": 811.52,
+			"end": 818.66,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "크리스마스",
+					"standard": "크리스마스",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "때",
+					"standard": "때",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "핸드메이드",
+					"standard": "핸드메이드",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "목도리로",
+					"standard": "목도리로",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "선물해줄",
+					"standard": "선물해줄",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "생각은",
+					"standard": "생각은",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "없으신가요?",
+					"standard": "없으신가요?",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.155",
+			"form": "저는 크리스마스 때",
+			"standard_form": "저는 크리스마스 때",
+			"dialect_form": "저는 크리스마스 때",
+			"speaker_id": "2",
+			"start": 818.66,
+			"end": 823.39,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "저는",
+					"standard": "저는",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "크리스마스",
+					"standard": "크리스마스",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "때",
+					"standard": "때",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.156",
+			"form": "요번 크리스마스는",
+			"standard_form": "요번 크리스마스는",
+			"dialect_form": "요번 크리스마스는",
+			"speaker_id": "2",
+			"start": 823.39,
+			"end": 825.51,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "요번",
+					"standard": "요번",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "크리스마스는",
+					"standard": "크리스마스는",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.157",
+			"form": "목도리와 장갑을 선물해 줄려고",
+			"standard_form": "목도리와 장갑을 선물해 줄려고",
+			"dialect_form": "목도리와 장갑을 선물해 줄려고",
+			"speaker_id": "2",
+			"start": 825.51,
+			"end": 831.24,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "목도리와",
+					"standard": "목도리와",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "장갑을",
+					"standard": "장갑을",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "선물해",
+					"standard": "선물해",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "줄려고",
+					"standard": "줄려고",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.158",
+			"form": "하고 있어요 되게 그것도 의미 있잖아요.",
+			"standard_form": "하고 있어요 되게 그것도 의미 있잖아요.",
+			"dialect_form": "하고 있어요 되게 그것도 의미 있잖아요.",
+			"speaker_id": "2",
+			"start": 831.24,
+			"end": 835.11,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "하고",
+					"standard": "하고",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "있어요",
+					"standard": "있어요",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "되게",
+					"standard": "되게",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "그것도",
+					"standard": "그것도",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "의미",
+					"standard": "의미",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "있잖아요.",
+					"standard": "있잖아요.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.159",
+			"form": "어~ 추운 것보단 따뜻하게 따뜻하게 하고 다녀라는",
+			"standard_form": "어~ 추운 것보단 따뜻하게 따뜻하게 하고 다녀라는",
+			"dialect_form": "어~ 추운 것보단 따뜻하게 따뜻하게 하고 다녀라는",
+			"speaker_id": "2",
+			"start": 835.11,
+			"end": 840.72,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "어~",
+					"standard": "어~",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "추운",
+					"standard": "추운",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "것보단",
+					"standard": "것보단",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "따뜻하게",
+					"standard": "따뜻하게",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "따뜻하게",
+					"standard": "따뜻하게",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "하고",
+					"standard": "하고",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "다녀라는",
+					"standard": "다녀라는",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.160",
+			"form": "그런 의미가 담겨 (()) 되게 뜻깊을 거 같애요.",
+			"standard_form": "그런 의미가 담겨 (()) 되게 뜻깊을 거 같애요.",
+			"dialect_form": "그런 의미가 담겨 (()) 되게 뜻깊을 거 같애요.",
+			"speaker_id": "2",
+			"start": 840.72,
+			"end": 846.73,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "그런",
+					"standard": "그런",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "의미가",
+					"standard": "의미가",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "담겨",
+					"standard": "담겨",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "(())",
+					"standard": "(())",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "되게",
+					"standard": "되게",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "뜻깊을",
+					"standard": "뜻깊을",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "거",
+					"standard": "거",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "같애요.",
+					"standard": "같애요.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.161",
+			"form": "장갑도 만드실 수 있으세요?",
+			"standard_form": "장갑도 만드실 수 있으세요?",
+			"dialect_form": "장갑도 만드실 수 있으세요?",
+			"speaker_id": "1",
+			"start": 846.73,
+			"end": 852.86,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "장갑도",
+					"standard": "장갑도",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "만드실",
+					"standard": "만드실",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "수",
+					"standard": "수",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "있으세요?",
+					"standard": "있으세요?",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.162",
+			"form": "장갑은 장갑은 못 만들고 이제",
+			"standard_form": "장갑은 장갑은 못 만들고 이제",
+			"dialect_form": "장갑은 장갑은 못 만들고 이제",
+			"speaker_id": "2",
+			"start": 852.86,
+			"end": 859.13,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "장갑은",
+					"standard": "장갑은",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "장갑은",
+					"standard": "장갑은",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "못",
+					"standard": "못",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "만들고",
+					"standard": "만들고",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "이제",
+					"standard": "이제",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.163",
+			"form": "어~ 자그만한 자 어~ 선물을 사서",
+			"standard_form": "어~ 자그만한 자 어~ 선물을 사서",
+			"dialect_form": "어~ 자그만한 자 어~ 선물을 사서",
+			"speaker_id": "2",
+			"start": 859.13,
+			"end": 866.08,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "어~",
+					"standard": "어~",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "자그만한",
+					"standard": "자그만한",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "자",
+					"standard": "자",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "어~",
+					"standard": "어~",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "선물을",
+					"standard": "선물을",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "사서",
+					"standard": "사서",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.164",
+			"form": "포장을 해서 줄려구요.",
+			"standard_form": "포장을 해서 줄려구요.",
+			"dialect_form": "포장을 해서 줄려구요.",
+			"speaker_id": "2",
+			"start": 866.08,
+			"end": 870.73,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "포장을",
+					"standard": "포장을",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "해서",
+					"standard": "해서",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "줄려구요.",
+					"standard": "줄려구요.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.165",
+			"form": "이번 크리스마스도 되게 좋은 추억이",
+			"standard_form": "이번 크리스마스도 되게 좋은 추억이",
+			"dialect_form": "이번 크리스마스도 되게 좋은 추억이",
+			"speaker_id": "1",
+			"start": 870.73,
+			"end": 875.9,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "이번",
+					"standard": "이번",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "크리스마스도",
+					"standard": "크리스마스도",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "되게",
+					"standard": "되게",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "좋은",
+					"standard": "좋은",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "추억이",
+					"standard": "추억이",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.166",
+			"form": "생기시겠네요.",
+			"standard_form": "생기시겠네요.",
+			"dialect_form": "생기시겠네요.",
+			"speaker_id": "1",
+			"start": 875.9,
+			"end": 880.27,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "생기시겠네요.",
+					"standard": "생기시겠네요.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.167",
+			"form": "네 저도 여자친구 같이 있고",
+			"standard_form": "네 저도 여자친구 같이 있고",
+			"dialect_form": "네 저도 여자친구 같이 있고",
+			"speaker_id": "2",
+			"start": 880.27,
+			"end": 885.93,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "네",
+					"standard": "네",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "저도",
+					"standard": "저도",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "여자친구",
+					"standard": "여자친구",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "같이",
+					"standard": "같이",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "있고",
+					"standard": "있고",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.168",
+			"form": "또 어느 정도 선물에 대한 또 고마움과",
+			"standard_form": "또 어느 정도 선물에 대한 또 고마움과",
+			"dialect_form": "또 어느 정도 선물에 대한 또 고마움과",
+			"speaker_id": "2",
+			"start": 885.93,
+			"end": 890.75,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "또",
+					"standard": "또",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "어느",
+					"standard": "어느",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "정도",
+					"standard": "정도",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "선물에",
+					"standard": "선물에",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "대한",
+					"standard": "대한",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "또",
+					"standard": "또",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "고마움과",
+					"standard": "고마움과",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DJDG20001079.1.1.169",
+			"form": "더 생각이 나고 하기 때문에 좋은 거 같습니다.",
+			"standard_form": "더 생각이 나고 하기 때문에 좋은 거 같습니다.",
+			"dialect_form": "더 생각이 나고 하기 때문에 좋은 거 같습니다.",
+			"speaker_id": "2",
+			"start": 890.75,
+			"end": 900.51,
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "더",
+					"standard": "더",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "생각이",
+					"standard": "생각이",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "나고",
+					"standard": "나고",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "하기",
+					"standard": "하기",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "때문에",
+					"standard": "때문에",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "좋은",
+					"standard": "좋은",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "거",
+					"standard": "거",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "같습니다.",
+					"standard": "같습니다.",
+					"isDialect": false
+				}
+			]
+		}
+	]
+}

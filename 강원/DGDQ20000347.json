@@ -1,0 +1,534 @@
+{
+    "id": "DGDQ20000347",
+    "metadata": {
+        "title": "강원방언 AI 학습데이터 DGDQ20000347",
+        "creator": "디큐",
+        "distributor": "디큐",
+        "year": "2021",
+        "category": "강원방언 > 사적 대화 > 일상 대화",
+        "annotation_level": [
+            ""
+        ],
+        "sampling": "본문 전체",
+        "author": "개인 발화자",
+        "publisher": "개인 발화 녹음",
+        "date": "20210208",
+        "topic": "가족"
+    },
+    "speaker": [
+        {
+            "id": "1",
+            "name": "null",
+            "age": "30대",
+            "occupation": "사무 종사자",
+            "sex": "남성",
+            "birthplace": "강원",
+            "principal_residence": "강원",
+            "current_residence": "강원",
+            "education": "대졸"
+        }
+    ],
+    "setting": {
+        "relation": "기타"
+    },
+    "utterance": [
+        {
+            "id": "DGDQ20000347.1.1.1",
+            "form": "너 (힘을)/(헤엄을) 잘치는구나?",
+            "standard_form": "너 헤엄을 잘치는구나?",
+            "dialect_form": "너 힘을 잘치는구나?",
+            "speaker_id": "1",
+            "start": 1.9,
+            "end": 3.46,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "너",
+                    "standard": "너",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "힘을",
+                    "standard": "헤엄을",
+                    "isDialect": true
+                },
+                {
+                    "id": 3,
+                    "eojeol": "잘치는구나?",
+                    "standard": "잘치는구나?",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGDQ20000347.1.1.2",
+            "form": "물살이 꽤 센데 어떻게 (힘)/(헤엄) 치고있네?",
+            "standard_form": "물살이 꽤 센데 어떻게 헤엄 치고있네?",
+            "dialect_form": "물살이 꽤 센데 어떻게 힘 치고있네?",
+            "speaker_id": "1",
+            "start": 5.99,
+            "end": 8.75,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "물살이",
+                    "standard": "물살이",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "꽤",
+                    "standard": "꽤",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "센데",
+                    "standard": "센데",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "어떻게",
+                    "standard": "어떻게",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "힘",
+                    "standard": "헤엄",
+                    "isDialect": true
+                },
+                {
+                    "id": 6,
+                    "eojeol": "치고있네?",
+                    "standard": "치고있네?",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGDQ20000347.1.1.3",
+            "form": "여기가 (힘)/(헤엄) 쳐서 올 수 있는 거리던가?",
+            "standard_form": "여기가 헤엄 쳐서 올 수 있는 거리던가?",
+            "dialect_form": "여기가 힘 쳐서 올 수 있는 거리던가?",
+            "speaker_id": "1",
+            "start": 11.43,
+            "end": 14.1,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "여기가",
+                    "standard": "여기가",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "힘",
+                    "standard": "헤엄",
+                    "isDialect": true
+                },
+                {
+                    "id": 3,
+                    "eojeol": "쳐서",
+                    "standard": "쳐서",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "올",
+                    "standard": "올",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "수",
+                    "standard": "수",
+                    "isDialect": false
+                },
+                {
+                    "id": 6,
+                    "eojeol": "있는",
+                    "standard": "있는",
+                    "isDialect": false
+                },
+                {
+                    "id": 7,
+                    "eojeol": "거리던가?",
+                    "standard": "거리던가?",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGDQ20000347.1.1.4",
+            "form": "아이들이 개울에서 (개구리힘을)/(개구리헤엄을) 친다.",
+            "standard_form": "아이들이 개울에서 개구리헤엄을 친다.",
+            "dialect_form": "아이들이 개울에서 개구리힘을 친다.",
+            "speaker_id": "1",
+            "start": 16.55,
+            "end": 19.39,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "아이들이",
+                    "standard": "아이들이",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "개울에서",
+                    "standard": "개울에서",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "개구리힘을",
+                    "standard": "개구리헤엄을",
+                    "isDialect": true
+                },
+                {
+                    "id": 4,
+                    "eojeol": "친다.",
+                    "standard": "친다.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGDQ20000347.1.1.5",
+            "form": "(힘을)/(헤엄을) 잘치려면 우선 물장구질 하는 것부터 배워.",
+            "standard_form": "헤엄을 잘치려면 우선 물장구질 하는 것부터 배워.",
+            "dialect_form": "힘을 잘치려면 우선 물장구질 하는 것부터 배워.",
+            "speaker_id": "1",
+            "start": 22.02,
+            "end": 26.03,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "힘을",
+                    "standard": "헤엄을",
+                    "isDialect": true
+                },
+                {
+                    "id": 2,
+                    "eojeol": "잘치려면",
+                    "standard": "잘치려면",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "우선",
+                    "standard": "우선",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "물장구질",
+                    "standard": "물장구질",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "하는",
+                    "standard": "하는",
+                    "isDialect": false
+                },
+                {
+                    "id": 6,
+                    "eojeol": "것부터",
+                    "standard": "것부터",
+                    "isDialect": false
+                },
+                {
+                    "id": 7,
+                    "eojeol": "배워.",
+                    "standard": "배워.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGDQ20000347.1.1.6",
+            "form": "연어떼가 산란을 위해 힘차게 (힘을)/(헤엄을) 쳐 귀향 하고 있다.",
+            "standard_form": "연어떼가 산란을 위해 힘차게 헤엄을 쳐 귀향 하고 있다.",
+            "dialect_form": "연어떼가 산란을 위해 힘차게 힘을 쳐 귀향 하고 있다.",
+            "speaker_id": "1",
+            "start": 28.8,
+            "end": 33.51,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "연어떼가",
+                    "standard": "연어떼가",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "산란을",
+                    "standard": "산란을",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "위해",
+                    "standard": "위해",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "힘차게",
+                    "standard": "힘차게",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "힘을",
+                    "standard": "헤엄을",
+                    "isDialect": true
+                },
+                {
+                    "id": 6,
+                    "eojeol": "쳐",
+                    "standard": "쳐",
+                    "isDialect": false
+                },
+                {
+                    "id": 7,
+                    "eojeol": "귀향",
+                    "standard": "귀향",
+                    "isDialect": false
+                },
+                {
+                    "id": 8,
+                    "eojeol": "하고",
+                    "standard": "하고",
+                    "isDialect": false
+                },
+                {
+                    "id": 9,
+                    "eojeol": "있다.",
+                    "standard": "있다.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGDQ20000347.1.1.7",
+            "form": "나는 바닷가 마을에 살면서도 낚시와 (힘을)/(헤엄을) 배우지 못했어.",
+            "standard_form": "나는 바닷가 마을에 살면서도 낚시와 헤엄을 배우지 못했어.",
+            "dialect_form": "나는 바닷가 마을에 살면서도 낚시와 힘을 배우지 못했어.",
+            "speaker_id": "1",
+            "start": 36.22,
+            "end": 41.05,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "나는",
+                    "standard": "나는",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "바닷가",
+                    "standard": "바닷가",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "마을에",
+                    "standard": "마을에",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "살면서도",
+                    "standard": "살면서도",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "낚시와",
+                    "standard": "낚시와",
+                    "isDialect": false
+                },
+                {
+                    "id": 6,
+                    "eojeol": "힘을",
+                    "standard": "헤엄을",
+                    "isDialect": true
+                },
+                {
+                    "id": 7,
+                    "eojeol": "배우지",
+                    "standard": "배우지",
+                    "isDialect": false
+                },
+                {
+                    "id": 8,
+                    "eojeol": "못했어.",
+                    "standard": "못했어.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGDQ20000347.1.1.8",
+            "form": "아무래도 (힘을)/(헤엄을) 쳐서 강을 건너는건 무리겠지?",
+            "standard_form": "아무래도 헤엄을 쳐서 강을 건너는건 무리겠지?",
+            "dialect_form": "아무래도 힘을 쳐서 강을 건너는건 무리겠지?",
+            "speaker_id": "1",
+            "start": 43.5,
+            "end": 47.15,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "아무래도",
+                    "standard": "아무래도",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "힘을",
+                    "standard": "헤엄을",
+                    "isDialect": true
+                },
+                {
+                    "id": 3,
+                    "eojeol": "쳐서",
+                    "standard": "쳐서",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "강을",
+                    "standard": "강을",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "건너는건",
+                    "standard": "건너는건",
+                    "isDialect": false
+                },
+                {
+                    "id": 6,
+                    "eojeol": "무리겠지?",
+                    "standard": "무리겠지?",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGDQ20000347.1.1.9",
+            "form": "나는 여름이면 매일 냇가에 나가서 (힘을)/(헤엄을) 쳤어.",
+            "standard_form": "나는 여름이면 매일 냇가에 나가서 헤엄을 쳤어.",
+            "dialect_form": "나는 여름이면 매일 냇가에 나가서 힘을 쳤어.",
+            "speaker_id": "1",
+            "start": 50.33,
+            "end": 54.25,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "나는",
+                    "standard": "나는",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "여름이면",
+                    "standard": "여름이면",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "매일",
+                    "standard": "매일",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "냇가에",
+                    "standard": "냇가에",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "나가서",
+                    "standard": "나가서",
+                    "isDialect": false
+                },
+                {
+                    "id": 6,
+                    "eojeol": "힘을",
+                    "standard": "헤엄을",
+                    "isDialect": true
+                },
+                {
+                    "id": 7,
+                    "eojeol": "쳤어.",
+                    "standard": "쳤어.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGDQ20000347.1.1.10",
+            "form": "(힘도)/(헤엄도) 못치는게 무슨 생각으로 물에 들어갔니?",
+            "standard_form": "헤엄도 못치는게 무슨 생각으로 물에 들어갔니?",
+            "dialect_form": "힘도 못치는게 무슨 생각으로 물에 들어갔니?",
+            "speaker_id": "1",
+            "start": 57.56,
+            "end": 60.65,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "힘도",
+                    "standard": "헤엄도",
+                    "isDialect": true
+                },
+                {
+                    "id": 2,
+                    "eojeol": "못치는게",
+                    "standard": "못치는게",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "무슨",
+                    "standard": "무슨",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "생각으로",
+                    "standard": "생각으로",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "물에",
+                    "standard": "물에",
+                    "isDialect": false
+                },
+                {
+                    "id": 6,
+                    "eojeol": "들어갔니?",
+                    "standard": "들어갔니?",
+                    "isDialect": false
+                }
+            ]
+        }
+    ]
+}

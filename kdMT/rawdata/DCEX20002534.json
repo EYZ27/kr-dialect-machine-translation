@@ -1,0 +1,7881 @@
+{
+  "id" : "DCEX20002534",
+  "metadata" : {
+    "title" : "DCEX20002534",
+    "creator" : "솔트룩스",
+    "distributor" : "솔트룩스",
+    "year" : "2020",
+    "category" : "충청방언 > 사적 대화 > 일상 대화",
+    "annotation_level" : [ "원시" ],
+    "sampling" : "본문 전체",
+    "author" : "",
+    "publisher" : "",
+    "date" : "20201222",
+    "topic" : "공연"
+  },
+  "speaker" : [ {
+    "id" : "1",
+    "name" : "null",
+    "age" : "20대",
+    "sex" : "여성",
+    "occupation" : "사무 종사자",
+    "birthplace" : "광주",
+    "principal_residence" : "대전",
+    "current_residence" : "대전",
+    "education" : "고졸"
+  } ],
+  "setting" : {
+    "relation" : "기타"
+  },
+  "utterance" : [ {
+    "id" : "DCEX20002534.1.1.1",
+    "start" : 1,
+    "end" : 5.86,
+    "speaker_id" : "1",
+    "form" : "(지가유)/(제가요) 뮤지컬을 굉장히 (좋아하는구먼유.)/(좋아해요.)",
+    "standard_form" : "제가요 뮤지컬을 굉장히 좋아해요.",
+    "dialect_form" : "지가유 뮤지컬을 굉장히 좋아하는구먼유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "지가유",
+      "standard" : "제가요",
+      "isDialect" : true
+    }, {
+      "id" : 2,
+      "eojeol" : "뮤지컬을",
+      "standard" : "뮤지컬을",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "굉장히",
+      "standard" : "굉장히",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "좋아하는구먼유.",
+      "standard" : "좋아해요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.2",
+    "start" : 6.63,
+    "end" : 8.49,
+    "speaker_id" : "1",
+    "form" : "(그래서유.)/(그래서요.)",
+    "standard_form" : "그래서요.",
+    "dialect_form" : "그래서유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "그래서유.",
+      "standard" : "그래서요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.3",
+    "start" : 8.49,
+    "end" : 11.220638297872341,
+    "speaker_id" : "1",
+    "form" : "이제 얼마 (전에도유.)/(전에도요.)",
+    "standard_form" : "이제 얼마 전에도요.",
+    "dialect_form" : "이제 얼마 전에도유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "이제",
+      "standard" : "이제",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "얼마",
+      "standard" : "얼마",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "전에도유.",
+      "standard" : "전에도요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.4",
+    "start" : 11.230638297872341,
+    "end" : 15.62,
+    "speaker_id" : "1",
+    "form" : "고스트 라는 뮤지컬을 보러 (갔는데유.)/(갔는데요.)",
+    "standard_form" : "고스트 라는 뮤지컬을 보러 갔는데요.",
+    "dialect_form" : "고스트 라는 뮤지컬을 보러 갔는데유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "고스트",
+      "standard" : "고스트",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "라는",
+      "standard" : "라는",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "뮤지컬을",
+      "standard" : "뮤지컬을",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "보러",
+      "standard" : "보러",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "갔는데유.",
+      "standard" : "갔는데요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.5",
+    "start" : 16.09,
+    "end" : 21.1,
+    "speaker_id" : "1",
+    "form" : "이제 고스트를 한다는 소식을 (듣구유)/(듣고요) 열심히",
+    "standard_form" : "이제 고스트를 한다는 소식을 듣고요 열심히",
+    "dialect_form" : "이제 고스트를 한다는 소식을 듣구유 열심히",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "이제",
+      "standard" : "이제",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "고스트를",
+      "standard" : "고스트를",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "한다는",
+      "standard" : "한다는",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "소식을",
+      "standard" : "소식을",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "듣구유",
+      "standard" : "듣고요",
+      "isDialect" : true
+    }, {
+      "id" : 6,
+      "eojeol" : "열심히",
+      "standard" : "열심히",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.6",
+    "start" : 21.11,
+    "end" : 25.34,
+    "speaker_id" : "1",
+    "form" : "이제 또 인터파크를 들락날락 (하면서유.)/(하면서요.)",
+    "standard_form" : "이제 또 인터파크를 들락날락 하면서요.",
+    "dialect_form" : "이제 또 인터파크를 들락날락 하면서유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "이제",
+      "standard" : "이제",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "또",
+      "standard" : "또",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "인터파크를",
+      "standard" : "인터파크를",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "들락날락",
+      "standard" : "들락날락",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "하면서유.",
+      "standard" : "하면서요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.7",
+    "start" : 25.34,
+    "end" : 32.85,
+    "speaker_id" : "1",
+    "form" : "또 나름 괜찮은 자리를 예매하게 돼서 갈 수 (있었어유.)/(있었어요.)",
+    "standard_form" : "또 나름 괜찮은 자리를 예매하게 돼서 갈 수 있었어요.",
+    "dialect_form" : "또 나름 괜찮은 자리를 예매하게 돼서 갈 수 있었어유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "또",
+      "standard" : "또",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "나름",
+      "standard" : "나름",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "괜찮은",
+      "standard" : "괜찮은",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "자리를",
+      "standard" : "자리를",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "예매하게",
+      "standard" : "예매하게",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "돼서",
+      "standard" : "돼서",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "갈",
+      "standard" : "갈",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "수",
+      "standard" : "수",
+      "isDialect" : false
+    }, {
+      "id" : 9,
+      "eojeol" : "있었어유.",
+      "standard" : "있었어요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.8",
+    "start" : 32.86,
+    "end" : 38.93,
+    "speaker_id" : "1",
+    "form" : "그래서 열심히 이제 가서 현장 수령 (하구유.)/(하고요.)",
+    "standard_form" : "그래서 열심히 이제 가서 현장 수령 하고요.",
+    "dialect_form" : "그래서 열심히 이제 가서 현장 수령 하구유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "그래서",
+      "standard" : "그래서",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "열심히",
+      "standard" : "열심히",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "이제",
+      "standard" : "이제",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "가서",
+      "standard" : "가서",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "현장",
+      "standard" : "현장",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "수령",
+      "standard" : "수령",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "하구유.",
+      "standard" : "하고요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.9",
+    "start" : 38.93,
+    "end" : 46.85,
+    "speaker_id" : "1",
+    "form" : "(지는)/(저는) (이제유)/(이제요) 대학생 할인으로 (인해서유)/(인해서요) 또",
+    "standard_form" : "저는 이제요 대학생 할인으로 인해서요 또",
+    "dialect_form" : "지는 이제유 대학생 할인으로 인해서유 또",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "지는",
+      "standard" : "저는",
+      "isDialect" : true
+    }, {
+      "id" : 2,
+      "eojeol" : "이제유",
+      "standard" : "이제요",
+      "isDialect" : true
+    }, {
+      "id" : 3,
+      "eojeol" : "대학생",
+      "standard" : "대학생",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "할인으로",
+      "standard" : "할인으로",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "인해서유",
+      "standard" : "인해서요",
+      "isDialect" : true
+    }, {
+      "id" : 6,
+      "eojeol" : "또",
+      "standard" : "또",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.10",
+    "start" : 47.5,
+    "end" : 50.74,
+    "speaker_id" : "1",
+    "form" : "열심히 학생증 (챙겨서유.)/(챙겨서요.)",
+    "standard_form" : "열심히 학생증 챙겨서요.",
+    "dialect_form" : "열심히 학생증 챙겨서유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "열심히",
+      "standard" : "열심히",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "학생증",
+      "standard" : "학생증",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "챙겨서유.",
+      "standard" : "챙겨서요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.11",
+    "start" : 52.25,
+    "end" : 57.33,
+    "speaker_id" : "1",
+    "form" : "원래 현장수령에서는 신분증 안 (물어보는데유.)/(물어보는데요.)",
+    "standard_form" : "원래 현장수령에서는 신분증 안 물어보는데요.",
+    "dialect_form" : "원래 현장수령에서는 신분증 안 물어보는데유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "원래",
+      "standard" : "원래",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "현장수령에서는",
+      "standard" : "현장수령에서는",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "신분증",
+      "standard" : "신분증",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "안",
+      "standard" : "안",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "물어보는데유.",
+      "standard" : "물어보는데요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.12",
+    "start" : 57.339999999999996,
+    "end" : 60.58,
+    "speaker_id" : "1",
+    "form" : "이번엔 (물어보더라고유.)/(물어보더라고요.)",
+    "standard_form" : "이번엔 물어보더라고요.",
+    "dialect_form" : "이번엔 물어보더라고유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "이번엔",
+      "standard" : "이번엔",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "물어보더라고유.",
+      "standard" : "물어보더라고요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.13",
+    "start" : 60.589999999999996,
+    "end" : 64.78,
+    "speaker_id" : "1",
+    "form" : "아~ 그래서 다행히 신분증을 (챙겼어서유.)/(챙겼어서요.)",
+    "standard_form" : "아~ 그래서 다행히 신분증을 챙겼어서요.",
+    "dialect_form" : "아~ 그래서 다행히 신분증을 챙겼어서유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "아~",
+      "standard" : "아~",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "그래서",
+      "standard" : "그래서",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "다행히",
+      "standard" : "다행히",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "신분증을",
+      "standard" : "신분증을",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "챙겼어서유.",
+      "standard" : "챙겼어서요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.14",
+    "start" : 64.79,
+    "end" : 68.28,
+    "speaker_id" : "1",
+    "form" : "신분증 보여 (주구유.)/(주고요.)",
+    "standard_form" : "신분증 보여 주고요.",
+    "dialect_form" : "신분증 보여 주구유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "신분증",
+      "standard" : "신분증",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "보여",
+      "standard" : "보여",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "주구유.",
+      "standard" : "주고요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.15",
+    "start" : 68.75,
+    "end" : 72.89,
+    "speaker_id" : "1",
+    "form" : "아무튼 들어가기 전에 두근거리는 (마음으로유.)/(마음으로요.)",
+    "standard_form" : "아무튼 들어가기 전에 두근거리는 마음으로요.",
+    "dialect_form" : "아무튼 들어가기 전에 두근거리는 마음으로유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "아무튼",
+      "standard" : "아무튼",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "들어가기",
+      "standard" : "들어가기",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "전에",
+      "standard" : "전에",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "두근거리는",
+      "standard" : "두근거리는",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "마음으로유.",
+      "standard" : "마음으로요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.16",
+    "start" : 72.89,
+    "end" : 75.85,
+    "speaker_id" : "1",
+    "form" : "이제 또 주연이",
+    "standard_form" : "이제 또 주연이",
+    "dialect_form" : "이제 또 주연이",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "이제",
+      "standard" : "이제",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "또",
+      "standard" : "또",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "주연이",
+      "standard" : "주연이",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.17",
+    "start" : 76.05,
+    "end" : 82.43,
+    "speaker_id" : "1",
+    "form" : "음~ 주인공이 주원 (이에유)/(이에요) 그래도 주원 사진도 (찍구유.)/(찍고요.)",
+    "standard_form" : "음~ 주인공이 주원 이에요 그래도 주원 사진도 찍고요.",
+    "dialect_form" : "음~ 주인공이 주원 이에유 그래도 주원 사진도 찍구유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "음~",
+      "standard" : "음~",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "주인공이",
+      "standard" : "주인공이",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "주원",
+      "standard" : "주원",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "이에유",
+      "standard" : "이에요",
+      "isDialect" : true
+    }, {
+      "id" : 5,
+      "eojeol" : "그래도",
+      "standard" : "그래도",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "주원",
+      "standard" : "주원",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "사진도",
+      "standard" : "사진도",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "찍구유.",
+      "standard" : "찍고요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.18",
+    "start" : 82.75,
+    "end" : 85.51,
+    "speaker_id" : "1",
+    "form" : "올라가서 포토 존도 (있길래유.)/(있길래요.)",
+    "standard_form" : "올라가서 포토 존도 있길래요.",
+    "dialect_form" : "올라가서 포토 존도 있길래유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "올라가서",
+      "standard" : "올라가서",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "포토",
+      "standard" : "포토",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "존도",
+      "standard" : "존도",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "있길래유.",
+      "standard" : "있길래요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.19",
+    "start" : 85.7,
+    "end" : 88.37,
+    "speaker_id" : "1",
+    "form" : "열심히 사진도 (찍고유.)/(찍고요.)",
+    "standard_form" : "열심히 사진도 찍고요.",
+    "dialect_form" : "열심히 사진도 찍고유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "열심히",
+      "standard" : "열심히",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "사진도",
+      "standard" : "사진도",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "찍고유.",
+      "standard" : "찍고요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.20",
+    "start" : 90.75,
+    "end" : 95.49,
+    "speaker_id" : "1",
+    "form" : "(왼쪽에는유)/(왼쪽에는요) 엘이디 우산이 (있더라구유.)/(있더라고요.)",
+    "standard_form" : "왼쪽에는요 엘이디 우산이 있더라고요.",
+    "dialect_form" : "왼쪽에는유 엘이디 우산이 있더라구유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "왼쪽에는유",
+      "standard" : "왼쪽에는요",
+      "isDialect" : true
+    }, {
+      "id" : 2,
+      "eojeol" : "엘이디",
+      "standard" : "엘이디",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "우산이",
+      "standard" : "우산이",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "있더라구유.",
+      "standard" : "있더라고요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.21",
+    "start" : 95.49,
+    "end" : 99.61,
+    "speaker_id" : "1",
+    "form" : "그래서 그 엘이디 우산이 있는 (데서유.)/(데서요.)",
+    "standard_form" : "그래서 그 엘이디 우산이 있는 데서요.",
+    "dialect_form" : "그래서 그 엘이디 우산이 있는 데서유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "그래서",
+      "standard" : "그래서",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "그",
+      "standard" : "그",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "엘이디",
+      "standard" : "엘이디",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "우산이",
+      "standard" : "우산이",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "있는",
+      "standard" : "있는",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "데서유.",
+      "standard" : "데서요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.22",
+    "start" : 99.62,
+    "end" : 101.76,
+    "speaker_id" : "1",
+    "form" : "사진도 (찍었구먼유.)/(찍었어요.)",
+    "standard_form" : "사진도 찍었어요.",
+    "dialect_form" : "사진도 찍었구먼유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "사진도",
+      "standard" : "사진도",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "찍었구먼유.",
+      "standard" : "찍었어요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.23",
+    "start" : 101.85,
+    "end" : 104.45,
+    "speaker_id" : "1",
+    "form" : "혼자 (갔는데유.)/(갔는데요.)",
+    "standard_form" : "혼자 갔는데요.",
+    "dialect_form" : "혼자 갔는데유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "혼자",
+      "standard" : "혼자",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "갔는데유.",
+      "standard" : "갔는데요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.24",
+    "start" : 104.46000000000001,
+    "end" : 111.95,
+    "speaker_id" : "1",
+    "form" : "에~ 쪼금 사실 챙피하긴 했지만유 (챙피함을)/(창피함을) (무릅쓰고유.)/(무릅쓰고요.)",
+    "standard_form" : "에~ 쪼금 사실 챙피하긴 했지만유 창피함을 무릅쓰고요.",
+    "dialect_form" : "에~ 쪼금 사실 챙피하긴 했지만유 챙피함을 무릅쓰고유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "에~",
+      "standard" : "에~",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "쪼금",
+      "standard" : "쪼금",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "사실",
+      "standard" : "사실",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "챙피하긴",
+      "standard" : "챙피하긴",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "했지만유",
+      "standard" : "했지만유",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "챙피함을",
+      "standard" : "창피함을",
+      "isDialect" : true
+    }, {
+      "id" : 7,
+      "eojeol" : "무릅쓰고유.",
+      "standard" : "무릅쓰고요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.25",
+    "start" : 111.96000000000001,
+    "end" : 118.53,
+    "speaker_id" : "1",
+    "form" : "이제 또 (나가)/(제가) (쫌)/(조금) 많은 관종 짓을 (했구만유.)/(했어요.)",
+    "standard_form" : "이제 또 제가 조금 많은 관종 짓을 했어요.",
+    "dialect_form" : "이제 또 나가 쫌 많은 관종 짓을 했구만유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "이제",
+      "standard" : "이제",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "또",
+      "standard" : "또",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "나가",
+      "standard" : "제가",
+      "isDialect" : true
+    }, {
+      "id" : 4,
+      "eojeol" : "쫌",
+      "standard" : "조금",
+      "isDialect" : true
+    }, {
+      "id" : 5,
+      "eojeol" : "많은",
+      "standard" : "많은",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "관종",
+      "standard" : "관종",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "짓을",
+      "standard" : "짓을",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "했구만유.",
+      "standard" : "했어요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.26",
+    "start" : 119.25,
+    "end" : 124.65,
+    "speaker_id" : "1",
+    "form" : "그래도 이왕한거 우산을 잡고 찍을 걸 왜",
+    "standard_form" : "그래도 이왕한거 우산을 잡고 찍을 걸 왜",
+    "dialect_form" : "그래도 이왕한거 우산을 잡고 찍을 걸 왜",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "그래도",
+      "standard" : "그래도",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "이왕한거",
+      "standard" : "이왕한거",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "우산을",
+      "standard" : "우산을",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "잡고",
+      "standard" : "잡고",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "찍을",
+      "standard" : "찍을",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "걸",
+      "standard" : "걸",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "왜",
+      "standard" : "왜",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.27",
+    "start" : 124.66,
+    "end" : 128.51,
+    "speaker_id" : "1",
+    "form" : "아~ (쫌)/(조금) (되네유.)/(되네요.)",
+    "standard_form" : "아~ 조금 되네요.",
+    "dialect_form" : "아~ 쫌 되네유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "아~",
+      "standard" : "아~",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "쫌",
+      "standard" : "조금",
+      "isDialect" : true
+    }, {
+      "id" : 3,
+      "eojeol" : "되네유.",
+      "standard" : "되네요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.28",
+    "start" : 128.51,
+    "end" : 131.67,
+    "speaker_id" : "1",
+    "form" : "우산이 천장에 달려 (있어서유.)/(있어서요.)",
+    "standard_form" : "우산이 천장에 달려 있어서요.",
+    "dialect_form" : "우산이 천장에 달려 있어서유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "우산이",
+      "standard" : "우산이",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "천장에",
+      "standard" : "천장에",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "달려",
+      "standard" : "달려",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "있어서유.",
+      "standard" : "있어서요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.29",
+    "start" : 131.67999999999998,
+    "end" : 134.47,
+    "speaker_id" : "1",
+    "form" : "손이안 닿을까 싶어서",
+    "standard_form" : "손이안 닿을까 싶어서",
+    "dialect_form" : "손이안 닿을까 싶어서",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "손이안",
+      "standard" : "손이안",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "닿을까",
+      "standard" : "닿을까",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "싶어서",
+      "standard" : "싶어서",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.30",
+    "start" : 135,
+    "end" : 138.51,
+    "speaker_id" : "1",
+    "form" : "다 이게 시도는 안 (해봤는디)/(해봤는데)",
+    "standard_form" : "다 이게 시도는 안 해봤는데",
+    "dialect_form" : "다 이게 시도는 안 해봤는디",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "다",
+      "standard" : "다",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "이게",
+      "standard" : "이게",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "시도는",
+      "standard" : "시도는",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "안",
+      "standard" : "안",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "해봤는디",
+      "standard" : "해봤는데",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.31",
+    "start" : 138.51999999999998,
+    "end" : 141.22,
+    "speaker_id" : "1",
+    "form" : "그래도 한번 시도는 해 볼걸 (그랬어유.)/(그랬어요.)",
+    "standard_form" : "그래도 한번 시도는 해 볼걸 그랬어요.",
+    "dialect_form" : "그래도 한번 시도는 해 볼걸 그랬어유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "그래도",
+      "standard" : "그래도",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "한번",
+      "standard" : "한번",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "시도는",
+      "standard" : "시도는",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "해",
+      "standard" : "해",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "볼걸",
+      "standard" : "볼걸",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "그랬어유.",
+      "standard" : "그랬어요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.32",
+    "start" : 142.25,
+    "end" : 146.03542372881356,
+    "speaker_id" : "1",
+    "form" : "그리고 이제 공연장에 들어 (가서유.)/(가서요.)",
+    "standard_form" : "그리고 이제 공연장에 들어 가서요.",
+    "dialect_form" : "그리고 이제 공연장에 들어 가서유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "그리고",
+      "standard" : "그리고",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "이제",
+      "standard" : "이제",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "공연장에",
+      "standard" : "공연장에",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "들어",
+      "standard" : "들어",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "가서유.",
+      "standard" : "가서요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.33",
+    "start" : 146.04542372881355,
+    "end" : 150.84,
+    "speaker_id" : "1",
+    "form" : "이제 들어 (갔는디)/(갔는데) @상호명 (는유.)/(는요.)",
+    "standard_form" : "이제 들어 갔는데 &company-name& 는요.",
+    "dialect_form" : "이제 들어 갔는디 &company-name& 는유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "이제",
+      "standard" : "이제",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "들어",
+      "standard" : "들어",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "갔는디",
+      "standard" : "갔는데",
+      "isDialect" : true
+    }, {
+      "id" : 4,
+      "eojeol" : "&company-name&",
+      "standard" : "&company-name&",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "는유.",
+      "standard" : "는요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.34",
+    "start" : 151,
+    "end" : 155.49,
+    "speaker_id" : "1",
+    "form" : "-보이는 것- (이케)/(이렇게) 사진을 보이는 것 처럼",
+    "standard_form" : "-보이는 것- 이렇게 사진을 보이는 것 처럼",
+    "dialect_form" : "-보이는 것- 이케 사진을 보이는 것 처럼",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "-보이는",
+      "standard" : "-보이는",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "것-",
+      "standard" : "것-",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "이케",
+      "standard" : "이렇게",
+      "isDialect" : true
+    }, {
+      "id" : 4,
+      "eojeol" : "사진을",
+      "standard" : "사진을",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "보이는",
+      "standard" : "보이는",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "것",
+      "standard" : "것",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "처럼",
+      "standard" : "처럼",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.35",
+    "start" : 155.5,
+    "end" : 157.38,
+    "speaker_id" : "1",
+    "form" : "굉장히 (쫍아유.)/(좁아요.)",
+    "standard_form" : "굉장히 좁아요.",
+    "dialect_form" : "굉장히 쫍아유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "굉장히",
+      "standard" : "굉장히",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "쫍아유.",
+      "standard" : "좁아요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.36",
+    "start" : 157.48,
+    "end" : 163.44,
+    "speaker_id" : "1",
+    "form" : "처음 시작할 때의 무대가 너무너무 좁아 보여서",
+    "standard_form" : "처음 시작할 때의 무대가 너무너무 좁아 보여서",
+    "dialect_form" : "처음 시작할 때의 무대가 너무너무 좁아 보여서",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "처음",
+      "standard" : "처음",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "시작할",
+      "standard" : "시작할",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "때의",
+      "standard" : "때의",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "무대가",
+      "standard" : "무대가",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "너무너무",
+      "standard" : "너무너무",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "좁아",
+      "standard" : "좁아",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "보여서",
+      "standard" : "보여서",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.37",
+    "start" : 163.45,
+    "end" : 165.41,
+    "speaker_id" : "1",
+    "form" : "아니 뭘 할 수 있겠나",
+    "standard_form" : "아니 뭘 할 수 있겠나",
+    "dialect_form" : "아니 뭘 할 수 있겠나",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "아니",
+      "standard" : "아니",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "뭘",
+      "standard" : "뭘",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "할",
+      "standard" : "할",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "수",
+      "standard" : "수",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "있겠나",
+      "standard" : "있겠나",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.38",
+    "start" : 165.42,
+    "end" : 169.3,
+    "speaker_id" : "1",
+    "form" : "싶었을 (만큼유)/(만큼요) 무대가 좁은 만큼",
+    "standard_form" : "싶었을 만큼요 무대가 좁은 만큼",
+    "dialect_form" : "싶었을 만큼유 무대가 좁은 만큼",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "싶었을",
+      "standard" : "싶었을",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "만큼유",
+      "standard" : "만큼요",
+      "isDialect" : true
+    }, {
+      "id" : 3,
+      "eojeol" : "무대가",
+      "standard" : "무대가",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "좁은",
+      "standard" : "좁은",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "만큼",
+      "standard" : "만큼",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.39",
+    "start" : 169.31,
+    "end" : 173.3,
+    "speaker_id" : "1",
+    "form" : "무대 구성장치나 스크린이나",
+    "standard_form" : "무대 구성장치나 스크린이나",
+    "dialect_form" : "무대 구성장치나 스크린이나",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "무대",
+      "standard" : "무대",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "구성장치나",
+      "standard" : "구성장치나",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "스크린이나",
+      "standard" : "스크린이나",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.40",
+    "start" : 173.31,
+    "end" : 179.97,
+    "speaker_id" : "1",
+    "form" : "무빙워크의 저 활용도를 최대화시켜서 무대 구성 연출을",
+    "standard_form" : "무빙워크의 저 활용도를 최대화시켜서 무대 구성 연출을",
+    "dialect_form" : "무빙워크의 저 활용도를 최대화시켜서 무대 구성 연출을",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "무빙워크의",
+      "standard" : "무빙워크의",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "저",
+      "standard" : "저",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "활용도를",
+      "standard" : "활용도를",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "최대화시켜서",
+      "standard" : "최대화시켜서",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "무대",
+      "standard" : "무대",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "구성",
+      "standard" : "구성",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "연출을",
+      "standard" : "연출을",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.41",
+    "start" : 181.5,
+    "end" : 188.57,
+    "speaker_id" : "1",
+    "form" : "음~잘했다고 -잘했다- 아~ 싶을 만큼 생각이 (들구유.)/(들고요.)",
+    "standard_form" : "음~잘했다고 -잘했다- 아~ 싶을 만큼 생각이 들고요.",
+    "dialect_form" : "음~잘했다고 -잘했다- 아~ 싶을 만큼 생각이 들구유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "음~잘했다고",
+      "standard" : "음~잘했다고",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "-잘했다-",
+      "standard" : "-잘했다-",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "아~",
+      "standard" : "아~",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "싶을",
+      "standard" : "싶을",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "만큼",
+      "standard" : "만큼",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "생각이",
+      "standard" : "생각이",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "들구유.",
+      "standard" : "들고요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.42",
+    "start" : 189,
+    "end" : 194.4,
+    "speaker_id" : "1",
+    "form" : "스크린과 무빙워크를 (통해서유)/(통해서요) 움직이는거",
+    "standard_form" : "스크린과 무빙워크를 통해서요 움직이는거",
+    "dialect_form" : "스크린과 무빙워크를 통해서유 움직이는거",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "스크린과",
+      "standard" : "스크린과",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "무빙워크를",
+      "standard" : "무빙워크를",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "통해서유",
+      "standard" : "통해서요",
+      "isDialect" : true
+    }, {
+      "id" : 4,
+      "eojeol" : "움직이는거",
+      "standard" : "움직이는거",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.43",
+    "start" : 194.41,
+    "end" : 198.3,
+    "speaker_id" : "1",
+    "form" : "역동적인 거를 잘 표현한것 (같애유.)/(같아요.)",
+    "standard_form" : "역동적인 거를 잘 표현한것 같아요.",
+    "dialect_form" : "역동적인 거를 잘 표현한것 같애유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "역동적인",
+      "standard" : "역동적인",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "거를",
+      "standard" : "거를",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "잘",
+      "standard" : "잘",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "표현한것",
+      "standard" : "표현한것",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "같애유.",
+      "standard" : "같아요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.44",
+    "start" : 199,
+    "end" : 205.1,
+    "speaker_id" : "1",
+    "form" : "사람들 계속 움직이는 거나 엘리베이터나 이제 (())등등",
+    "standard_form" : "사람들 계속 움직이는 거나 엘리베이터나 이제 (())등등",
+    "dialect_form" : "사람들 계속 움직이는 거나 엘리베이터나 이제 (())등등",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "사람들",
+      "standard" : "사람들",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "계속",
+      "standard" : "계속",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "움직이는",
+      "standard" : "움직이는",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "거나",
+      "standard" : "거나",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "엘리베이터나",
+      "standard" : "엘리베이터나",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "이제",
+      "standard" : "이제",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "(())",
+      "standard" : "(())",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "등등",
+      "standard" : "등등",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.45",
+    "start" : 205.11,
+    "end" : 213.97,
+    "speaker_id" : "1",
+    "form" : "아 (근디유)/(근데요) 그렇게 좁은 데도 실제 (()) 음악을 연주해주는",
+    "standard_form" : "아 근데요 그렇게 좁은 데도 실제 (()) 음악을 연주해주는",
+    "dialect_form" : "아 근디유 그렇게 좁은 데도 실제 (()) 음악을 연주해주는",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "아",
+      "standard" : "아",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "근디유",
+      "standard" : "근데요",
+      "isDialect" : true
+    }, {
+      "id" : 3,
+      "eojeol" : "그렇게",
+      "standard" : "그렇게",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "좁은",
+      "standard" : "좁은",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "데도",
+      "standard" : "데도",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "실제",
+      "standard" : "실제",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "(())",
+      "standard" : "(())",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "음악을",
+      "standard" : "음악을",
+      "isDialect" : false
+    }, {
+      "id" : 9,
+      "eojeol" : "연주해주는",
+      "standard" : "연주해주는",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.46",
+    "start" : 214.75,
+    "end" : 219.2,
+    "speaker_id" : "1",
+    "form" : "주는거 (보구유)/(보고요) 역시 서울은 (다르구먼유.)/(다르네요.)",
+    "standard_form" : "주는거 보고요 역시 서울은 다르네요.",
+    "dialect_form" : "주는거 보구유 역시 서울은 다르구먼유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "주는거",
+      "standard" : "주는거",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "보구유",
+      "standard" : "보고요",
+      "isDialect" : true
+    }, {
+      "id" : 3,
+      "eojeol" : "역시",
+      "standard" : "역시",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "서울은",
+      "standard" : "서울은",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "다르구먼유.",
+      "standard" : "다르네요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.47",
+    "start" : 219.75,
+    "end" : 226.41,
+    "speaker_id" : "1",
+    "form" : "뮤지컬은 이제 극 완전 (초반에는유)/(초반에는요) 상당히 (겁나게)/(굉장히)",
+    "standard_form" : "뮤지컬은 이제 극 완전 초반에는요 상당히 굉장히",
+    "dialect_form" : "뮤지컬은 이제 극 완전 초반에는유 상당히 겁나게",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "뮤지컬은",
+      "standard" : "뮤지컬은",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "이제",
+      "standard" : "이제",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "극",
+      "standard" : "극",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "완전",
+      "standard" : "완전",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "초반에는유",
+      "standard" : "초반에는요",
+      "isDialect" : true
+    }, {
+      "id" : 6,
+      "eojeol" : "상당히",
+      "standard" : "상당히",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "겁나게",
+      "standard" : "굉장히",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.48",
+    "start" : 229.25,
+    "end" : 233.68,
+    "speaker_id" : "1",
+    "form" : "쪼금 야한 장면이 (나오는디유.)/(나오는데요.)",
+    "standard_form" : "쪼금 야한 장면이 나오는데요.",
+    "dialect_form" : "쪼금 야한 장면이 나오는디유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "쪼금",
+      "standard" : "쪼금",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "야한",
+      "standard" : "야한",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "장면이",
+      "standard" : "장면이",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "나오는디유.",
+      "standard" : "나오는데요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.49",
+    "start" : 233.75,
+    "end" : 240.24,
+    "speaker_id" : "1",
+    "form" : "어~ 주원 몸이 -굉장하더- 굉장 (하더라구유)/(하더라고요) 관리를 (했나봐유.)/(했나봐요.)",
+    "standard_form" : "어~ 주원 몸이 -굉장하더- 굉장 하더라고요 관리를 했나봐요.",
+    "dialect_form" : "어~ 주원 몸이 -굉장하더- 굉장 하더라구유 관리를 했나봐유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "어~",
+      "standard" : "어~",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "주원",
+      "standard" : "주원",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "몸이",
+      "standard" : "몸이",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "-굉장하더-",
+      "standard" : "-굉장하더-",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "굉장",
+      "standard" : "굉장",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "하더라구유",
+      "standard" : "하더라고요",
+      "isDialect" : true
+    }, {
+      "id" : 7,
+      "eojeol" : "관리를",
+      "standard" : "관리를",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "했나봐유.",
+      "standard" : "했나봐요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.50",
+    "start" : 240.75,
+    "end" : 244.97,
+    "speaker_id" : "1",
+    "form" : "아니 (근디)/(근데) 처음엔 깜짝 (놀랬잖아유.)/(놀랐잖아요.)",
+    "standard_form" : "아니 근데 처음엔 깜짝 놀랐잖아요.",
+    "dialect_form" : "아니 근디 처음엔 깜짝 놀랬잖아유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "아니",
+      "standard" : "아니",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "근디",
+      "standard" : "근데",
+      "isDialect" : true
+    }, {
+      "id" : 3,
+      "eojeol" : "처음엔",
+      "standard" : "처음엔",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "깜짝",
+      "standard" : "깜짝",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "놀랬잖아유.",
+      "standard" : "놀랐잖아요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.51",
+    "start" : 244.97,
+    "end" : 248.87,
+    "speaker_id" : "1",
+    "form" : "이게 십구세 였나 -싶었- 싶을 (만큼유.)/(만큼요.)",
+    "standard_form" : "이게 십구세 였나 -싶었- 싶을 만큼요.",
+    "dialect_form" : "이게 십구세 였나 -싶었- 싶을 만큼유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "이게",
+      "standard" : "이게",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "십구세",
+      "standard" : "십구세",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "였나",
+      "standard" : "였나",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "-싶었-",
+      "standard" : "-싶었-",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "싶을",
+      "standard" : "싶을",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "만큼유.",
+      "standard" : "만큼요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.52",
+    "start" : 248.88,
+    "end" : 254.42,
+    "speaker_id" : "1",
+    "form" : "물론 그만큼에 야한 뭔가는 안 (나오지만유.)/(나오지만요.)",
+    "standard_form" : "물론 그만큼에 야한 뭔가는 안 나오지만요.",
+    "dialect_form" : "물론 그만큼에 야한 뭔가는 안 나오지만유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "물론",
+      "standard" : "물론",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "그만큼에",
+      "standard" : "그만큼에",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "야한",
+      "standard" : "야한",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "뭔가는",
+      "standard" : "뭔가는",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "안",
+      "standard" : "안",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "나오지만유.",
+      "standard" : "나오지만요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.53",
+    "start" : 254.5,
+    "end" : 259.87,
+    "speaker_id" : "1",
+    "form" : "그래도 쪼끔 그 장면이 제일 기억에 나",
+    "standard_form" : "그래도 쪼끔 그 장면이 제일 기억에 나",
+    "dialect_form" : "그래도 쪼끔 그 장면이 제일 기억에 나",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "그래도",
+      "standard" : "그래도",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "쪼끔",
+      "standard" : "쪼끔",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "그",
+      "standard" : "그",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "장면이",
+      "standard" : "장면이",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "제일",
+      "standard" : "제일",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "기억에",
+      "standard" : "기억에",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "나",
+      "standard" : "나",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.54",
+    "start" : 259.88,
+    "end" : 263.8,
+    "speaker_id" : "1",
+    "form" : "(나는데유)/(나는데요) @웃음",
+    "standard_form" : "나는데요 {laughing}",
+    "dialect_form" : "나는데유 {laughing}",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "나는데유",
+      "standard" : "나는데요",
+      "isDialect" : true
+    }, {
+      "id" : 2,
+      "eojeol" : "{laughing}",
+      "standard" : "{laughing}",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.55",
+    "start" : 263.81,
+    "end" : 270.26,
+    "speaker_id" : "1",
+    "form" : "(무튼유)/(아무튼요) (주원은유)/(주원은요) 진짜 너무너무 (멋있었구유.)/(멋있었고요.)",
+    "standard_form" : "아무튼요 주원은요 진짜 너무너무 멋있었고요.",
+    "dialect_form" : "무튼유 주원은유 진짜 너무너무 멋있었구유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "무튼유",
+      "standard" : "아무튼요",
+      "isDialect" : true
+    }, {
+      "id" : 2,
+      "eojeol" : "주원은유",
+      "standard" : "주원은요",
+      "isDialect" : true
+    }, {
+      "id" : 3,
+      "eojeol" : "진짜",
+      "standard" : "진짜",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "너무너무",
+      "standard" : "너무너무",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "멋있었구유.",
+      "standard" : "멋있었고요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.56",
+    "start" : 270.27,
+    "end" : 276.14,
+    "speaker_id" : "1",
+    "form" : "이래서 삼십대를 (이케)/(이렇게)",
+    "standard_form" : "이래서 삼십대를 이렇게",
+    "dialect_form" : "이래서 삼십대를 이케",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "이래서",
+      "standard" : "이래서",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "삼십대를",
+      "standard" : "삼십대를",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "이케",
+      "standard" : "이렇게",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.57",
+    "start" : 276.14,
+    "end" : 280.11,
+    "speaker_id" : "1",
+    "form" : "덕질을 많이 하나 싶기도 (하더라구유.)/(하더라고요.)",
+    "standard_form" : "덕질을 많이 하나 싶기도 하더라고요.",
+    "dialect_form" : "덕질을 많이 하나 싶기도 하더라구유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "덕질을",
+      "standard" : "덕질을",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "많이",
+      "standard" : "많이",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "하나",
+      "standard" : "하나",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "싶기도",
+      "standard" : "싶기도",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "하더라구유.",
+      "standard" : "하더라고요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.58",
+    "start" : 280.25,
+    "end" : 284.84,
+    "speaker_id" : "1",
+    "form" : "(증말루유)/(정말로요) 남자의 성숙미를 느낄 수 있었다",
+    "standard_form" : "정말로요 남자의 성숙미를 느낄 수 있었다",
+    "dialect_form" : "증말루유 남자의 성숙미를 느낄 수 있었다",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "증말루유",
+      "standard" : "정말로요",
+      "isDialect" : true
+    }, {
+      "id" : 2,
+      "eojeol" : "남자의",
+      "standard" : "남자의",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "성숙미를",
+      "standard" : "성숙미를",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "느낄",
+      "standard" : "느낄",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "수",
+      "standard" : "수",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "있었다",
+      "standard" : "있었다",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.59",
+    "start" : 285,
+    "end" : 289.43,
+    "speaker_id" : "1",
+    "form" : "있었다고 어~ 생각이 (되는구먼유.)/(되네요.)",
+    "standard_form" : "있었다고 어~ 생각이 되네요.",
+    "dialect_form" : "있었다고 어~ 생각이 되는구먼유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "있었다고",
+      "standard" : "있었다고",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "어~",
+      "standard" : "어~",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "생각이",
+      "standard" : "생각이",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "되는구먼유.",
+      "standard" : "되네요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.60",
+    "start" : 289.5,
+    "end" : 295.17,
+    "speaker_id" : "1",
+    "form" : "안 (그래두유)/(그래도요) 키크고 몸좋아서 수트 빨도 장난이 (아닌데유.)/(아닌데요.)",
+    "standard_form" : "안 그래도요 키크고 몸좋아서 수트 빨도 장난이 아닌데요.",
+    "dialect_form" : "안 그래두유 키크고 몸좋아서 수트 빨도 장난이 아닌데유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "안",
+      "standard" : "안",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "그래두유",
+      "standard" : "그래도요",
+      "isDialect" : true
+    }, {
+      "id" : 3,
+      "eojeol" : "키크고",
+      "standard" : "키크고",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "몸좋아서",
+      "standard" : "몸좋아서",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "수트",
+      "standard" : "수트",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "빨도",
+      "standard" : "빨도",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "장난이",
+      "standard" : "장난이",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "아닌데유.",
+      "standard" : "아닌데요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.61",
+    "start" : 295.19,
+    "end" : 297.6,
+    "speaker_id" : "1",
+    "form" : "진지하게 뮤지컬",
+    "standard_form" : "진지하게 뮤지컬",
+    "dialect_form" : "진지하게 뮤지컬",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "진지하게",
+      "standard" : "진지하게",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "뮤지컬",
+      "standard" : "뮤지컬",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.62",
+    "start" : 297.61,
+    "end" : 304.53,
+    "speaker_id" : "1",
+    "form" : "여주가 부럽기는 처음 (이었고만유)/(이었어요.) 이 정도면 뮤지컬 후기가 (아니라유)/(아니라요) 그냥",
+    "standard_form" : "여주가 부럽기는 처음 이었어요. 이 정도면 뮤지컬 후기가 아니라요 그냥",
+    "dialect_form" : "여주가 부럽기는 처음 이었고만유 이 정도면 뮤지컬 후기가 아니라유 그냥",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "여주가",
+      "standard" : "여주가",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "부럽기는",
+      "standard" : "부럽기는",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "처음",
+      "standard" : "처음",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "이었고만유",
+      "standard" : "이었어요.",
+      "isDialect" : true
+    }, {
+      "id" : 5,
+      "eojeol" : "이",
+      "standard" : "이",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "정도면",
+      "standard" : "정도면",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "뮤지컬",
+      "standard" : "뮤지컬",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "후기가",
+      "standard" : "후기가",
+      "isDialect" : false
+    }, {
+      "id" : 9,
+      "eojeol" : "아니라유",
+      "standard" : "아니라요",
+      "isDialect" : true
+    }, {
+      "id" : 10,
+      "eojeol" : "그냥",
+      "standard" : "그냥",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.63",
+    "start" : 305,
+    "end" : 308.5022222222222,
+    "speaker_id" : "1",
+    "form" : "에~주원 감상후기 같긴 (한데유.)/(한데요.)",
+    "standard_form" : "에~주원 감상후기 같긴 한데요.",
+    "dialect_form" : "에~주원 감상후기 같긴 한데유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "에~주원",
+      "standard" : "에~주원",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "감상후기",
+      "standard" : "감상후기",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "같긴",
+      "standard" : "같긴",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "한데유.",
+      "standard" : "한데요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.64",
+    "start" : 308.5122222222222,
+    "end" : 312.88,
+    "speaker_id" : "1",
+    "form" : "다시 이제 뮤지컬 얘기로 (돌아가면유.)/(돌아가면요.)",
+    "standard_form" : "다시 이제 뮤지컬 얘기로 돌아가면요.",
+    "dialect_form" : "다시 이제 뮤지컬 얘기로 돌아가면유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "다시",
+      "standard" : "다시",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "이제",
+      "standard" : "이제",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "뮤지컬",
+      "standard" : "뮤지컬",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "얘기로",
+      "standard" : "얘기로",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "돌아가면유.",
+      "standard" : "돌아가면요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.65",
+    "start" : 313.5,
+    "end" : 321.02,
+    "speaker_id" : "1",
+    "form" : "(고스트는유)/(고스트는요) -영혼- 고스트는 영화 사랑과 영혼 을 원작으로 한 뮤지컬",
+    "standard_form" : "고스트는요 -영혼- 고스트는 영화 사랑과 영혼 을 원작으로 한 뮤지컬",
+    "dialect_form" : "고스트는유 -영혼- 고스트는 영화 사랑과 영혼 을 원작으로 한 뮤지컬",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "고스트는유",
+      "standard" : "고스트는요",
+      "isDialect" : true
+    }, {
+      "id" : 2,
+      "eojeol" : "-영혼-",
+      "standard" : "-영혼-",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "고스트는",
+      "standard" : "고스트는",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "영화",
+      "standard" : "영화",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "사랑과",
+      "standard" : "사랑과",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "영혼",
+      "standard" : "영혼",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "을",
+      "standard" : "을",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "원작으로",
+      "standard" : "원작으로",
+      "isDialect" : false
+    }, {
+      "id" : 9,
+      "eojeol" : "한",
+      "standard" : "한",
+      "isDialect" : false
+    }, {
+      "id" : 10,
+      "eojeol" : "뮤지컬",
+      "standard" : "뮤지컬",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.66",
+    "start" : 321.36297297297295,
+    "end" : 327.63,
+    "speaker_id" : "1",
+    "form" : "(이었어유)/(이었어요) 이천 십 일 년에 런던에서 이제 초연이 됐다고 (해유.)/(해요.)",
+    "standard_form" : "이었어요 이천 십 일 년에 런던에서 이제 초연이 됐다고 해요.",
+    "dialect_form" : "이었어유 이천 십 일 년에 런던에서 이제 초연이 됐다고 해유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "이었어유",
+      "standard" : "이었어요",
+      "isDialect" : true
+    }, {
+      "id" : 2,
+      "eojeol" : "이천",
+      "standard" : "이천",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "십",
+      "standard" : "십",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "일",
+      "standard" : "일",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "년에",
+      "standard" : "년에",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "런던에서",
+      "standard" : "런던에서",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "이제",
+      "standard" : "이제",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "초연이",
+      "standard" : "초연이",
+      "isDialect" : false
+    }, {
+      "id" : 9,
+      "eojeol" : "됐다고",
+      "standard" : "됐다고",
+      "isDialect" : false
+    }, {
+      "id" : 10,
+      "eojeol" : "해유.",
+      "standard" : "해요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.67",
+    "start" : 327.75,
+    "end" : 332.37,
+    "speaker_id" : "1",
+    "form" : "(()) 원작 영화가 미국이다",
+    "standard_form" : "(()) 원작 영화가 미국이다",
+    "dialect_form" : "(()) 원작 영화가 미국이다",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "(())",
+      "standard" : "(())",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "원작",
+      "standard" : "원작",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "영화가",
+      "standard" : "영화가",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "미국이다",
+      "standard" : "미국이다",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.68",
+    "start" : 332.5,
+    "end" : 339.79,
+    "speaker_id" : "1",
+    "form" : "(보니께유)/(보니까요) 보는 내내 미국 뉴욕 한가운데 있는 느낌을 받을 수 (있었어유.)/(있었어요.)",
+    "standard_form" : "보니까요 보는 내내 미국 뉴욕 한가운데 있는 느낌을 받을 수 있었어요.",
+    "dialect_form" : "보니께유 보는 내내 미국 뉴욕 한가운데 있는 느낌을 받을 수 있었어유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "보니께유",
+      "standard" : "보니까요",
+      "isDialect" : true
+    }, {
+      "id" : 2,
+      "eojeol" : "보는",
+      "standard" : "보는",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "내내",
+      "standard" : "내내",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "미국",
+      "standard" : "미국",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "뉴욕",
+      "standard" : "뉴욕",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "한가운데",
+      "standard" : "한가운데",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "있는",
+      "standard" : "있는",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "느낌을",
+      "standard" : "느낌을",
+      "isDialect" : false
+    }, {
+      "id" : 9,
+      "eojeol" : "받을",
+      "standard" : "받을",
+      "isDialect" : false
+    }, {
+      "id" : 10,
+      "eojeol" : "수",
+      "standard" : "수",
+      "isDialect" : false
+    }, {
+      "id" : 11,
+      "eojeol" : "있었어유.",
+      "standard" : "있었어요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.69",
+    "start" : 339.8,
+    "end" : 345.39,
+    "speaker_id" : "1",
+    "form" : "사실 가보지는 (않았지만유)/(않았지만요) 그런 느낌이 든거 (같네유.)/(같네요.)",
+    "standard_form" : "사실 가보지는 않았지만요 그런 느낌이 든거 같네요.",
+    "dialect_form" : "사실 가보지는 않았지만유 그런 느낌이 든거 같네유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "사실",
+      "standard" : "사실",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "가보지는",
+      "standard" : "가보지는",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "않았지만유",
+      "standard" : "않았지만요",
+      "isDialect" : true
+    }, {
+      "id" : 4,
+      "eojeol" : "그런",
+      "standard" : "그런",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "느낌이",
+      "standard" : "느낌이",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "든거",
+      "standard" : "든거",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "같네유.",
+      "standard" : "같네요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.70",
+    "start" : 345.5,
+    "end" : 350.8,
+    "speaker_id" : "1",
+    "form" : "화려하고 바쁜 미국 금융과 회사원들을 보는 느낌 (이었어유.)/(이었어요.)",
+    "standard_form" : "화려하고 바쁜 미국 금융과 회사원들을 보는 느낌 이었어요.",
+    "dialect_form" : "화려하고 바쁜 미국 금융과 회사원들을 보는 느낌 이었어유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "화려하고",
+      "standard" : "화려하고",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "바쁜",
+      "standard" : "바쁜",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "미국",
+      "standard" : "미국",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "금융과",
+      "standard" : "금융과",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "회사원들을",
+      "standard" : "회사원들을",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "보는",
+      "standard" : "보는",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "느낌",
+      "standard" : "느낌",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "이었어유.",
+      "standard" : "이었어요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.71",
+    "start" : 351.25,
+    "end" : 357.46,
+    "speaker_id" : "1",
+    "form" : "그거 말고 중간에 나오는 지하철에서 사람들 (옷차림이유.)/(옷차림이요.)",
+    "standard_form" : "그거 말고 중간에 나오는 지하철에서 사람들 옷차림이요.",
+    "dialect_form" : "그거 말고 중간에 나오는 지하철에서 사람들 옷차림이유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "그거",
+      "standard" : "그거",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "말고",
+      "standard" : "말고",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "중간에",
+      "standard" : "중간에",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "나오는",
+      "standard" : "나오는",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "지하철에서",
+      "standard" : "지하철에서",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "사람들",
+      "standard" : "사람들",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "옷차림이유.",
+      "standard" : "옷차림이요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.72",
+    "start" : 357.5,
+    "end" : 363.17,
+    "speaker_id" : "1",
+    "form" : "자유로운 스트릿 패션을 보여주고 싶었던 것 같긴 (한데유.)/(한데요.)",
+    "standard_form" : "자유로운 스트릿 패션을 보여주고 싶었던 것 같긴 한데요.",
+    "dialect_form" : "자유로운 스트릿 패션을 보여주고 싶었던 것 같긴 한데유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "자유로운",
+      "standard" : "자유로운",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "스트릿",
+      "standard" : "스트릿",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "패션을",
+      "standard" : "패션을",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "보여주고",
+      "standard" : "보여주고",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "싶었던",
+      "standard" : "싶었던",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "것",
+      "standard" : "것",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "같긴",
+      "standard" : "같긴",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "한데유.",
+      "standard" : "한데요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.73",
+    "start" : 363.18,
+    "end" : 368.4,
+    "speaker_id" : "1",
+    "form" : "그냥 구린 팔 십 년대 쌍팔년도 착장 (같았어유.)/(같았어요.)",
+    "standard_form" : "그냥 구린 팔 십 년대 쌍팔년도 착장 같았어요.",
+    "dialect_form" : "그냥 구린 팔 십 년대 쌍팔년도 착장 같았어유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "그냥",
+      "standard" : "그냥",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "구린",
+      "standard" : "구린",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "팔",
+      "standard" : "팔",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "십",
+      "standard" : "십",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "년대",
+      "standard" : "년대",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "쌍팔년도",
+      "standard" : "쌍팔년도",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "착장",
+      "standard" : "착장",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "같았어유.",
+      "standard" : "같았어요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.74",
+    "start" : 368.5,
+    "end" : 374.98,
+    "speaker_id" : "1",
+    "form" : "그리고 아무래도 내용 자체가 귀신이 되어버린 샘의 이야기다 (보니께유.)/(보니까요.)",
+    "standard_form" : "그리고 아무래도 내용 자체가 귀신이 되어버린 샘의 이야기다 보니까요.",
+    "dialect_form" : "그리고 아무래도 내용 자체가 귀신이 되어버린 샘의 이야기다 보니께유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "그리고",
+      "standard" : "그리고",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "아무래도",
+      "standard" : "아무래도",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "내용",
+      "standard" : "내용",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "자체가",
+      "standard" : "자체가",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "귀신이",
+      "standard" : "귀신이",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "되어버린",
+      "standard" : "되어버린",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "샘의",
+      "standard" : "샘의",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "이야기다",
+      "standard" : "이야기다",
+      "isDialect" : false
+    }, {
+      "id" : 9,
+      "eojeol" : "보니께유.",
+      "standard" : "보니까요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.75",
+    "start" : 375,
+    "end" : 382.39,
+    "speaker_id" : "1",
+    "form" : "(())라이브 공연에 연출의 한계가 (쫌)/(조금) -있었던- 있었던 것 (같애유.)/(같아요.)",
+    "standard_form" : "(())라이브 공연에 연출의 한계가 조금 -있었던- 있었던 것 같아요.",
+    "dialect_form" : "(())라이브 공연에 연출의 한계가 쫌 -있었던- 있었던 것 같애유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "(())",
+      "standard" : "(())",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "라이브",
+      "standard" : "라이브",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "공연에",
+      "standard" : "공연에",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "연출의",
+      "standard" : "연출의",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "한계가",
+      "standard" : "한계가",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "쫌",
+      "standard" : "조금",
+      "isDialect" : true
+    }, {
+      "id" : 7,
+      "eojeol" : "-있었던-",
+      "standard" : "-있었던-",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "있었던",
+      "standard" : "있었던",
+      "isDialect" : false
+    }, {
+      "id" : 9,
+      "eojeol" : "것",
+      "standard" : "것",
+      "isDialect" : false
+    }, {
+      "id" : 10,
+      "eojeol" : "같애유.",
+      "standard" : "같아요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.76",
+    "start" : 382.4,
+    "end" : 388.99,
+    "speaker_id" : "1",
+    "form" : "영화처럼 씨쥐 처리를 할수 있는것도 (아니구유)/(아니고요) 그래서 스크린 기술로",
+    "standard_form" : "영화처럼 씨쥐 처리를 할수 있는것도 아니고요 그래서 스크린 기술로",
+    "dialect_form" : "영화처럼 씨쥐 처리를 할수 있는것도 아니구유 그래서 스크린 기술로",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "영화처럼",
+      "standard" : "영화처럼",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "씨쥐",
+      "standard" : "씨쥐",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "처리를",
+      "standard" : "처리를",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "할수",
+      "standard" : "할수",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "있는것도",
+      "standard" : "있는것도",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "아니구유",
+      "standard" : "아니고요",
+      "isDialect" : true
+    }, {
+      "id" : 7,
+      "eojeol" : "그래서",
+      "standard" : "그래서",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "스크린",
+      "standard" : "스크린",
+      "isDialect" : false
+    }, {
+      "id" : 9,
+      "eojeol" : "기술로",
+      "standard" : "기술로",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.77",
+    "start" : 389,
+    "end" : 396.43,
+    "speaker_id" : "1",
+    "form" : "그걸 커버하려고 했는것 (같은디요)/(같은데요) 아무래도 가끔씩 (쫌)/(조금) 오글거리기는 (했어유.)/(했어요.)",
+    "standard_form" : "그걸 커버하려고 했는것 같은데요 아무래도 가끔씩 조금 오글거리기는 했어요.",
+    "dialect_form" : "그걸 커버하려고 했는것 같은디요 아무래도 가끔씩 쫌 오글거리기는 했어유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "그걸",
+      "standard" : "그걸",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "커버하려고",
+      "standard" : "커버하려고",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "했는것",
+      "standard" : "했는것",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "같은디요",
+      "standard" : "같은데요",
+      "isDialect" : true
+    }, {
+      "id" : 5,
+      "eojeol" : "아무래도",
+      "standard" : "아무래도",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "가끔씩",
+      "standard" : "가끔씩",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "쫌",
+      "standard" : "조금",
+      "isDialect" : true
+    }, {
+      "id" : 8,
+      "eojeol" : "오글거리기는",
+      "standard" : "오글거리기는",
+      "isDialect" : false
+    }, {
+      "id" : 9,
+      "eojeol" : "했어유.",
+      "standard" : "했어요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.78",
+    "start" : 397,
+    "end" : 402.55,
+    "speaker_id" : "1",
+    "form" : "그래두 실시간 뮤지컬에서 그 정도 연출이면",
+    "standard_form" : "그래두 실시간 뮤지컬에서 그 정도 연출이면",
+    "dialect_form" : "그래두 실시간 뮤지컬에서 그 정도 연출이면",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "그래두",
+      "standard" : "그래두",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "실시간",
+      "standard" : "실시간",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "뮤지컬에서",
+      "standard" : "뮤지컬에서",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "그",
+      "standard" : "그",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "정도",
+      "standard" : "정도",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "연출이면",
+      "standard" : "연출이면",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.79",
+    "start" : 402.56,
+    "end" : 406.33,
+    "speaker_id" : "1",
+    "form" : "저는 (겁나게)/(굉장히) 훌륭했다고 (봐유.)/(봐요.)",
+    "standard_form" : "저는 굉장히 훌륭했다고 봐요.",
+    "dialect_form" : "저는 겁나게 훌륭했다고 봐유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "저는",
+      "standard" : "저는",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "겁나게",
+      "standard" : "굉장히",
+      "isDialect" : true
+    }, {
+      "id" : 3,
+      "eojeol" : "훌륭했다고",
+      "standard" : "훌륭했다고",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "봐유.",
+      "standard" : "봐요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.80",
+    "start" : 408,
+    "end" : 416.53,
+    "speaker_id" : "1",
+    "form" : "내용적으로 (보자면은유)/(보자면은요) 인터파크에 올라와 있는 이 설명을 딱 읽고 (갔는데유.)/(갔는데요.)",
+    "standard_form" : "내용적으로 보자면은요 인터파크에 올라와 있는 이 설명을 딱 읽고 갔는데요.",
+    "dialect_form" : "내용적으로 보자면은유 인터파크에 올라와 있는 이 설명을 딱 읽고 갔는데유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "내용적으로",
+      "standard" : "내용적으로",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "보자면은유",
+      "standard" : "보자면은요",
+      "isDialect" : true
+    }, {
+      "id" : 3,
+      "eojeol" : "인터파크에",
+      "standard" : "인터파크에",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "올라와",
+      "standard" : "올라와",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "있는",
+      "standard" : "있는",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "이",
+      "standard" : "이",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "설명을",
+      "standard" : "설명을",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "딱",
+      "standard" : "딱",
+      "isDialect" : false
+    }, {
+      "id" : 9,
+      "eojeol" : "읽고",
+      "standard" : "읽고",
+      "isDialect" : false
+    }, {
+      "id" : 10,
+      "eojeol" : "갔는데유.",
+      "standard" : "갔는데요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.81",
+    "start" : 416.53999999999996,
+    "end" : 418.7233333333333,
+    "speaker_id" : "1",
+    "form" : "나름 (재미있었어유.)/(재미있었어요.)",
+    "standard_form" : "나름 재미있었어요.",
+    "dialect_form" : "나름 재미있었어유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "나름",
+      "standard" : "나름",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "재미있었어유.",
+      "standard" : "재미있었어요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.82",
+    "start" : 418.7333333333333,
+    "end" : 423.09,
+    "speaker_id" : "1",
+    "form" : "그 인터파크에 올라와있는 설명을 제가 읽어 (드릴게유.)/(드릴게요.)",
+    "standard_form" : "그 인터파크에 올라와있는 설명을 제가 읽어 드릴게요.",
+    "dialect_form" : "그 인터파크에 올라와있는 설명을 제가 읽어 드릴게유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "그",
+      "standard" : "그",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "인터파크에",
+      "standard" : "인터파크에",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "올라와있는",
+      "standard" : "올라와있는",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "설명을",
+      "standard" : "설명을",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "제가",
+      "standard" : "제가",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "읽어",
+      "standard" : "읽어",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "드릴게유.",
+      "standard" : "드릴게요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.83",
+    "start" : 424.9,
+    "end" : 428.74,
+    "speaker_id" : "1",
+    "form" : "성공한 젊은 금융가 샘은",
+    "standard_form" : "성공한 젊은 금융가 샘은",
+    "dialect_form" : "성공한 젊은 금융가 샘은",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "성공한",
+      "standard" : "성공한",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "젊은",
+      "standard" : "젊은",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "금융가",
+      "standard" : "금융가",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "샘은",
+      "standard" : "샘은",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.84",
+    "start" : 429.25,
+    "end" : 433.95,
+    "speaker_id" : "1",
+    "form" : "그의 연인 도예가 몰리와 아름답게 개조한",
+    "standard_form" : "그의 연인 도예가 몰리와 아름답게 개조한",
+    "dialect_form" : "그의 연인 도예가 몰리와 아름답게 개조한",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "그의",
+      "standard" : "그의",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "연인",
+      "standard" : "연인",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "도예가",
+      "standard" : "도예가",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "몰리와",
+      "standard" : "몰리와",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "아름답게",
+      "standard" : "아름답게",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "개조한",
+      "standard" : "개조한",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.85",
+    "start" : 434.24,
+    "end" : 442.67,
+    "speaker_id" : "1",
+    "form" : "뉴욕의 아름다운 뉴욕의 아파트에서 사랑과 행복으로 가득찬 동거 생활을",
+    "standard_form" : "뉴욕의 아름다운 뉴욕의 아파트에서 사랑과 행복으로 가득찬 동거 생활을",
+    "dialect_form" : "뉴욕의 아름다운 뉴욕의 아파트에서 사랑과 행복으로 가득찬 동거 생활을",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "뉴욕의",
+      "standard" : "뉴욕의",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "아름다운",
+      "standard" : "아름다운",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "뉴욕의",
+      "standard" : "뉴욕의",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "아파트에서",
+      "standard" : "아파트에서",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "사랑과",
+      "standard" : "사랑과",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "행복으로",
+      "standard" : "행복으로",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "가득찬",
+      "standard" : "가득찬",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "동거",
+      "standard" : "동거",
+      "isDialect" : false
+    }, {
+      "id" : 9,
+      "eojeol" : "생활을",
+      "standard" : "생활을",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.86",
+    "start" : 443.48,
+    "end" : 445.16,
+    "speaker_id" : "1",
+    "form" : "시작한다.",
+    "standard_form" : "시작한다.",
+    "dialect_form" : "시작한다.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "시작한다.",
+      "standard" : "시작한다.",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.87",
+    "start" : 445.16,
+    "end" : 452.27,
+    "speaker_id" : "1",
+    "form" : "전시회를 성공적으로 마친 몰리는 샘에게 결혼하자고 말하고",
+    "standard_form" : "전시회를 성공적으로 마친 몰리는 샘에게 결혼하자고 말하고",
+    "dialect_form" : "전시회를 성공적으로 마친 몰리는 샘에게 결혼하자고 말하고",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "전시회를",
+      "standard" : "전시회를",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "성공적으로",
+      "standard" : "성공적으로",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "마친",
+      "standard" : "마친",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "몰리는",
+      "standard" : "몰리는",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "샘에게",
+      "standard" : "샘에게",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "결혼하자고",
+      "standard" : "결혼하자고",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "말하고",
+      "standard" : "말하고",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.88",
+    "start" : 453.03,
+    "end" : 457.88,
+    "speaker_id" : "1",
+    "form" : "사랑이라는 말에 언제나처럼 동감이라는 말로",
+    "standard_form" : "사랑이라는 말에 언제나처럼 동감이라는 말로",
+    "dialect_form" : "사랑이라는 말에 언제나처럼 동감이라는 말로",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "사랑이라는",
+      "standard" : "사랑이라는",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "말에",
+      "standard" : "말에",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "언제나처럼",
+      "standard" : "언제나처럼",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "동감이라는",
+      "standard" : "동감이라는",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "말로",
+      "standard" : "말로",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.89",
+    "start" : 457.89,
+    "end" : 460.99,
+    "speaker_id" : "1",
+    "form" : "대신 하는 샘에게 서운해한다.",
+    "standard_form" : "대신 하는 샘에게 서운해한다.",
+    "dialect_form" : "대신 하는 샘에게 서운해한다.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "대신",
+      "standard" : "대신",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "하는",
+      "standard" : "하는",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "샘에게",
+      "standard" : "샘에게",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "서운해한다.",
+      "standard" : "서운해한다.",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.90",
+    "start" : 461,
+    "end" : 467.49,
+    "speaker_id" : "1",
+    "form" : "이 순간 가장 행복한 이들에게 -갑장스럽- 갑작스런 불행이 닥친다.",
+    "standard_form" : "이 순간 가장 행복한 이들에게 -갑장스럽- 갑작스런 불행이 닥친다.",
+    "dialect_form" : "이 순간 가장 행복한 이들에게 -갑장스럽- 갑작스런 불행이 닥친다.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "이",
+      "standard" : "이",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "순간",
+      "standard" : "순간",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "가장",
+      "standard" : "가장",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "행복한",
+      "standard" : "행복한",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "이들에게",
+      "standard" : "이들에게",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "-갑장스럽-",
+      "standard" : "-갑장스럽-",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "갑작스런",
+      "standard" : "갑작스런",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "불행이",
+      "standard" : "불행이",
+      "isDialect" : false
+    }, {
+      "id" : 9,
+      "eojeol" : "닥친다.",
+      "standard" : "닥친다.",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.91",
+    "start" : 467.5,
+    "end" : 474.45,
+    "speaker_id" : "1",
+    "form" : "샘은 어둠 속에서 갑자기 나타난 괴한의 습격을 받아 쓰러진다.",
+    "standard_form" : "샘은 어둠 속에서 갑자기 나타난 괴한의 습격을 받아 쓰러진다.",
+    "dialect_form" : "샘은 어둠 속에서 갑자기 나타난 괴한의 습격을 받아 쓰러진다.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "샘은",
+      "standard" : "샘은",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "어둠",
+      "standard" : "어둠",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "속에서",
+      "standard" : "속에서",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "갑자기",
+      "standard" : "갑자기",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "나타난",
+      "standard" : "나타난",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "괴한의",
+      "standard" : "괴한의",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "습격을",
+      "standard" : "습격을",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "받아",
+      "standard" : "받아",
+      "isDialect" : false
+    }, {
+      "id" : 9,
+      "eojeol" : "쓰러진다.",
+      "standard" : "쓰러진다.",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.92",
+    "start" : 474.5,
+    "end" : 480.01,
+    "speaker_id" : "1",
+    "form" : "숨을 거둔 샘을 안고 울부짖는 몰리",
+    "standard_form" : "숨을 거둔 샘을 안고 울부짖는 몰리",
+    "dialect_form" : "숨을 거둔 샘을 안고 울부짖는 몰리",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "숨을",
+      "standard" : "숨을",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "거둔",
+      "standard" : "거둔",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "샘을",
+      "standard" : "샘을",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "안고",
+      "standard" : "안고",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "울부짖는",
+      "standard" : "울부짖는",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "몰리",
+      "standard" : "몰리",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.93",
+    "start" : 480.02,
+    "end" : 484.07,
+    "speaker_id" : "1",
+    "form" : "샘은 몰리가 쓰러져 있는 자신의 몸을",
+    "standard_form" : "샘은 몰리가 쓰러져 있는 자신의 몸을",
+    "dialect_form" : "샘은 몰리가 쓰러져 있는 자신의 몸을",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "샘은",
+      "standard" : "샘은",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "몰리가",
+      "standard" : "몰리가",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "쓰러져",
+      "standard" : "쓰러져",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "있는",
+      "standard" : "있는",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "자신의",
+      "standard" : "자신의",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "몸을",
+      "standard" : "몸을",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.94",
+    "start" : 484.08,
+    "end" : 488.86,
+    "speaker_id" : "1",
+    "form" : "부둥켜안고 우는 모습을 보면서 자신이 죽어",
+    "standard_form" : "부둥켜안고 우는 모습을 보면서 자신이 죽어",
+    "dialect_form" : "부둥켜안고 우는 모습을 보면서 자신이 죽어",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "부둥켜안고",
+      "standard" : "부둥켜안고",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "우는",
+      "standard" : "우는",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "모습을",
+      "standard" : "모습을",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "보면서",
+      "standard" : "보면서",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "자신이",
+      "standard" : "자신이",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "죽어",
+      "standard" : "죽어",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.95",
+    "start" : 488.87,
+    "end" : 491.45,
+    "speaker_id" : "1",
+    "form" : "영혼이 되어짐을 깨닫는다.",
+    "standard_form" : "영혼이 되어짐을 깨닫는다.",
+    "dialect_form" : "영혼이 되어짐을 깨닫는다.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "영혼이",
+      "standard" : "영혼이",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "되어짐을",
+      "standard" : "되어짐을",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "깨닫는다.",
+      "standard" : "깨닫는다.",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.96",
+    "start" : 491.5,
+    "end" : 495.55,
+    "speaker_id" : "1",
+    "form" : "장례식을 보면서 혼란스러워하는샘.",
+    "standard_form" : "장례식을 보면서 혼란스러워하는샘.",
+    "dialect_form" : "장례식을 보면서 혼란스러워하는샘.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "장례식을",
+      "standard" : "장례식을",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "보면서",
+      "standard" : "보면서",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "혼란스러워하는샘.",
+      "standard" : "혼란스러워하는샘.",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.97",
+    "start" : 495.56,
+    "end" : 499.85593220338984,
+    "speaker_id" : "1",
+    "form" : "그러나 곧 샘은 자신을 죽인",
+    "standard_form" : "그러나 곧 샘은 자신을 죽인",
+    "dialect_form" : "그러나 곧 샘은 자신을 죽인",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "그러나",
+      "standard" : "그러나",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "곧",
+      "standard" : "곧",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "샘은",
+      "standard" : "샘은",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "자신을",
+      "standard" : "자신을",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "죽인",
+      "standard" : "죽인",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.98",
+    "start" : 499.87,
+    "end" : 504,
+    "speaker_id" : "1",
+    "form" : "괴한이 몰리 에게도 위험한 존재임을 깨닫고",
+    "standard_form" : "괴한이 몰리 에게도 위험한 존재임을 깨닫고",
+    "dialect_form" : "괴한이 몰리 에게도 위험한 존재임을 깨닫고",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "괴한이",
+      "standard" : "괴한이",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "몰리",
+      "standard" : "몰리",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "에게도",
+      "standard" : "에게도",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "위험한",
+      "standard" : "위험한",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "존재임을",
+      "standard" : "존재임을",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "깨닫고",
+      "standard" : "깨닫고",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.99",
+    "start" : 504.13,
+    "end" : 509.42,
+    "speaker_id" : "1",
+    "form" : "필사적으로 몰리를 지키기위해 노력하는데",
+    "standard_form" : "필사적으로 몰리를 지키기위해 노력하는데",
+    "dialect_form" : "필사적으로 몰리를 지키기위해 노력하는데",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "필사적으로",
+      "standard" : "필사적으로",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "몰리를",
+      "standard" : "몰리를",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "지키기위해",
+      "standard" : "지키기위해",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "노력하는데",
+      "standard" : "노력하는데",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.100",
+    "start" : 510.5,
+    "end" : 515.12,
+    "speaker_id" : "1",
+    "form" : "이런 내용이 (있었어유)/(있었어요) 그래서 내용은",
+    "standard_form" : "이런 내용이 있었어요 그래서 내용은",
+    "dialect_form" : "이런 내용이 있었어유 그래서 내용은",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "이런",
+      "standard" : "이런",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "내용이",
+      "standard" : "내용이",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "있었어유",
+      "standard" : "있었어요",
+      "isDialect" : true
+    }, {
+      "id" : 4,
+      "eojeol" : "그래서",
+      "standard" : "그래서",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "내용은",
+      "standard" : "내용은",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.101",
+    "start" : 515.13,
+    "end" : 517.16,
+    "speaker_id" : "1",
+    "form" : "아~ 근데 제가",
+    "standard_form" : "아~ 근데 제가",
+    "dialect_form" : "아~ 근데 제가",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "아~",
+      "standard" : "아~",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "근데",
+      "standard" : "근데",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "제가",
+      "standard" : "제가",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.102",
+    "start" : 518,
+    "end" : 526.26,
+    "speaker_id" : "1",
+    "form" : "딱 이 설명만 듣고 갔는데 거의 그냥 내용을 전혀 모른 채 가서",
+    "standard_form" : "딱 이 설명만 듣고 갔는데 거의 그냥 내용을 전혀 모른 채 가서",
+    "dialect_form" : "딱 이 설명만 듣고 갔는데 거의 그냥 내용을 전혀 모른 채 가서",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "딱",
+      "standard" : "딱",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "이",
+      "standard" : "이",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "설명만",
+      "standard" : "설명만",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "듣고",
+      "standard" : "듣고",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "갔는데",
+      "standard" : "갔는데",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "거의",
+      "standard" : "거의",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "그냥",
+      "standard" : "그냥",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "내용을",
+      "standard" : "내용을",
+      "isDialect" : false
+    }, {
+      "id" : 9,
+      "eojeol" : "전혀",
+      "standard" : "전혀",
+      "isDialect" : false
+    }, {
+      "id" : 10,
+      "eojeol" : "모른",
+      "standard" : "모른",
+      "isDialect" : false
+    }, {
+      "id" : 11,
+      "eojeol" : "채",
+      "standard" : "채",
+      "isDialect" : false
+    }, {
+      "id" : 12,
+      "eojeol" : "가서",
+      "standard" : "가서",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.103",
+    "start" : 526.27,
+    "end" : 529.76,
+    "speaker_id" : "1",
+    "form" : "봐서 그런지 굉장히 (재밌었구유.)/(재밌었고요.)",
+    "standard_form" : "봐서 그런지 굉장히 재밌었고요.",
+    "dialect_form" : "봐서 그런지 굉장히 재밌었구유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "봐서",
+      "standard" : "봐서",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "그런지",
+      "standard" : "그런지",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "굉장히",
+      "standard" : "굉장히",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "재밌었구유.",
+      "standard" : "재밌었고요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.104",
+    "start" : 529.77,
+    "end" : 532.99,
+    "speaker_id" : "1",
+    "form" : "아~ 그리고 중간에 반전이 (있었어유.)/(있었어요.)",
+    "standard_form" : "아~ 그리고 중간에 반전이 있었어요.",
+    "dialect_form" : "아~ 그리고 중간에 반전이 있었어유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "아~",
+      "standard" : "아~",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "그리고",
+      "standard" : "그리고",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "중간에",
+      "standard" : "중간에",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "반전이",
+      "standard" : "반전이",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "있었어유.",
+      "standard" : "있었어요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.105",
+    "start" : 533,
+    "end" : 537.05,
+    "speaker_id" : "1",
+    "form" : "이 -스포일러일수- 스포일러 일수가 (있는디요.)/(있는데요.)",
+    "standard_form" : "이 -스포일러일수- 스포일러 일수가 있는데요.",
+    "dialect_form" : "이 -스포일러일수- 스포일러 일수가 있는디요.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "이",
+      "standard" : "이",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "-스포일러일수-",
+      "standard" : "-스포일러일수-",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "스포일러",
+      "standard" : "스포일러",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "일수가",
+      "standard" : "일수가",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "있는디요.",
+      "standard" : "있는데요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.106",
+    "start" : 537.06,
+    "end" : 542.13,
+    "speaker_id" : "1",
+    "form" : "뭔가 알고보면 충분히 예상가능한 반전이긴 (했어유.)/(했어요.)",
+    "standard_form" : "뭔가 알고보면 충분히 예상가능한 반전이긴 했어요.",
+    "dialect_form" : "뭔가 알고보면 충분히 예상가능한 반전이긴 했어유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "뭔가",
+      "standard" : "뭔가",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "알고보면",
+      "standard" : "알고보면",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "충분히",
+      "standard" : "충분히",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "예상가능한",
+      "standard" : "예상가능한",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "반전이긴",
+      "standard" : "반전이긴",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "했어유.",
+      "standard" : "했어요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.107",
+    "start" : 542.25,
+    "end" : 544.95,
+    "speaker_id" : "1",
+    "form" : "주인공도 주인공 (이지만유.)/(이지만요.)",
+    "standard_form" : "주인공도 주인공 이지만요.",
+    "dialect_form" : "주인공도 주인공 이지만유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "주인공도",
+      "standard" : "주인공도",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "주인공",
+      "standard" : "주인공",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "이지만유.",
+      "standard" : "이지만요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.108",
+    "start" : 544.96,
+    "end" : 550.85,
+    "speaker_id" : "1",
+    "form" : "오다매가 직접 감초역할을 톡톡히 (하구유.)/(하고요.)",
+    "standard_form" : "오다매가 직접 감초역할을 톡톡히 하고요.",
+    "dialect_form" : "오다매가 직접 감초역할을 톡톡히 하구유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "오다매가",
+      "standard" : "오다매가",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "직접",
+      "standard" : "직접",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "감초역할을",
+      "standard" : "감초역할을",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "톡톡히",
+      "standard" : "톡톡히",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "하구유.",
+      "standard" : "하고요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.109",
+    "start" : 551.24,
+    "end" : 554.78,
+    "speaker_id" : "1",
+    "form" : "정말 장난 (아니었구만유.)/(아니였어요.)",
+    "standard_form" : "정말 장난 아니였어요.",
+    "dialect_form" : "정말 장난 아니었구만유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "정말",
+      "standard" : "정말",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "장난",
+      "standard" : "장난",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "아니었구만유.",
+      "standard" : "아니였어요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.110",
+    "start" : 554.79,
+    "end" : 562.06,
+    "speaker_id" : "1",
+    "form" : "극 중 문제를 해결해 나가는 가장 큰 역할을 담당하기도 (했어유.)/(했어요.)",
+    "standard_form" : "극 중 문제를 해결해 나가는 가장 큰 역할을 담당하기도 했어요.",
+    "dialect_form" : "극 중 문제를 해결해 나가는 가장 큰 역할을 담당하기도 했어유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "극",
+      "standard" : "극",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "중",
+      "standard" : "중",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "문제를",
+      "standard" : "문제를",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "해결해",
+      "standard" : "해결해",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "나가는",
+      "standard" : "나가는",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "가장",
+      "standard" : "가장",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "큰",
+      "standard" : "큰",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "역할을",
+      "standard" : "역할을",
+      "isDialect" : false
+    }, {
+      "id" : 9,
+      "eojeol" : "담당하기도",
+      "standard" : "담당하기도",
+      "isDialect" : false
+    }, {
+      "id" : 10,
+      "eojeol" : "했어유.",
+      "standard" : "했어요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.111",
+    "start" : 562.0699999999999,
+    "end" : 565.26,
+    "speaker_id" : "1",
+    "form" : "가장 기억에 남는 (장면은유.)/(장면은요.)",
+    "standard_form" : "가장 기억에 남는 장면은요.",
+    "dialect_form" : "가장 기억에 남는 장면은유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "가장",
+      "standard" : "가장",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "기억에",
+      "standard" : "기억에",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "남는",
+      "standard" : "남는",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "장면은유.",
+      "standard" : "장면은요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.112",
+    "start" : 565.27,
+    "end" : 570.68,
+    "speaker_id" : "1",
+    "form" : "마지막 (쯤에유)/(쯤에요) 오담의 몸으로 빙의한 샘이",
+    "standard_form" : "마지막 쯤에요 오담의 몸으로 빙의한 샘이",
+    "dialect_form" : "마지막 쯤에유 오담의 몸으로 빙의한 샘이",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "마지막",
+      "standard" : "마지막",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "쯤에유",
+      "standard" : "쯤에요",
+      "isDialect" : true
+    }, {
+      "id" : 3,
+      "eojeol" : "오담의",
+      "standard" : "오담의",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "몸으로",
+      "standard" : "몸으로",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "빙의한",
+      "standard" : "빙의한",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "샘이",
+      "standard" : "샘이",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.113",
+    "start" : 570.6899999999999,
+    "end" : 577.79,
+    "speaker_id" : "1",
+    "form" : "이제 몸이랑 같이 춤추다가 오담의 몸에서 주원으로 바뀌어서",
+    "standard_form" : "이제 몸이랑 같이 춤추다가 오담의 몸에서 주원으로 바뀌어서",
+    "dialect_form" : "이제 몸이랑 같이 춤추다가 오담의 몸에서 주원으로 바뀌어서",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "이제",
+      "standard" : "이제",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "몸이랑",
+      "standard" : "몸이랑",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "같이",
+      "standard" : "같이",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "춤추다가",
+      "standard" : "춤추다가",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "오담의",
+      "standard" : "오담의",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "몸에서",
+      "standard" : "몸에서",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "주원으로",
+      "standard" : "주원으로",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "바뀌어서",
+      "standard" : "바뀌어서",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.114",
+    "start" : 577.8,
+    "end" : 581.45,
+    "speaker_id" : "1",
+    "form" : "샘이랑 몰리랑 같이 (춤추는데유.)/(춤추는데요.)",
+    "standard_form" : "샘이랑 몰리랑 같이 춤추는데요.",
+    "dialect_form" : "샘이랑 몰리랑 같이 춤추는데유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "샘이랑",
+      "standard" : "샘이랑",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "몰리랑",
+      "standard" : "몰리랑",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "같이",
+      "standard" : "같이",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "춤추는데유.",
+      "standard" : "춤추는데요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.115",
+    "start" : 582.04,
+    "end" : 585.54,
+    "speaker_id" : "1",
+    "form" : "거기서 정말 너무나도 (아름답구유.)/(아름답고요.)",
+    "standard_form" : "거기서 정말 너무나도 아름답고요.",
+    "dialect_form" : "거기서 정말 너무나도 아름답구유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "거기서",
+      "standard" : "거기서",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "정말",
+      "standard" : "정말",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "너무나도",
+      "standard" : "너무나도",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "아름답구유.",
+      "standard" : "아름답고요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.116",
+    "start" : 585.54,
+    "end" : 587.1096666666666,
+    "speaker_id" : "1",
+    "form" : "감동적 (이었어유.)/(이었어요.)",
+    "standard_form" : "감동적 이었어요.",
+    "dialect_form" : "감동적 이었어유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "감동적",
+      "standard" : "감동적",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "이었어유.",
+      "standard" : "이었어요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.117",
+    "start" : 587.12,
+    "end" : 593.37,
+    "speaker_id" : "1",
+    "form" : "(지가)/(제가) (쫌)/(조금) 감성적 (이라서유)/(이라서요) 그부분에서 눈물이 찔끔 -나더-",
+    "standard_form" : "제가 조금 감성적 이라서요 그부분에서 눈물이 찔끔 -나더-",
+    "dialect_form" : "지가 쫌 감성적 이라서유 그부분에서 눈물이 찔끔 -나더-",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "지가",
+      "standard" : "제가",
+      "isDialect" : true
+    }, {
+      "id" : 2,
+      "eojeol" : "쫌",
+      "standard" : "조금",
+      "isDialect" : true
+    }, {
+      "id" : 3,
+      "eojeol" : "감성적",
+      "standard" : "감성적",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "이라서유",
+      "standard" : "이라서요",
+      "isDialect" : true
+    }, {
+      "id" : 5,
+      "eojeol" : "그부분에서",
+      "standard" : "그부분에서",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "눈물이",
+      "standard" : "눈물이",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "찔끔",
+      "standard" : "찔끔",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "-나더-",
+      "standard" : "-나더-",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.118",
+    "start" : 593.37,
+    "end" : 595.37,
+    "speaker_id" : "1",
+    "form" : "(나던데유.)/(나던데요.)",
+    "standard_form" : "나던데요.",
+    "dialect_form" : "나던데유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "나던데유.",
+      "standard" : "나던데요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.119",
+    "start" : 595.38,
+    "end" : 599.03,
+    "speaker_id" : "1",
+    "form" : "아~ 연출이 굉장히 (아름다웠구먼유.)/(아름다웠어요.)",
+    "standard_form" : "아~ 연출이 굉장히 아름다웠어요.",
+    "dialect_form" : "아~ 연출이 굉장히 아름다웠구먼유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "아~",
+      "standard" : "아~",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "연출이",
+      "standard" : "연출이",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "굉장히",
+      "standard" : "굉장히",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "아름다웠구먼유.",
+      "standard" : "아름다웠어요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.120",
+    "start" : 599.04,
+    "end" : 601.7,
+    "speaker_id" : "1",
+    "form" : "아~ (근디유)/(근데요) 처음에 샘이",
+    "standard_form" : "아~ 근데요 처음에 샘이",
+    "dialect_form" : "아~ 근디유 처음에 샘이",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "아~",
+      "standard" : "아~",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "근디유",
+      "standard" : "근데요",
+      "isDialect" : true
+    }, {
+      "id" : 3,
+      "eojeol" : "처음에",
+      "standard" : "처음에",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "샘이",
+      "standard" : "샘이",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.121",
+    "start" : 601.71,
+    "end" : 606.36,
+    "speaker_id" : "1",
+    "form" : "사랑한다고 말 안해 주는게 너무 (답답했어유.)/(답답했어요.)",
+    "standard_form" : "사랑한다고 말 안해 주는게 너무 답답했어요.",
+    "dialect_form" : "사랑한다고 말 안해 주는게 너무 답답했어유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "사랑한다고",
+      "standard" : "사랑한다고",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "말",
+      "standard" : "말",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "안해",
+      "standard" : "안해",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "주는게",
+      "standard" : "주는게",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "너무",
+      "standard" : "너무",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "답답했어유.",
+      "standard" : "답답했어요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.122",
+    "start" : 606.37,
+    "end" : 611.91,
+    "speaker_id" : "1",
+    "form" : "아니 그거 (쫌)/(조금) 말 한마디 하는게 뭐가 어렵다고",
+    "standard_form" : "아니 그거 조금 말 한마디 하는게 뭐가 어렵다고",
+    "dialect_form" : "아니 그거 쫌 말 한마디 하는게 뭐가 어렵다고",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "아니",
+      "standard" : "아니",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "그거",
+      "standard" : "그거",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "쫌",
+      "standard" : "조금",
+      "isDialect" : true
+    }, {
+      "id" : 4,
+      "eojeol" : "말",
+      "standard" : "말",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "한마디",
+      "standard" : "한마디",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "하는게",
+      "standard" : "하는게",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "뭐가",
+      "standard" : "뭐가",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "어렵다고",
+      "standard" : "어렵다고",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.123",
+    "start" : 611.91,
+    "end" : 616.54,
+    "speaker_id" : "1",
+    "form" : "죽은 뒤에 말하면 이미 (늦었쥬)/(늦었죠) (이눔아)/(이놈아)",
+    "standard_form" : "죽은 뒤에 말하면 이미 늦었죠 이놈아",
+    "dialect_form" : "죽은 뒤에 말하면 이미 늦었쥬 이눔아",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "죽은",
+      "standard" : "죽은",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "뒤에",
+      "standard" : "뒤에",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "말하면",
+      "standard" : "말하면",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "이미",
+      "standard" : "이미",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "늦었쥬",
+      "standard" : "늦었죠",
+      "isDialect" : true
+    }, {
+      "id" : 6,
+      "eojeol" : "이눔아",
+      "standard" : "이놈아",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.124",
+    "start" : 616.62,
+    "end" : 622.89,
+    "speaker_id" : "1",
+    "form" : "아쉬웠던 (점은유)/(점은요) 상당히 뮤지컬보다 퀄리티",
+    "standard_form" : "아쉬웠던 점은요 상당히 뮤지컬보다 퀄리티",
+    "dialect_form" : "아쉬웠던 점은유 상당히 뮤지컬보다 퀄리티",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "아쉬웠던",
+      "standard" : "아쉬웠던",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "점은유",
+      "standard" : "점은요",
+      "isDialect" : true
+    }, {
+      "id" : 3,
+      "eojeol" : "상당히",
+      "standard" : "상당히",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "뮤지컬보다",
+      "standard" : "뮤지컬보다",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "퀄리티",
+      "standard" : "퀄리티",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.125",
+    "start" : 622.89,
+    "end" : 629.25,
+    "speaker_id" : "1",
+    "form" : "좋은 연극을 보는 느낌을 버릴 수 없었다는게 조금 아쉬웠던거 (같애유.)/(같아요.)",
+    "standard_form" : "좋은 연극을 보는 느낌을 버릴 수 없었다는게 조금 아쉬웠던거 같아요.",
+    "dialect_form" : "좋은 연극을 보는 느낌을 버릴 수 없었다는게 조금 아쉬웠던거 같애유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "좋은",
+      "standard" : "좋은",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "연극을",
+      "standard" : "연극을",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "보는",
+      "standard" : "보는",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "느낌을",
+      "standard" : "느낌을",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "버릴",
+      "standard" : "버릴",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "수",
+      "standard" : "수",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "없었다는게",
+      "standard" : "없었다는게",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "조금",
+      "standard" : "조금",
+      "isDialect" : false
+    }, {
+      "id" : 9,
+      "eojeol" : "아쉬웠던거",
+      "standard" : "아쉬웠던거",
+      "isDialect" : false
+    }, {
+      "id" : 10,
+      "eojeol" : "같애유.",
+      "standard" : "같아요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.126",
+    "start" : 631.04,
+    "end" : 636.46,
+    "speaker_id" : "1",
+    "form" : "그 이유는 일단 대사에 비속어가 굉장히 (많았구유.)/(많았고요.)",
+    "standard_form" : "그 이유는 일단 대사에 비속어가 굉장히 많았고요.",
+    "dialect_form" : "그 이유는 일단 대사에 비속어가 굉장히 많았구유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "그",
+      "standard" : "그",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "이유는",
+      "standard" : "이유는",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "일단",
+      "standard" : "일단",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "대사에",
+      "standard" : "대사에",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "비속어가",
+      "standard" : "비속어가",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "굉장히",
+      "standard" : "굉장히",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "많았구유.",
+      "standard" : "많았고요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.127",
+    "start" : 636.46,
+    "end" : 639.93,
+    "speaker_id" : "1",
+    "form" : "한동안은 재미있기는 (했는데유.)/(했는데요.)",
+    "standard_form" : "한동안은 재미있기는 했는데요.",
+    "dialect_form" : "한동안은 재미있기는 했는데유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "한동안은",
+      "standard" : "한동안은",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "재미있기는",
+      "standard" : "재미있기는",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "했는데유.",
+      "standard" : "했는데요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.128",
+    "start" : 640,
+    "end" : 643.68,
+    "speaker_id" : "1",
+    "form" : "뭔가 비속어에서 계속 그러니까",
+    "standard_form" : "뭔가 비속어에서 계속 그러니까",
+    "dialect_form" : "뭔가 비속어에서 계속 그러니까",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "뭔가",
+      "standard" : "뭔가",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "비속어에서",
+      "standard" : "비속어에서",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "계속",
+      "standard" : "계속",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "그러니까",
+      "standard" : "그러니까",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.129",
+    "start" : 643.6899999999999,
+    "end" : 647.93,
+    "speaker_id" : "1",
+    "form" : "어~뮤지컬에서 비속어를 굉장히 많이 (쓰니께)/(쓰니까)",
+    "standard_form" : "어~뮤지컬에서 비속어를 굉장히 많이 쓰니까",
+    "dialect_form" : "어~뮤지컬에서 비속어를 굉장히 많이 쓰니께",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "어~뮤지컬에서",
+      "standard" : "어~뮤지컬에서",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "비속어를",
+      "standard" : "비속어를",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "굉장히",
+      "standard" : "굉장히",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "많이",
+      "standard" : "많이",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "쓰니께",
+      "standard" : "쓰니까",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.130",
+    "start" : 647.9399999999999,
+    "end" : 652.39,
+    "speaker_id" : "1",
+    "form" : "쪼끔 의아하긴 (했었어유.)/(했었어요.)",
+    "standard_form" : "쪼끔 의아하긴 했었어요.",
+    "dialect_form" : "쪼끔 의아하긴 했었어유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "쪼끔",
+      "standard" : "쪼끔",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "의아하긴",
+      "standard" : "의아하긴",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "했었어유.",
+      "standard" : "했었어요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.131",
+    "start" : 652.4,
+    "end" : 659.28,
+    "speaker_id" : "1",
+    "form" : "그리고 무대가 (작다보니께)/(작다보니까) 한정된 공간에서유 스크린에",
+    "standard_form" : "그리고 무대가 작다보니까 한정된 공간에서유 스크린에",
+    "dialect_form" : "그리고 무대가 작다보니께 한정된 공간에서유 스크린에",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "그리고",
+      "standard" : "그리고",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "무대가",
+      "standard" : "무대가",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "작다보니께",
+      "standard" : "작다보니까",
+      "isDialect" : true
+    }, {
+      "id" : 4,
+      "eojeol" : "한정된",
+      "standard" : "한정된",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "공간에서유",
+      "standard" : "공간에서유",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "스크린에",
+      "standard" : "스크린에",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.132",
+    "start" : 659.29,
+    "end" : 663.17,
+    "speaker_id" : "1",
+    "form" : "엘이디로 모든 연출을 하다 (보니께)/(보니까)",
+    "standard_form" : "엘이디로 모든 연출을 하다 보니까",
+    "dialect_form" : "엘이디로 모든 연출을 하다 보니께",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "엘이디로",
+      "standard" : "엘이디로",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "모든",
+      "standard" : "모든",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "연출을",
+      "standard" : "연출을",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "하다",
+      "standard" : "하다",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "보니께",
+      "standard" : "보니까",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.133",
+    "start" : 663.36,
+    "end" : 666.76,
+    "speaker_id" : "1",
+    "form" : "아무래도 웅장한 무대장치",
+    "standard_form" : "아무래도 웅장한 무대장치",
+    "dialect_form" : "아무래도 웅장한 무대장치",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "아무래도",
+      "standard" : "아무래도",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "웅장한",
+      "standard" : "웅장한",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "무대장치",
+      "standard" : "무대장치",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.134",
+    "start" : 666.77,
+    "end" : 670.28,
+    "speaker_id" : "1",
+    "form" : "이런게 없어서 쪼금 더 그랬던 거 (같애유.)/(같아요.)",
+    "standard_form" : "이런게 없어서 쪼금 더 그랬던 거 같아요.",
+    "dialect_form" : "이런게 없어서 쪼금 더 그랬던 거 같애유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "이런게",
+      "standard" : "이런게",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "없어서",
+      "standard" : "없어서",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "쪼금",
+      "standard" : "쪼금",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "더",
+      "standard" : "더",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "그랬던",
+      "standard" : "그랬던",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "거",
+      "standard" : "거",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "같애유.",
+      "standard" : "같아요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.135",
+    "start" : 671.75,
+    "end" : 678.77,
+    "speaker_id" : "1",
+    "form" : "또 평소에 뮤지컬 (하면은유)/(하면은요) 생각나는 그런 배우들이 별로 (없어서유.)/(없어서요.)",
+    "standard_form" : "또 평소에 뮤지컬 하면은요 생각나는 그런 배우들이 별로 없어서요.",
+    "dialect_form" : "또 평소에 뮤지컬 하면은유 생각나는 그런 배우들이 별로 없어서유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "또",
+      "standard" : "또",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "평소에",
+      "standard" : "평소에",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "뮤지컬",
+      "standard" : "뮤지컬",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "하면은유",
+      "standard" : "하면은요",
+      "isDialect" : true
+    }, {
+      "id" : 5,
+      "eojeol" : "생각나는",
+      "standard" : "생각나는",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "그런",
+      "standard" : "그런",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "배우들이",
+      "standard" : "배우들이",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "별로",
+      "standard" : "별로",
+      "isDialect" : false
+    }, {
+      "id" : 9,
+      "eojeol" : "없어서유.",
+      "standard" : "없어서요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.136",
+    "start" : 678.78,
+    "end" : 681.45,
+    "speaker_id" : "1",
+    "form" : "더 그랬던거 (같구유.)/(같고요.)",
+    "standard_form" : "더 그랬던거 같고요.",
+    "dialect_form" : "더 그랬던거 같구유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "더",
+      "standard" : "더",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "그랬던거",
+      "standard" : "그랬던거",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "같구유.",
+      "standard" : "같고요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.137",
+    "start" : 681.5,
+    "end" : 686.78,
+    "speaker_id" : "1",
+    "form" : "아~ 근데 출연자 비하 발언한건 (아니구유.)/(아니고요.)",
+    "standard_form" : "아~ 근데 출연자 비하 발언한건 아니고요.",
+    "dialect_form" : "아~ 근데 출연자 비하 발언한건 아니구유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "아~",
+      "standard" : "아~",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "근데",
+      "standard" : "근데",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "출연자",
+      "standard" : "출연자",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "비하",
+      "standard" : "비하",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "발언한건",
+      "standard" : "발언한건",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "아니구유.",
+      "standard" : "아니고요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.138",
+    "start" : 686.79,
+    "end" : 693.65,
+    "speaker_id" : "1",
+    "form" : "그래도 이제 뮤지컬임을 자각하게 하는 제 티켓 값이나",
+    "standard_form" : "그래도 이제 뮤지컬임을 자각하게 하는 제 티켓 값이나",
+    "dialect_form" : "그래도 이제 뮤지컬임을 자각하게 하는 제 티켓 값이나",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "그래도",
+      "standard" : "그래도",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "이제",
+      "standard" : "이제",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "뮤지컬임을",
+      "standard" : "뮤지컬임을",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "자각하게",
+      "standard" : "자각하게",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "하는",
+      "standard" : "하는",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "제",
+      "standard" : "제",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "티켓",
+      "standard" : "티켓",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "값이나",
+      "standard" : "값이나",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.139",
+    "start" : 693.66,
+    "end" : 698.63,
+    "speaker_id" : "1",
+    "form" : "어~이 가격을 이제 주원 섭외하는 데 다 쓴건지",
+    "standard_form" : "어~이 가격을 이제 주원 섭외하는 데 다 쓴건지",
+    "dialect_form" : "어~이 가격을 이제 주원 섭외하는 데 다 쓴건지",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "어~이",
+      "standard" : "어~이",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "가격을",
+      "standard" : "가격을",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "이제",
+      "standard" : "이제",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "주원",
+      "standard" : "주원",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "섭외하는",
+      "standard" : "섭외하는",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "데",
+      "standard" : "데",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "다",
+      "standard" : "다",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "쓴건지",
+      "standard" : "쓴건지",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.140",
+    "start" : 698.75,
+    "end" : 704.66,
+    "speaker_id" : "1",
+    "form" : "그래도 할인받아서 갔으니 크게 불만은 (없지만유.)/(없지만요.)",
+    "standard_form" : "그래도 할인받아서 갔으니 크게 불만은 없지만요.",
+    "dialect_form" : "그래도 할인받아서 갔으니 크게 불만은 없지만유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "그래도",
+      "standard" : "그래도",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "할인받아서",
+      "standard" : "할인받아서",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "갔으니",
+      "standard" : "갔으니",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "크게",
+      "standard" : "크게",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "불만은",
+      "standard" : "불만은",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "없지만유.",
+      "standard" : "없지만요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.141",
+    "start" : 705.25,
+    "end" : 709.57,
+    "speaker_id" : "1",
+    "form" : "또 하나 아쉬웠던 점이 있다면 처음 들어갈 (때유.)/(때요.)",
+    "standard_form" : "또 하나 아쉬웠던 점이 있다면 처음 들어갈 때요.",
+    "dialect_form" : "또 하나 아쉬웠던 점이 있다면 처음 들어갈 때유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "또",
+      "standard" : "또",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "하나",
+      "standard" : "하나",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "아쉬웠던",
+      "standard" : "아쉬웠던",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "점이",
+      "standard" : "점이",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "있다면",
+      "standard" : "있다면",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "처음",
+      "standard" : "처음",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "들어갈",
+      "standard" : "들어갈",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "때유.",
+      "standard" : "때요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.142",
+    "start" : 709.58,
+    "end" : 713.72,
+    "speaker_id" : "1",
+    "form" : "포토존도 엘이디 우산 걸어놓고",
+    "standard_form" : "포토존도 엘이디 우산 걸어놓고",
+    "dialect_form" : "포토존도 엘이디 우산 걸어놓고",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "포토존도",
+      "standard" : "포토존도",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "엘이디",
+      "standard" : "엘이디",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "우산",
+      "standard" : "우산",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "걸어놓고",
+      "standard" : "걸어놓고",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.143",
+    "start" : 713.73,
+    "end" : 717.82,
+    "speaker_id" : "1",
+    "form" : "보라색 우산으로 온갖 컨셉질 다 하던데",
+    "standard_form" : "보라색 우산으로 온갖 컨셉질 다 하던데",
+    "dialect_form" : "보라색 우산으로 온갖 컨셉질 다 하던데",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "보라색",
+      "standard" : "보라색",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "우산으로",
+      "standard" : "우산으로",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "온갖",
+      "standard" : "온갖",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "컨셉질",
+      "standard" : "컨셉질",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "다",
+      "standard" : "다",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "하던데",
+      "standard" : "하던데",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.144",
+    "start" : 719.43,
+    "end" : 724.280847457627,
+    "speaker_id" : "1",
+    "form" : "막상 뮤지컬을 보고 나니까 이 보라색 엘이디 우산이",
+    "standard_form" : "막상 뮤지컬을 보고 나니까 이 보라색 엘이디 우산이",
+    "dialect_form" : "막상 뮤지컬을 보고 나니까 이 보라색 엘이디 우산이",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "막상",
+      "standard" : "막상",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "뮤지컬을",
+      "standard" : "뮤지컬을",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "보고",
+      "standard" : "보고",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "나니까",
+      "standard" : "나니까",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "이",
+      "standard" : "이",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "보라색",
+      "standard" : "보라색",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "엘이디",
+      "standard" : "엘이디",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "우산이",
+      "standard" : "우산이",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.145",
+    "start" : 724.29,
+    "end" : 730.47,
+    "speaker_id" : "1",
+    "form" : "뮤지컬 전체를 관통하는 메세지인가에 대한 의문은 생기더라구요.",
+    "standard_form" : "뮤지컬 전체를 관통하는 메세지인가에 대한 의문은 생기더라구요.",
+    "dialect_form" : "뮤지컬 전체를 관통하는 메세지인가에 대한 의문은 생기더라구요.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "뮤지컬",
+      "standard" : "뮤지컬",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "전체를",
+      "standard" : "전체를",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "관통하는",
+      "standard" : "관통하는",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "메세지인가에",
+      "standard" : "메세지인가에",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "대한",
+      "standard" : "대한",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "의문은",
+      "standard" : "의문은",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "생기더라구요.",
+      "standard" : "생기더라구요.",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.146",
+    "start" : 730.47,
+    "end" : 735.15,
+    "speaker_id" : "1",
+    "form" : "물론 중간에 우산을 들고 나오는 장면",
+    "standard_form" : "물론 중간에 우산을 들고 나오는 장면",
+    "dialect_form" : "물론 중간에 우산을 들고 나오는 장면",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "물론",
+      "standard" : "물론",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "중간에",
+      "standard" : "중간에",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "우산을",
+      "standard" : "우산을",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "들고",
+      "standard" : "들고",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "나오는",
+      "standard" : "나오는",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "장면",
+      "standard" : "장면",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.147",
+    "start" : 735.16,
+    "end" : 738.51,
+    "speaker_id" : "1",
+    "form" : "비를 맞는 장면이 나오긴 (하지만유.)/(하지만요.)",
+    "standard_form" : "비를 맞는 장면이 나오긴 하지만요.",
+    "dialect_form" : "비를 맞는 장면이 나오긴 하지만유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "비를",
+      "standard" : "비를",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "맞는",
+      "standard" : "맞는",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "장면이",
+      "standard" : "장면이",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "나오긴",
+      "standard" : "나오긴",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "하지만유.",
+      "standard" : "하지만요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.148",
+    "start" : 738.52,
+    "end" : 741.91,
+    "speaker_id" : "1",
+    "form" : "말그대로 극 중 한 장면 (이었구유.)/(이었고요.)",
+    "standard_form" : "말그대로 극 중 한 장면 이었고요.",
+    "dialect_form" : "말그대로 극 중 한 장면 이었구유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "말그대로",
+      "standard" : "말그대로",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "극",
+      "standard" : "극",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "중",
+      "standard" : "중",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "한",
+      "standard" : "한",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "장면",
+      "standard" : "장면",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "이었구유.",
+      "standard" : "이었고요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.149",
+    "start" : 742,
+    "end" : 746.05,
+    "speaker_id" : "1",
+    "form" : "포토존까지 만들 정도로 의미있는 장치 인줄은",
+    "standard_form" : "포토존까지 만들 정도로 의미있는 장치 인줄은",
+    "dialect_form" : "포토존까지 만들 정도로 의미있는 장치 인줄은",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "포토존까지",
+      "standard" : "포토존까지",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "만들",
+      "standard" : "만들",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "정도로",
+      "standard" : "정도로",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "의미있는",
+      "standard" : "의미있는",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "장치",
+      "standard" : "장치",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "인줄은",
+      "standard" : "인줄은",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.150",
+    "start" : 746.06,
+    "end" : 754.12,
+    "speaker_id" : "1",
+    "form" : "(지는)/(저는) 잘 모르겠더라구요 (지만)/(저만) 이제 그렇게 생각하는 걸 수도 (있지만은유.)/(있지만요.)",
+    "standard_form" : "저는 잘 모르겠더라구요 저만 이제 그렇게 생각하는 걸 수도 있지만요.",
+    "dialect_form" : "지는 잘 모르겠더라구요 지만 이제 그렇게 생각하는 걸 수도 있지만은유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "지는",
+      "standard" : "저는",
+      "isDialect" : true
+    }, {
+      "id" : 2,
+      "eojeol" : "잘",
+      "standard" : "잘",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "모르겠더라구요",
+      "standard" : "모르겠더라구요",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "지만",
+      "standard" : "저만",
+      "isDialect" : true
+    }, {
+      "id" : 5,
+      "eojeol" : "이제",
+      "standard" : "이제",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "그렇게",
+      "standard" : "그렇게",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "생각하는",
+      "standard" : "생각하는",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "걸",
+      "standard" : "걸",
+      "isDialect" : false
+    }, {
+      "id" : 9,
+      "eojeol" : "수도",
+      "standard" : "수도",
+      "isDialect" : false
+    }, {
+      "id" : 10,
+      "eojeol" : "있지만은유.",
+      "standard" : "있지만요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.151",
+    "start" : 754.25,
+    "end" : 758.24,
+    "speaker_id" : "1",
+    "form" : "(지는)/(저는) 어찌됐든 그렇게 생각을 (했구먼유.)/(했어요.)",
+    "standard_form" : "저는 어찌됐든 그렇게 생각을 했어요.",
+    "dialect_form" : "지는 어찌됐든 그렇게 생각을 했구먼유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "지는",
+      "standard" : "저는",
+      "isDialect" : true
+    }, {
+      "id" : 2,
+      "eojeol" : "어찌됐든",
+      "standard" : "어찌됐든",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "그렇게",
+      "standard" : "그렇게",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "생각을",
+      "standard" : "생각을",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "했구먼유.",
+      "standard" : "했어요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.152",
+    "start" : 758.25,
+    "end" : 761.78,
+    "speaker_id" : "1",
+    "form" : "그리고 전체적으로 노래두",
+    "standard_form" : "그리고 전체적으로 노래두",
+    "dialect_form" : "그리고 전체적으로 노래두",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "그리고",
+      "standard" : "그리고",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "전체적으로",
+      "standard" : "전체적으로",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "노래두",
+      "standard" : "노래두",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.153",
+    "start" : 761.79,
+    "end" : 765.28,
+    "speaker_id" : "1",
+    "form" : "딱히 기억에 남는건 없었던 것 (같애유.)/(같아요.)",
+    "standard_form" : "딱히 기억에 남는건 없었던 것 같아요.",
+    "dialect_form" : "딱히 기억에 남는건 없었던 것 같애유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "딱히",
+      "standard" : "딱히",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "기억에",
+      "standard" : "기억에",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "남는건",
+      "standard" : "남는건",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "없었던",
+      "standard" : "없었던",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "것",
+      "standard" : "것",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "같애유.",
+      "standard" : "같아요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.154",
+    "start" : 765.29,
+    "end" : 771.73,
+    "speaker_id" : "1",
+    "form" : "약간 전체적으로 노래 보다 대사에 더 치중한 뮤지컬인",
+    "standard_form" : "약간 전체적으로 노래 보다 대사에 더 치중한 뮤지컬인",
+    "dialect_form" : "약간 전체적으로 노래 보다 대사에 더 치중한 뮤지컬인",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "약간",
+      "standard" : "약간",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "전체적으로",
+      "standard" : "전체적으로",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "노래",
+      "standard" : "노래",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "보다",
+      "standard" : "보다",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "대사에",
+      "standard" : "대사에",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "더",
+      "standard" : "더",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "치중한",
+      "standard" : "치중한",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "뮤지컬인",
+      "standard" : "뮤지컬인",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.155",
+    "start" : 771.74,
+    "end" : 773.39,
+    "speaker_id" : "1",
+    "form" : "느낌이 더 (강했구유.)/(강했고요.)",
+    "standard_form" : "느낌이 더 강했고요.",
+    "dialect_form" : "느낌이 더 강했구유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "느낌이",
+      "standard" : "느낌이",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "더",
+      "standard" : "더",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "강했구유.",
+      "standard" : "강했고요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.156",
+    "start" : 773.4,
+    "end" : 779.85,
+    "speaker_id" : "1",
+    "form" : "그래서 더 연극 같았고 느낀 것 같기도 해요.",
+    "standard_form" : "그래서 더 연극 같았고 느낀 것 같기도 해요.",
+    "dialect_form" : "그래서 더 연극 같았고 느낀 것 같기도 해요.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "그래서",
+      "standard" : "그래서",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "더",
+      "standard" : "더",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "연극",
+      "standard" : "연극",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "같았고",
+      "standard" : "같았고",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "느낀",
+      "standard" : "느낀",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "것",
+      "standard" : "것",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "같기도",
+      "standard" : "같기도",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "해요.",
+      "standard" : "해요.",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.157",
+    "start" : 780,
+    "end" : 786.75,
+    "speaker_id" : "1",
+    "form" : "뮤지컬은 노래가 압도적으로 많다고 생각을 하는 편이거든요.",
+    "standard_form" : "뮤지컬은 노래가 압도적으로 많다고 생각을 하는 편이거든요.",
+    "dialect_form" : "뮤지컬은 노래가 압도적으로 많다고 생각을 하는 편이거든요.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "뮤지컬은",
+      "standard" : "뮤지컬은",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "노래가",
+      "standard" : "노래가",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "압도적으로",
+      "standard" : "압도적으로",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "많다고",
+      "standard" : "많다고",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "생각을",
+      "standard" : "생각을",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "하는",
+      "standard" : "하는",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "편이거든요.",
+      "standard" : "편이거든요.",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.158",
+    "start" : 786.76,
+    "end" : 791.38,
+    "speaker_id" : "1",
+    "form" : "그리고 뮤지컬에서 항상 나오는 여럿이서",
+    "standard_form" : "그리고 뮤지컬에서 항상 나오는 여럿이서",
+    "dialect_form" : "그리고 뮤지컬에서 항상 나오는 여럿이서",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "그리고",
+      "standard" : "그리고",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "뮤지컬에서",
+      "standard" : "뮤지컬에서",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "항상",
+      "standard" : "항상",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "나오는",
+      "standard" : "나오는",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "여럿이서",
+      "standard" : "여럿이서",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.159",
+    "start" : 791.75,
+    "end" : 798.77,
+    "speaker_id" : "1",
+    "form" : "함께 노래 부르는 거 사실 진짜 그거 굉장히 (좋아하는디)/(좋아하는데)",
+    "standard_form" : "함께 노래 부르는 거 사실 진짜 그거 굉장히 좋아하는데",
+    "dialect_form" : "함께 노래 부르는 거 사실 진짜 그거 굉장히 좋아하는디",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "함께",
+      "standard" : "함께",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "노래",
+      "standard" : "노래",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "부르는",
+      "standard" : "부르는",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "거",
+      "standard" : "거",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "사실",
+      "standard" : "사실",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "진짜",
+      "standard" : "진짜",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "그거",
+      "standard" : "그거",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "굉장히",
+      "standard" : "굉장히",
+      "isDialect" : false
+    }, {
+      "id" : 9,
+      "eojeol" : "좋아하는디",
+      "standard" : "좋아하는데",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.160",
+    "start" : 798.78,
+    "end" : 802.53,
+    "speaker_id" : "1",
+    "form" : "다른 사람들은 모르겠지만 (지는유.)/(저는요.)",
+    "standard_form" : "다른 사람들은 모르겠지만 저는요.",
+    "dialect_form" : "다른 사람들은 모르겠지만 지는유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "다른",
+      "standard" : "다른",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "사람들은",
+      "standard" : "사람들은",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "모르겠지만",
+      "standard" : "모르겠지만",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "지는유.",
+      "standard" : "저는요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.161",
+    "start" : 803.75,
+    "end" : 809.97,
+    "speaker_id" : "1",
+    "form" : "그~ 그런 거를 굉장히 화합하고",
+    "standard_form" : "그~ 그런 거를 굉장히 화합하고",
+    "dialect_form" : "그~ 그런 거를 굉장히 화합하고",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "그~",
+      "standard" : "그~",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "그런",
+      "standard" : "그런",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "거를",
+      "standard" : "거를",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "굉장히",
+      "standard" : "굉장히",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "화합하고",
+      "standard" : "화합하고",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.162",
+    "start" : 810.29,
+    "end" : 814.68,
+    "speaker_id" : "1",
+    "form" : "뭔가 이제 화음 되는 걸 굉장히 (좋아해서유.)/(좋아해서요.)",
+    "standard_form" : "뭔가 이제 화음 되는 걸 굉장히 좋아해서요.",
+    "dialect_form" : "뭔가 이제 화음 되는 걸 굉장히 좋아해서유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "뭔가",
+      "standard" : "뭔가",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "이제",
+      "standard" : "이제",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "화음",
+      "standard" : "화음",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "되는",
+      "standard" : "되는",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "걸",
+      "standard" : "걸",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "굉장히",
+      "standard" : "굉장히",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "좋아해서유.",
+      "standard" : "좋아해서요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.163",
+    "start" : 814.75,
+    "end" : 819.34,
+    "speaker_id" : "1",
+    "form" : "이제 동지의 노래를 부르거나 (그러면은유.)/(그러면은요.)",
+    "standard_form" : "이제 동지의 노래를 부르거나 그러면은요.",
+    "dialect_form" : "이제 동지의 노래를 부르거나 그러면은유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "이제",
+      "standard" : "이제",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "동지의",
+      "standard" : "동지의",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "노래를",
+      "standard" : "노래를",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "부르거나",
+      "standard" : "부르거나",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "그러면은유.",
+      "standard" : "그러면은요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.164",
+    "start" : 819.35,
+    "end" : 827.09,
+    "speaker_id" : "1",
+    "form" : "굉장히 어~ 진짜로 더 아름답고 감성적여지는거 (같애유.)/(같아요.)",
+    "standard_form" : "굉장히 어~ 진짜로 더 아름답고 감성적여지는거 같아요.",
+    "dialect_form" : "굉장히 어~ 진짜로 더 아름답고 감성적여지는거 같애유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "굉장히",
+      "standard" : "굉장히",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "어~",
+      "standard" : "어~",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "진짜로",
+      "standard" : "진짜로",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "더",
+      "standard" : "더",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "아름답고",
+      "standard" : "아름답고",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "감성적여지는거",
+      "standard" : "감성적여지는거",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "같애유.",
+      "standard" : "같아요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.165",
+    "start" : 827.75,
+    "end" : 833.03,
+    "speaker_id" : "1",
+    "form" : "그래도 주원은 진짜 노래 잘 -부드러- (부르드라구유.)/(부르더라고요.)",
+    "standard_form" : "그래도 주원은 진짜 노래 잘 -부드러- 부르더라고요.",
+    "dialect_form" : "그래도 주원은 진짜 노래 잘 -부드러- 부르드라구유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "그래도",
+      "standard" : "그래도",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "주원은",
+      "standard" : "주원은",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "진짜",
+      "standard" : "진짜",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "노래",
+      "standard" : "노래",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "잘",
+      "standard" : "잘",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "-부드러-",
+      "standard" : "-부드러-",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "부르드라구유.",
+      "standard" : "부르더라고요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.166",
+    "start" : 833.03,
+    "end" : 839.11,
+    "speaker_id" : "1",
+    "form" : "(기냥)/(그냥) 연기만 잘 하는줄 (알았는디유)/(알았는데요) 노래까지 잘 (하니까유.)/(하니까요.)",
+    "standard_form" : "그냥 연기만 잘 하는줄 알았는데요 노래까지 잘 하니까요.",
+    "dialect_form" : "기냥 연기만 잘 하는줄 알았는디유 노래까지 잘 하니까유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "기냥",
+      "standard" : "그냥",
+      "isDialect" : true
+    }, {
+      "id" : 2,
+      "eojeol" : "연기만",
+      "standard" : "연기만",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "잘",
+      "standard" : "잘",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "하는줄",
+      "standard" : "하는줄",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "알았는디유",
+      "standard" : "알았는데요",
+      "isDialect" : true
+    }, {
+      "id" : 6,
+      "eojeol" : "노래까지",
+      "standard" : "노래까지",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "잘",
+      "standard" : "잘",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "하니까유.",
+      "standard" : "하니까요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.167",
+    "start" : 839.12,
+    "end" : 844.22,
+    "speaker_id" : "1",
+    "form" : "한번 반했는데 두번 -반하- 반하게 되더라구요.",
+    "standard_form" : "한번 반했는데 두번 -반하- 반하게 되더라구요.",
+    "dialect_form" : "한번 반했는데 두번 -반하- 반하게 되더라구요.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "한번",
+      "standard" : "한번",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "반했는데",
+      "standard" : "반했는데",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "두번",
+      "standard" : "두번",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "-반하-",
+      "standard" : "-반하-",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "반하게",
+      "standard" : "반하게",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "되더라구요.",
+      "standard" : "되더라구요.",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.168",
+    "start" : 844.25,
+    "end" : 849.49,
+    "speaker_id" : "1",
+    "form" : "그리고 제가 실수로 안경을 안 가지고 와서",
+    "standard_form" : "그리고 제가 실수로 안경을 안 가지고 와서",
+    "dialect_form" : "그리고 제가 실수로 안경을 안 가지고 와서",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "그리고",
+      "standard" : "그리고",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "제가",
+      "standard" : "제가",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "실수로",
+      "standard" : "실수로",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "안경을",
+      "standard" : "안경을",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "안",
+      "standard" : "안",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "가지고",
+      "standard" : "가지고",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "와서",
+      "standard" : "와서",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.169",
+    "start" : 849.5,
+    "end" : 852.22,
+    "speaker_id" : "1",
+    "form" : "굉장히 (피곤했어유.)/(피곤했어요.)",
+    "standard_form" : "굉장히 피곤했어요.",
+    "dialect_form" : "굉장히 피곤했어유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "굉장히",
+      "standard" : "굉장히",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "피곤했어유.",
+      "standard" : "피곤했어요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.170",
+    "start" : 852.23,
+    "end" : 859.63,
+    "speaker_id" : "1",
+    "form" : "응~ 엄청 그~ 안구건조증도 있어서요 눈이 건조하고 (피로해서유.)/(피로해서요.)",
+    "standard_form" : "응~ 엄청 그~ 안구건조증도 있어서요 눈이 건조하고 피로해서요.",
+    "dialect_form" : "응~ 엄청 그~ 안구건조증도 있어서요 눈이 건조하고 피로해서유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "응~",
+      "standard" : "응~",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "엄청",
+      "standard" : "엄청",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "그~",
+      "standard" : "그~",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "안구건조증도",
+      "standard" : "안구건조증도",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "있어서요",
+      "standard" : "있어서요",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "눈이",
+      "standard" : "눈이",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "건조하고",
+      "standard" : "건조하고",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "피로해서유.",
+      "standard" : "피로해서요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.171",
+    "start" : 859.75,
+    "end" : 865.69,
+    "speaker_id" : "1",
+    "form" : "쪼금 어두운 곳에서도 이렇게 실제로 보는",
+    "standard_form" : "쪼금 어두운 곳에서도 이렇게 실제로 보는",
+    "dialect_form" : "쪼금 어두운 곳에서도 이렇게 실제로 보는",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "쪼금",
+      "standard" : "쪼금",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "어두운",
+      "standard" : "어두운",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "곳에서도",
+      "standard" : "곳에서도",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "이렇게",
+      "standard" : "이렇게",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "실제로",
+      "standard" : "실제로",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "보는",
+      "standard" : "보는",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.172",
+    "start" : 865.7,
+    "end" : 869.31,
+    "speaker_id" : "1",
+    "form" : "실제로 이제 배우들이 연극하면서 노래하는",
+    "standard_form" : "실제로 이제 배우들이 연극하면서 노래하는",
+    "dialect_form" : "실제로 이제 배우들이 연극하면서 노래하는",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "실제로",
+      "standard" : "실제로",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "이제",
+      "standard" : "이제",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "배우들이",
+      "standard" : "배우들이",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "연극하면서",
+      "standard" : "연극하면서",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "노래하는",
+      "standard" : "노래하는",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.173",
+    "start" : 869.39,
+    "end" : 875.93,
+    "speaker_id" : "1",
+    "form" : "(())(는유)/(는요) 안경을 꼭 가져가서 보길 (바래유.)/(바래요.)",
+    "standard_form" : "(())는요 안경을 꼭 가져가서 보길 바래요.",
+    "dialect_form" : "(())는유 안경을 꼭 가져가서 보길 바래유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "(())",
+      "standard" : "(())",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "는유",
+      "standard" : "는요",
+      "isDialect" : true
+    }, {
+      "id" : 3,
+      "eojeol" : "안경을",
+      "standard" : "안경을",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "꼭",
+      "standard" : "꼭",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "가져가서",
+      "standard" : "가져가서",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "보길",
+      "standard" : "보길",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "바래유.",
+      "standard" : "바래요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.174",
+    "start" : 879.25,
+    "end" : 881.95,
+    "speaker_id" : "1",
+    "form" : "(근데유)/(근데요) 사실은 (이게유.)/(이게요.)",
+    "standard_form" : "근데요 사실은 이게요.",
+    "dialect_form" : "근데유 사실은 이게유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "근데유",
+      "standard" : "근데요",
+      "isDialect" : true
+    }, {
+      "id" : 2,
+      "eojeol" : "사실은",
+      "standard" : "사실은",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "이게유.",
+      "standard" : "이게요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.175",
+    "start" : 881.96,
+    "end" : 888.41,
+    "speaker_id" : "1",
+    "form" : "어~ 십 육만원 이나 (해유)/(해요) -연극- 뮤지컬 (인데유.)/(인데요.)",
+    "standard_form" : "어~ 십 육만원 이나 해요 -연극- 뮤지컬 인데요.",
+    "dialect_form" : "어~ 십 육만원 이나 해유 -연극- 뮤지컬 인데유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "어~",
+      "standard" : "어~",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "십",
+      "standard" : "십",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "육만원",
+      "standard" : "육만원",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "이나",
+      "standard" : "이나",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "해유",
+      "standard" : "해요",
+      "isDialect" : true
+    }, {
+      "id" : 6,
+      "eojeol" : "-연극-",
+      "standard" : "-연극-",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "뮤지컬",
+      "standard" : "뮤지컬",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "인데유.",
+      "standard" : "인데요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.176",
+    "start" : 888.5,
+    "end" : 890.66,
+    "speaker_id" : "1",
+    "form" : "아 제가 (그전에유.)/(그전에요.)",
+    "standard_form" : "아 제가 그전에요.",
+    "dialect_form" : "아 제가 그전에유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "아",
+      "standard" : "아",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "제가",
+      "standard" : "제가",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "그전에유.",
+      "standard" : "그전에요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.177",
+    "start" : 890.67,
+    "end" : 894.24,
+    "speaker_id" : "1",
+    "form" : "그~ 아더 왕을 보러 (갔는데유.)/(갔는데요.)",
+    "standard_form" : "그~ 아더 왕을 보러 갔는데요.",
+    "dialect_form" : "그~ 아더 왕을 보러 갔는데유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "그~",
+      "standard" : "그~",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "아더",
+      "standard" : "아더",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "왕을",
+      "standard" : "왕을",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "보러",
+      "standard" : "보러",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "갔는데유.",
+      "standard" : "갔는데요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.178",
+    "start" : 894.24,
+    "end" : 900.84,
+    "speaker_id" : "1",
+    "form" : "그거는 공연장도 훨씬 더 크고 오케스트라에 굉장히 스케일이",
+    "standard_form" : "그거는 공연장도 훨씬 더 크고 오케스트라에 굉장히 스케일이",
+    "dialect_form" : "그거는 공연장도 훨씬 더 크고 오케스트라에 굉장히 스케일이",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "그거는",
+      "standard" : "그거는",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "공연장도",
+      "standard" : "공연장도",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "훨씬",
+      "standard" : "훨씬",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "더",
+      "standard" : "더",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "크고",
+      "standard" : "크고",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "오케스트라에",
+      "standard" : "오케스트라에",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "굉장히",
+      "standard" : "굉장히",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "스케일이",
+      "standard" : "스케일이",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.179",
+    "start" : 900.89,
+    "end" : 906.65,
+    "speaker_id" : "1",
+    "form" : "(컸구먼유)/(컸어요) 근데두 뮤지컬 공연 (비가유.)/(비가요.)",
+    "standard_form" : "컸어요 근데두 뮤지컬 공연 비가요.",
+    "dialect_form" : "컸구먼유 근데두 뮤지컬 공연 비가유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "컸구먼유",
+      "standard" : "컸어요",
+      "isDialect" : true
+    }, {
+      "id" : 2,
+      "eojeol" : "근데두",
+      "standard" : "근데두",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "뮤지컬",
+      "standard" : "뮤지컬",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "공연",
+      "standard" : "공연",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "비가유.",
+      "standard" : "비가요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.180",
+    "start" : 906.65,
+    "end" : 910.3,
+    "speaker_id" : "1",
+    "form" : "십만원 밖에 안 (나왔는디)/(나왔는데)",
+    "standard_form" : "십만원 밖에 안 나왔는데",
+    "dialect_form" : "십만원 밖에 안 나왔는디",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "십만원",
+      "standard" : "십만원",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "밖에",
+      "standard" : "밖에",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "안",
+      "standard" : "안",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "나왔는디",
+      "standard" : "나왔는데",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.181",
+    "start" : 910.31,
+    "end" : 913.24,
+    "speaker_id" : "1",
+    "form" : "아~ 여기서 십 육 만원을",
+    "standard_form" : "아~ 여기서 십 육 만원을",
+    "dialect_form" : "아~ 여기서 십 육 만원을",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "아~",
+      "standard" : "아~",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "여기서",
+      "standard" : "여기서",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "십",
+      "standard" : "십",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "육",
+      "standard" : "육",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "만원을",
+      "standard" : "만원을",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.182",
+    "start" : 913.5,
+    "end" : 916.74,
+    "speaker_id" : "1",
+    "form" : "주고 볼 정돈가 싶을 (정도로유.)/(정도로요.)",
+    "standard_form" : "주고 볼 정돈가 싶을 정도로요.",
+    "dialect_form" : "주고 볼 정돈가 싶을 정도로유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "주고",
+      "standard" : "주고",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "볼",
+      "standard" : "볼",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "정돈가",
+      "standard" : "정돈가",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "싶을",
+      "standard" : "싶을",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "정도로유.",
+      "standard" : "정도로요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.183",
+    "start" : 917.25,
+    "end" : 923.41,
+    "speaker_id" : "1",
+    "form" : "에~ 쪼금 아~ 아쉬웠던 그 뮤지컬 (이었구먼유.)/(이었어요.)",
+    "standard_form" : "에~ 쪼금 아~ 아쉬웠던 그 뮤지컬 이었어요.",
+    "dialect_form" : "에~ 쪼금 아~ 아쉬웠던 그 뮤지컬 이었구먼유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "에~",
+      "standard" : "에~",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "쪼금",
+      "standard" : "쪼금",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "아~",
+      "standard" : "아~",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "아쉬웠던",
+      "standard" : "아쉬웠던",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "그",
+      "standard" : "그",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "뮤지컬",
+      "standard" : "뮤지컬",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "이었구먼유.",
+      "standard" : "이었어요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.184",
+    "start" : 924.25,
+    "end" : 929.92,
+    "speaker_id" : "1",
+    "form" : "그리고 (제가유)/(제가요) 이 뮤지컬을 처음 접해 본 (게유.)/(게요.)",
+    "standard_form" : "그리고 제가요 이 뮤지컬을 처음 접해 본 게요.",
+    "dialect_form" : "그리고 제가유 이 뮤지컬을 처음 접해 본 게유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "그리고",
+      "standard" : "그리고",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "제가유",
+      "standard" : "제가요",
+      "isDialect" : true
+    }, {
+      "id" : 3,
+      "eojeol" : "이",
+      "standard" : "이",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "뮤지컬을",
+      "standard" : "뮤지컬을",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "처음",
+      "standard" : "처음",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "접해",
+      "standard" : "접해",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "본",
+      "standard" : "본",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "게유.",
+      "standard" : "게요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.185",
+    "start" : 930,
+    "end" : 932.97,
+    "speaker_id" : "1",
+    "form" : "한 칠 년 (전에유.)/(전에요.)",
+    "standard_form" : "한 칠 년 전에요.",
+    "dialect_form" : "한 칠 년 전에유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "한",
+      "standard" : "한",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "칠",
+      "standard" : "칠",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "년",
+      "standard" : "년",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "전에유.",
+      "standard" : "전에요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.186",
+    "start" : 933,
+    "end" : 941.37,
+    "speaker_id" : "1",
+    "form" : "이제 안동이라는 그 종가집의 스토리를 가지고",
+    "standard_form" : "이제 안동이라는 그 종가집의 스토리를 가지고",
+    "dialect_form" : "이제 안동이라는 그 종가집의 스토리를 가지고",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "이제",
+      "standard" : "이제",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "안동이라는",
+      "standard" : "안동이라는",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "그",
+      "standard" : "그",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "종가집의",
+      "standard" : "종가집의",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "스토리를",
+      "standard" : "스토리를",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "가지고",
+      "standard" : "가지고",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.187",
+    "start" : 941.5,
+    "end" : 947.62,
+    "speaker_id" : "1",
+    "form" : "-뮤지컬- 뮤지컬을 했었던 기억이 나는데요 사실은 그 때는",
+    "standard_form" : "-뮤지컬- 뮤지컬을 했었던 기억이 나는데요 사실은 그 때는",
+    "dialect_form" : "-뮤지컬- 뮤지컬을 했었던 기억이 나는데요 사실은 그 때는",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "-뮤지컬-",
+      "standard" : "-뮤지컬-",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "뮤지컬을",
+      "standard" : "뮤지컬을",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "했었던",
+      "standard" : "했었던",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "기억이",
+      "standard" : "기억이",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "나는데요",
+      "standard" : "나는데요",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "사실은",
+      "standard" : "사실은",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "그",
+      "standard" : "그",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "때는",
+      "standard" : "때는",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.188",
+    "start" : 947.63,
+    "end" : 952.12,
+    "speaker_id" : "1",
+    "form" : "뮤지컬이 좋아서 간 게 아니라 거기 (주연이유.)/(주연이요.)",
+    "standard_form" : "뮤지컬이 좋아서 간 게 아니라 거기 주연이요.",
+    "dialect_form" : "뮤지컬이 좋아서 간 게 아니라 거기 주연이유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "뮤지컬이",
+      "standard" : "뮤지컬이",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "좋아서",
+      "standard" : "좋아서",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "간",
+      "standard" : "간",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "게",
+      "standard" : "게",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "아니라",
+      "standard" : "아니라",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "거기",
+      "standard" : "거기",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "주연이유.",
+      "standard" : "주연이요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.189",
+    "start" : 952.453829787234,
+    "end" : 956.68,
+    "speaker_id" : "1",
+    "form" : "제가 좋아하는 가수가 출연을 (해가지유.)/(해서요.)",
+    "standard_form" : "제가 좋아하는 가수가 출연을 해서요.",
+    "dialect_form" : "제가 좋아하는 가수가 출연을 해가지유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "제가",
+      "standard" : "제가",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "좋아하는",
+      "standard" : "좋아하는",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "가수가",
+      "standard" : "가수가",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "출연을",
+      "standard" : "출연을",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "해가지유.",
+      "standard" : "해서요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.190",
+    "start" : 957.25,
+    "end" : 960.97,
+    "speaker_id" : "1",
+    "form" : "하여간 가서 (봤는디유)/(봤는데요) 굉장히",
+    "standard_form" : "하여간 가서 봤는데요 굉장히",
+    "dialect_form" : "하여간 가서 봤는디유 굉장히",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "하여간",
+      "standard" : "하여간",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "가서",
+      "standard" : "가서",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "봤는디유",
+      "standard" : "봤는데요",
+      "isDialect" : true
+    }, {
+      "id" : 4,
+      "eojeol" : "굉장히",
+      "standard" : "굉장히",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.191",
+    "start" : 960.98,
+    "end" : 968.58,
+    "speaker_id" : "1",
+    "form" : "너무나도 (좋았고만유)/(좋았어요) 사실은 그 가수를 좋아해서 (갔는디)/(갔는데) 그 가수를",
+    "standard_form" : "너무나도 좋았어요 사실은 그 가수를 좋아해서 갔는데 그 가수를",
+    "dialect_form" : "너무나도 좋았고만유 사실은 그 가수를 좋아해서 갔는디 그 가수를",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "너무나도",
+      "standard" : "너무나도",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "좋았고만유",
+      "standard" : "좋았어요",
+      "isDialect" : true
+    }, {
+      "id" : 3,
+      "eojeol" : "사실은",
+      "standard" : "사실은",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "그",
+      "standard" : "그",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "가수를",
+      "standard" : "가수를",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "좋아해서",
+      "standard" : "좋아해서",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "갔는디",
+      "standard" : "갔는데",
+      "isDialect" : true
+    }, {
+      "id" : 8,
+      "eojeol" : "그",
+      "standard" : "그",
+      "isDialect" : false
+    }, {
+      "id" : 9,
+      "eojeol" : "가수를",
+      "standard" : "가수를",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.192",
+    "start" : 968.59,
+    "end" : 974.16,
+    "speaker_id" : "1",
+    "form" : "(보다는유)/(보다는요) 전체적인 연출과 그리고 또 그~",
+    "standard_form" : "보다는요 전체적인 연출과 그리고 또 그~",
+    "dialect_form" : "보다는유 전체적인 연출과 그리고 또 그~",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "보다는유",
+      "standard" : "보다는요",
+      "isDialect" : true
+    }, {
+      "id" : 2,
+      "eojeol" : "전체적인",
+      "standard" : "전체적인",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "연출과",
+      "standard" : "연출과",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "그리고",
+      "standard" : "그리고",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "또",
+      "standard" : "또",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "그~",
+      "standard" : "그~",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.193",
+    "start" : 975.5,
+    "end" : 979.82,
+    "speaker_id" : "1",
+    "form" : "스케일과 그런 멋있는 그런 부분이",
+    "standard_form" : "스케일과 그런 멋있는 그런 부분이",
+    "dialect_form" : "스케일과 그런 멋있는 그런 부분이",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "스케일과",
+      "standard" : "스케일과",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "그런",
+      "standard" : "그런",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "멋있는",
+      "standard" : "멋있는",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "그런",
+      "standard" : "그런",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "부분이",
+      "standard" : "부분이",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.194",
+    "start" : 979.83,
+    "end" : 983.91,
+    "speaker_id" : "1",
+    "form" : "굉장히 제 마음에 와 (닿아서유.)/(닿아서요.)",
+    "standard_form" : "굉장히 제 마음에 와 닿아서요.",
+    "dialect_form" : "굉장히 제 마음에 와 닿아서유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "굉장히",
+      "standard" : "굉장히",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "제",
+      "standard" : "제",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "마음에",
+      "standard" : "마음에",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "와",
+      "standard" : "와",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "닿아서유.",
+      "standard" : "닿아서요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.195",
+    "start" : 984.5989285714286,
+    "end" : 991.95,
+    "speaker_id" : "1",
+    "form" : "진짜 뮤지컬은 거의 매년마다 보러가 서울로 오는 것 (같애유.)/(같아요.)",
+    "standard_form" : "진짜 뮤지컬은 거의 매년마다 보러가 서울로 오는 것 같아요.",
+    "dialect_form" : "진짜 뮤지컬은 거의 매년마다 보러가 서울로 오는 것 같애유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "진짜",
+      "standard" : "진짜",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "뮤지컬은",
+      "standard" : "뮤지컬은",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "거의",
+      "standard" : "거의",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "매년마다",
+      "standard" : "매년마다",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "보러가",
+      "standard" : "보러가",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "서울로",
+      "standard" : "서울로",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "오는",
+      "standard" : "오는",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "것",
+      "standard" : "것",
+      "isDialect" : false
+    }, {
+      "id" : 9,
+      "eojeol" : "같애유.",
+      "standard" : "같아요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.196",
+    "start" : 993.25,
+    "end" : 998.97,
+    "speaker_id" : "1",
+    "form" : "이번에는 코로나로 인해서 이번 한 번 밖에 못 (봤지만유.)/(봤지만요.)",
+    "standard_form" : "이번에는 코로나로 인해서 이번 한 번 밖에 못 봤지만요.",
+    "dialect_form" : "이번에는 코로나로 인해서 이번 한 번 밖에 못 봤지만유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "이번에는",
+      "standard" : "이번에는",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "코로나로",
+      "standard" : "코로나로",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "인해서",
+      "standard" : "인해서",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "이번",
+      "standard" : "이번",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "한",
+      "standard" : "한",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "번",
+      "standard" : "번",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "밖에",
+      "standard" : "밖에",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "못",
+      "standard" : "못",
+      "isDialect" : false
+    }, {
+      "id" : 9,
+      "eojeol" : "봤지만유.",
+      "standard" : "봤지만요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.197",
+    "start" : 999.5,
+    "end" : 1006.37,
+    "speaker_id" : "1",
+    "form" : "이제 끝나고 (나면유)/(나면요) 또 줄기차게 뮤지컬을 보러다닐 (거구만유.)/(거예요.)",
+    "standard_form" : "이제 끝나고 나면요 또 줄기차게 뮤지컬을 보러다닐 거예요.",
+    "dialect_form" : "이제 끝나고 나면유 또 줄기차게 뮤지컬을 보러다닐 거구만유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "이제",
+      "standard" : "이제",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "끝나고",
+      "standard" : "끝나고",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "나면유",
+      "standard" : "나면요",
+      "isDialect" : true
+    }, {
+      "id" : 4,
+      "eojeol" : "또",
+      "standard" : "또",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "줄기차게",
+      "standard" : "줄기차게",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "뮤지컬을",
+      "standard" : "뮤지컬을",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "보러다닐",
+      "standard" : "보러다닐",
+      "isDialect" : false
+    }, {
+      "id" : 8,
+      "eojeol" : "거구만유.",
+      "standard" : "거예요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.198",
+    "start" : 1006.5,
+    "end" : 1012.29,
+    "speaker_id" : "1",
+    "form" : "그리고 그~ 또~",
+    "standard_form" : "그리고 그~ 또~",
+    "dialect_form" : "그리고 그~ 또~",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "그리고",
+      "standard" : "그리고",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "그~",
+      "standard" : "그~",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "또~",
+      "standard" : "또~",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.199",
+    "start" : 1012.36,
+    "end" : 1016.22,
+    "speaker_id" : "1",
+    "form" : "(지가)/(제가) 이 뮤지컬을 보면서 또",
+    "standard_form" : "제가 이 뮤지컬을 보면서 또",
+    "dialect_form" : "지가 이 뮤지컬을 보면서 또",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "지가",
+      "standard" : "제가",
+      "isDialect" : true
+    }, {
+      "id" : 2,
+      "eojeol" : "이",
+      "standard" : "이",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "뮤지컬을",
+      "standard" : "뮤지컬을",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "보면서",
+      "standard" : "보면서",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "또",
+      "standard" : "또",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.200",
+    "start" : 1016.23,
+    "end" : 1020.05,
+    "speaker_id" : "1",
+    "form" : "연출이나 이런 것도 공부를 많이 하게 (돼서유.)/(돼서요.)",
+    "standard_form" : "연출이나 이런 것도 공부를 많이 하게 돼서요.",
+    "dialect_form" : "연출이나 이런 것도 공부를 많이 하게 돼서유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "연출이나",
+      "standard" : "연출이나",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "이런",
+      "standard" : "이런",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "것도",
+      "standard" : "것도",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "공부를",
+      "standard" : "공부를",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "많이",
+      "standard" : "많이",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "하게",
+      "standard" : "하게",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "돼서유.",
+      "standard" : "돼서요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.201",
+    "start" : 1020.06,
+    "end" : 1025.83,
+    "speaker_id" : "1",
+    "form" : "(지는)/(저는) 이런 공연 쪽에 굉장히 에~ 저거",
+    "standard_form" : "저는 이런 공연 쪽에 굉장히 에~ 저거",
+    "dialect_form" : "지는 이런 공연 쪽에 굉장히 에~ 저거",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "지는",
+      "standard" : "저는",
+      "isDialect" : true
+    }, {
+      "id" : 2,
+      "eojeol" : "이런",
+      "standard" : "이런",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "공연",
+      "standard" : "공연",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "쪽에",
+      "standard" : "쪽에",
+      "isDialect" : false
+    }, {
+      "id" : 5,
+      "eojeol" : "굉장히",
+      "standard" : "굉장히",
+      "isDialect" : false
+    }, {
+      "id" : 6,
+      "eojeol" : "에~",
+      "standard" : "에~",
+      "isDialect" : false
+    }, {
+      "id" : 7,
+      "eojeol" : "저거",
+      "standard" : "저거",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.202",
+    "start" : 1025.86,
+    "end" : 1029.21,
+    "speaker_id" : "1",
+    "form" : "음~ 더 조금 트여있는",
+    "standard_form" : "음~ 더 조금 트여있는",
+    "dialect_form" : "음~ 더 조금 트여있는",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "음~",
+      "standard" : "음~",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "더",
+      "standard" : "더",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "조금",
+      "standard" : "조금",
+      "isDialect" : false
+    }, {
+      "id" : 4,
+      "eojeol" : "트여있는",
+      "standard" : "트여있는",
+      "isDialect" : false
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.203",
+    "start" : 1029.21,
+    "end" : 1030.72,
+    "speaker_id" : "1",
+    "form" : "편인 것 (같애유.)/(같아요.)",
+    "standard_form" : "편인 것 같아요.",
+    "dialect_form" : "편인 것 같애유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "편인",
+      "standard" : "편인",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "것",
+      "standard" : "것",
+      "isDialect" : false
+    }, {
+      "id" : 3,
+      "eojeol" : "같애유.",
+      "standard" : "같아요.",
+      "isDialect" : true
+    } ]
+  }, {
+    "id" : "DCEX20002534.1.1.204",
+    "start" : 1030.94,
+    "end" : 1033.89,
+    "speaker_id" : "1",
+    "form" : "굉장히 (좋았구먼유.)/(좋았어요.)",
+    "standard_form" : "굉장히 좋았어요.",
+    "dialect_form" : "굉장히 좋았구먼유.",
+    "note" : "",
+    "eojeolList" : [ {
+      "id" : 1,
+      "eojeol" : "굉장히",
+      "standard" : "굉장히",
+      "isDialect" : false
+    }, {
+      "id" : 2,
+      "eojeol" : "좋았구먼유.",
+      "standard" : "좋았어요.",
+      "isDialect" : true
+    } ]
+  } ]
+}

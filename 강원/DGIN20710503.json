@@ -1,0 +1,2142 @@
+{
+    "id": "DGIN20710503",
+    "metadata": {
+        "title": "강원방언 AI 학습데이터 DGIN20710503",
+        "creator": "인피닉",
+        "distributor": "인피닉",
+        "year": "2020",
+        "category": "강원방언 > 사적 대화 > 일상 대화",
+        "annotation_level": [
+            ""
+        ],
+        "sampling": "본문 전체",
+        "author": "개인 발화자",
+        "publisher": "개인 발화 녹음",
+        "date": "20201229",
+        "topic": "가족"
+    },
+    "speaker": [
+        {
+            "id": "1",
+            "name": "null",
+            "age": "20대",
+            "occupation": "서비스 종사자",
+            "sex": "남성",
+            "birthplace": "강원",
+            "principal_residence": "강원",
+            "current_residence": "강원",
+            "education": "대졸"
+        }
+    ],
+    "setting": {
+        "relation": "기타"
+    },
+    "utterance": [
+        {
+            "id": "DGIN20710503.1.1.1",
+            "form": "사정이야 (어띃게)/(어떻게) 됐든 그인 나를 택했어요.",
+            "standard_form": "사정이야 어떻게 됐든 그인 나를 택했어요.",
+            "dialect_form": "사정이야 어띃게 됐든 그인 나를 택했어요.",
+            "speaker_id": "1",
+            "start": 1.43,
+            "end": 5.53,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "사정이야",
+                    "standard": "사정이야",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "어띃게",
+                    "standard": "어떻게",
+                    "isDialect": true
+                },
+                {
+                    "id": 3,
+                    "eojeol": "됐든",
+                    "standard": "됐든",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "그인",
+                    "standard": "그인",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "나를",
+                    "standard": "나를",
+                    "isDialect": false
+                },
+                {
+                    "id": 6,
+                    "eojeol": "택했어요.",
+                    "standard": "택했어요.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.2",
+            "form": "(그래니까)/(그러니까) 언닌 (예자로서)/(여자로서) 매력이 없던 거라구요.",
+            "standard_form": "그러니까 언닌 여자로서 매력이 없던 거라구요.",
+            "dialect_form": "그래니까 언닌 예자로서 매력이 없던 거라구요.",
+            "speaker_id": "1",
+            "start": 9,
+            "end": 13.63,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "그래니까",
+                    "standard": "그러니까",
+                    "isDialect": true
+                },
+                {
+                    "id": 2,
+                    "eojeol": "언닌",
+                    "standard": "언닌",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "예자로서",
+                    "standard": "여자로서",
+                    "isDialect": true
+                },
+                {
+                    "id": 4,
+                    "eojeol": "매력이",
+                    "standard": "매력이",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "없던",
+                    "standard": "없던",
+                    "isDialect": false
+                },
+                {
+                    "id": 6,
+                    "eojeol": "거라구요.",
+                    "standard": "거라구요.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.3",
+            "form": "뭐 뭐?",
+            "standard_form": "뭐 뭐?",
+            "dialect_form": "뭐 뭐?",
+            "speaker_id": "1",
+            "start": 16.55,
+            "end": 17.37,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "뭐",
+                    "standard": "뭐",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "뭐?",
+                    "standard": "뭐?",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.4",
+            "form": "(그라고)/(그리고) (지굼)/(지금) (꼴도)/(모습도) 보세요.",
+            "standard_form": "그리고 지금 모습도 보세요.",
+            "dialect_form": "그라고 지굼 꼴도 보세요.",
+            "speaker_id": "1",
+            "start": 19.67,
+            "end": 22.34,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "그라고",
+                    "standard": "그리고",
+                    "isDialect": true
+                },
+                {
+                    "id": 2,
+                    "eojeol": "지굼",
+                    "standard": "지금",
+                    "isDialect": true
+                },
+                {
+                    "id": 3,
+                    "eojeol": "꼴도",
+                    "standard": "모습도",
+                    "isDialect": true
+                },
+                {
+                    "id": 4,
+                    "eojeol": "보세요.",
+                    "standard": "보세요.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.5",
+            "form": "아무렇게나 빗은 머리에 곰탕 쩔은 (내금새)/(냄새)",
+            "standard_form": "아무렇게나 빗은 머리에 곰탕 쩔은 냄새",
+            "dialect_form": "아무렇게나 빗은 머리에 곰탕 쩔은 내금새",
+            "speaker_id": "1",
+            "start": 25.13,
+            "end": 28.25,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "아무렇게나",
+                    "standard": "아무렇게나",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "빗은",
+                    "standard": "빗은",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "머리에",
+                    "standard": "머리에",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "곰탕",
+                    "standard": "곰탕",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "쩔은",
+                    "standard": "쩔은",
+                    "isDialect": false
+                },
+                {
+                    "id": 6,
+                    "eojeol": "내금새",
+                    "standard": "냄새",
+                    "isDialect": true
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.6",
+            "form": "그렇게하고 (더데기를)/(더덕을) 구워 보낸다고 지나간 사랑이 다시 올 거라고 생각해요?",
+            "standard_form": "그렇게하고 더덕을 구워 보낸다고 지나간 사랑이 다시 올 거라고 생각해요?",
+            "dialect_form": "그렇게하고 더데기를 구워 보낸다고 지나간 사랑이 다시 올 거라고 생각해요?",
+            "speaker_id": "1",
+            "start": 32,
+            "end": 37.06,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "그렇게하고",
+                    "standard": "그렇게하고",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "더데기를",
+                    "standard": "더덕을",
+                    "isDialect": true
+                },
+                {
+                    "id": 3,
+                    "eojeol": "구워",
+                    "standard": "구워",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "보낸다고",
+                    "standard": "보낸다고",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "지나간",
+                    "standard": "지나간",
+                    "isDialect": false
+                },
+                {
+                    "id": 6,
+                    "eojeol": "사랑이",
+                    "standard": "사랑이",
+                    "isDialect": false
+                },
+                {
+                    "id": 7,
+                    "eojeol": "다시",
+                    "standard": "다시",
+                    "isDialect": false
+                },
+                {
+                    "id": 8,
+                    "eojeol": "올",
+                    "standard": "올",
+                    "isDialect": false
+                },
+                {
+                    "id": 9,
+                    "eojeol": "거라고",
+                    "standard": "거라고",
+                    "isDialect": false
+                },
+                {
+                    "id": 10,
+                    "eojeol": "생각해요?",
+                    "standard": "생각해요?",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.7",
+            "form": "뭐 뭐라고?",
+            "standard_form": "뭐 뭐라고?",
+            "dialect_form": "뭐 뭐라고?",
+            "speaker_id": "1",
+            "start": 39.81,
+            "end": 40.94,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "뭐",
+                    "standard": "뭐",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "뭐라고?",
+                    "standard": "뭐라고?",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.8",
+            "form": "주제를 알아야지 (참말로.)/(정말로.)",
+            "standard_form": "주제를 알아야지 정말로.",
+            "dialect_form": "주제를 알아야지 참말로.",
+            "speaker_id": "1",
+            "start": 44.01,
+            "end": 46.34,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "주제를",
+                    "standard": "주제를",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "알아야지",
+                    "standard": "알아야지",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "참말로.",
+                    "standard": "정말로.",
+                    "isDialect": true
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.9",
+            "form": "너너 너어.",
+            "standard_form": "너너 너어.",
+            "dialect_form": "너너 너어.",
+            "speaker_id": "1",
+            "start": 48.73,
+            "end": 50.92,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "너너",
+                    "standard": "너너",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "너어.",
+                    "standard": "너어.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.10",
+            "form": "(어데)/(어디) 우리 그이한테 수작을 걸어 수작을.",
+            "standard_form": "어디 우리 그이한테 수작을 걸어 수작을.",
+            "dialect_form": "어데 우리 그이한테 수작을 걸어 수작을.",
+            "speaker_id": "1",
+            "start": 54.21,
+            "end": 56.83,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "어데",
+                    "standard": "어디",
+                    "isDialect": true
+                },
+                {
+                    "id": 2,
+                    "eojeol": "우리",
+                    "standard": "우리",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "그이한테",
+                    "standard": "그이한테",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "수작을",
+                    "standard": "수작을",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "걸어",
+                    "standard": "걸어",
+                    "isDialect": false
+                },
+                {
+                    "id": 6,
+                    "eojeol": "수작을.",
+                    "standard": "수작을.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.11",
+            "form": "내가 (기양)/(그냥) (그른)/(그런) 짓을 두고 볼 (사램이라)/(사람이라) 생각했나 본대 어림도 없지 어림도 없어.",
+            "standard_form": "내가 그냥 그런 짓을 두고 볼 사람이라 생각했나 본대 어림도 없지 어림도 없어.",
+            "dialect_form": "내가 기양 그른 짓을 두고 볼 사램이라 생각했나 본대 어림도 없지 어림도 없어.",
+            "speaker_id": "1",
+            "start": 62.34,
+            "end": 68.37,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "내가",
+                    "standard": "내가",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "기양",
+                    "standard": "그냥",
+                    "isDialect": true
+                },
+                {
+                    "id": 3,
+                    "eojeol": "그른",
+                    "standard": "그런",
+                    "isDialect": true
+                },
+                {
+                    "id": 4,
+                    "eojeol": "짓을",
+                    "standard": "짓을",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "두고",
+                    "standard": "두고",
+                    "isDialect": false
+                },
+                {
+                    "id": 6,
+                    "eojeol": "볼",
+                    "standard": "볼",
+                    "isDialect": false
+                },
+                {
+                    "id": 7,
+                    "eojeol": "사램이라",
+                    "standard": "사람이라",
+                    "isDialect": true
+                },
+                {
+                    "id": 8,
+                    "eojeol": "생각했나",
+                    "standard": "생각했나",
+                    "isDialect": false
+                },
+                {
+                    "id": 9,
+                    "eojeol": "본대",
+                    "standard": "본대",
+                    "isDialect": false
+                },
+                {
+                    "id": 10,
+                    "eojeol": "어림도",
+                    "standard": "어림도",
+                    "isDialect": false
+                },
+                {
+                    "id": 11,
+                    "eojeol": "없지",
+                    "standard": "없지",
+                    "isDialect": false
+                },
+                {
+                    "id": 12,
+                    "eojeol": "어림도",
+                    "standard": "어림도",
+                    "isDialect": false
+                },
+                {
+                    "id": 13,
+                    "eojeol": "없어.",
+                    "standard": "없어.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.12",
+            "form": "다시 한번 내 주위에서 얼씬거리면 그땐 아주 끝장 내 버릴 거에요.",
+            "standard_form": "다시 한번 내 주위에서 얼씬거리면 그땐 아주 끝장 내 버릴 거에요.",
+            "dialect_form": "다시 한번 내 주위에서 얼씬거리면 그땐 아주 끝장 내 버릴 거에요.",
+            "speaker_id": "1",
+            "start": 71.04,
+            "end": 75.5,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "다시",
+                    "standard": "다시",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "한번",
+                    "standard": "한번",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "내",
+                    "standard": "내",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "주위에서",
+                    "standard": "주위에서",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "얼씬거리면",
+                    "standard": "얼씬거리면",
+                    "isDialect": false
+                },
+                {
+                    "id": 6,
+                    "eojeol": "그땐",
+                    "standard": "그땐",
+                    "isDialect": false
+                },
+                {
+                    "id": 7,
+                    "eojeol": "아주",
+                    "standard": "아주",
+                    "isDialect": false
+                },
+                {
+                    "id": 8,
+                    "eojeol": "끝장",
+                    "standard": "끝장",
+                    "isDialect": false
+                },
+                {
+                    "id": 9,
+                    "eojeol": "내",
+                    "standard": "내",
+                    "isDialect": false
+                },
+                {
+                    "id": 10,
+                    "eojeol": "버릴",
+                    "standard": "버릴",
+                    "isDialect": false
+                },
+                {
+                    "id": 11,
+                    "eojeol": "거에요.",
+                    "standard": "거에요.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.13",
+            "form": "언제로 할까?",
+            "standard_form": "언제로 할까?",
+            "dialect_form": "언제로 할까?",
+            "speaker_id": "1",
+            "start": 80.75,
+            "end": 81.73,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "언제로",
+                    "standard": "언제로",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "할까?",
+                    "standard": "할까?",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.14",
+            "start": 82.41,
+            "end": 85.61,
+            "speaker_id": "1",
+            "form": "어머님들 만나는 거 말이야 일요일?",
+            "standard_form": "어머님들 만나는 거 말이야 일요일?",
+            "dialect_form": "어머님들 만나는 거 말이야 일요일?",
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "어머님들",
+                    "standard": "어머님들",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "만나는",
+                    "standard": "만나는",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "거",
+                    "standard": "거",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "말이야",
+                    "standard": "말이야",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "일요일?",
+                    "standard": "일요일?",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.15",
+            "form": "아무래도 그게 좋겠죠?",
+            "standard_form": "아무래도 그게 좋겠죠?",
+            "dialect_form": "아무래도 그게 좋겠죠?",
+            "speaker_id": "1",
+            "start": 88.62,
+            "end": 90.18,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "아무래도",
+                    "standard": "아무래도",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "그게",
+                    "standard": "그게",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "좋겠죠?",
+                    "standard": "좋겠죠?",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.16",
+            "start": 91.61,
+            "end": 93.31,
+            "speaker_id": "1",
+            "form": "근데 어디로 해야 하나?",
+            "standard_form": "근데 어디로 해야 하나?",
+            "dialect_form": "근데 어디로 해야 하나?",
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "근데",
+                    "standard": "근데",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "어디로",
+                    "standard": "어디로",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "해야",
+                    "standard": "해야",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "하나?",
+                    "standard": "하나?",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.17",
+            "form": "@이름1 어머님은 (무신)/(무슨) 음식을 좋아하시나?",
+            "standard_form": "&name1& 어머님은 무슨 음식을 좋아하시나?",
+            "dialect_form": "&name1& 어머님은 무신 음식을 좋아하시나?",
+            "speaker_id": "1",
+            "start": 97.05,
+            "end": 100.22,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "&name1&",
+                    "standard": "&name1&",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "어머님은",
+                    "standard": "어머님은",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "무신",
+                    "standard": "무슨",
+                    "isDialect": true
+                },
+                {
+                    "id": 4,
+                    "eojeol": "음식을",
+                    "standard": "음식을",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "좋아하시나?",
+                    "standard": "좋아하시나?",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.18",
+            "form": "울 엄마는 상관없어요 어머님 편하신 곳으로 (이애기)/(이야기) 해주세요.",
+            "standard_form": "울 엄마는 상관없어요 어머님 편하신 곳으로 이야기 해주세요.",
+            "dialect_form": "울 엄마는 상관없어요 어머님 편하신 곳으로 이애기 해주세요.",
+            "speaker_id": "1",
+            "start": 103.64,
+            "end": 107.37,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "울",
+                    "standard": "울",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "엄마는",
+                    "standard": "엄마는",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "상관없어요",
+                    "standard": "상관없어요",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "어머님",
+                    "standard": "어머님",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "편하신",
+                    "standard": "편하신",
+                    "isDialect": false
+                },
+                {
+                    "id": 6,
+                    "eojeol": "곳으로",
+                    "standard": "곳으로",
+                    "isDialect": false
+                },
+                {
+                    "id": 7,
+                    "eojeol": "이애기",
+                    "standard": "이야기",
+                    "isDialect": true
+                },
+                {
+                    "id": 8,
+                    "eojeol": "해주세요.",
+                    "standard": "해주세요.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.19",
+            "form": "아니다 아니다 @이름1 어머님한테 우리가 맞춰야지.",
+            "standard_form": "아니다 아니다 &name1& 어머님한테 우리가 맞춰야지.",
+            "dialect_form": "아니다 아니다 &name1& 어머님한테 우리가 맞춰야지.",
+            "speaker_id": "1",
+            "start": 110.36,
+            "end": 114.45,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "아니다",
+                    "standard": "아니다",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "아니다",
+                    "standard": "아니다",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "&name1&",
+                    "standard": "&name1&",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "어머님한테",
+                    "standard": "어머님한테",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "우리가",
+                    "standard": "우리가",
+                    "isDialect": false
+                },
+                {
+                    "id": 6,
+                    "eojeol": "맞춰야지.",
+                    "standard": "맞춰야지.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.20",
+            "form": "에이 아니에요.",
+            "standard_form": "에이 아니에요.",
+            "dialect_form": "에이 아니에요.",
+            "speaker_id": "1",
+            "start": 117.57,
+            "end": 120.06,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "에이",
+                    "standard": "에이",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "아니에요.",
+                    "standard": "아니에요.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.21",
+            "form": "시어머니신데.",
+            "standard_form": "시어머니신데.",
+            "dialect_form": "시어머니신데.",
+            "speaker_id": "1",
+            "start": 121.24,
+            "end": 122.69,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "시어머니신데.",
+                    "standard": "시어머니신데.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.22",
+            "form": "아니라니까.",
+            "standard_form": "아니라니까.",
+            "dialect_form": "아니라니까.",
+            "speaker_id": "1",
+            "start": 125.78,
+            "end": 127.13,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "아니라니까.",
+                    "standard": "아니라니까.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.23",
+            "form": "아니라니까요.",
+            "standard_form": "아니라니까요.",
+            "dialect_form": "아니라니까요.",
+            "speaker_id": "1",
+            "start": 129.98,
+            "end": 131.18,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "아니라니까요.",
+                    "standard": "아니라니까요.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.24",
+            "form": "어 아우.",
+            "standard_form": "어 아우.",
+            "dialect_form": "어 아우.",
+            "speaker_id": "1",
+            "start": 135.62,
+            "end": 136.83,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "어",
+                    "standard": "어",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "아우.",
+                    "standard": "아우.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.25",
+            "form": "어 형.",
+            "standard_form": "어 형.",
+            "dialect_form": "어 형.",
+            "speaker_id": "1",
+            "start": 139.67,
+            "end": 140.57,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "어",
+                    "standard": "어",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "형.",
+                    "standard": "형.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.26",
+            "form": "(오놀은)/(오늘은) (해방이나?)/(해방이냐?)",
+            "standard_form": "오늘은 해방이냐?",
+            "dialect_form": "오놀은 해방이나?",
+            "speaker_id": "1",
+            "start": 144,
+            "end": 145.54,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "오놀은",
+                    "standard": "오늘은",
+                    "isDialect": true
+                },
+                {
+                    "id": 2,
+                    "eojeol": "해방이나?",
+                    "standard": "해방이냐?",
+                    "isDialect": true
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.27",
+            "form": "어 이틀 동안 당직 했거든.",
+            "standard_form": "어 이틀 동안 당직 했거든.",
+            "dialect_form": "어 이틀 동안 당직 했거든.",
+            "speaker_id": "1",
+            "start": 147.48,
+            "end": 149.93,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "어",
+                    "standard": "어",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "이틀",
+                    "standard": "이틀",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "동안",
+                    "standard": "동안",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "당직",
+                    "standard": "당직",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "했거든.",
+                    "standard": "했거든.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.28",
+            "form": "마침 잘됐다 우리 같이 나가자.",
+            "standard_form": "마침 잘됐다 우리 같이 나가자.",
+            "dialect_form": "마침 잘됐다 우리 같이 나가자.",
+            "speaker_id": "1",
+            "start": 152.51,
+            "end": 154.75,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "마침",
+                    "standard": "마침",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "잘됐다",
+                    "standard": "잘됐다",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "우리",
+                    "standard": "우리",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "같이",
+                    "standard": "같이",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "나가자.",
+                    "standard": "나가자.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.29",
+            "start": 155.5,
+            "end": 155.95,
+            "speaker_id": "1",
+            "form": "오늘은.",
+            "standard_form": "오늘은.",
+            "dialect_form": "오늘은.",
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "오늘은.",
+                    "standard": "오늘은.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.30",
+            "form": "네?",
+            "standard_form": "네?",
+            "dialect_form": "네?",
+            "speaker_id": "1",
+            "start": 159.49,
+            "end": 159.98,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "네?",
+                    "standard": "네?",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.31",
+            "form": "어딜요?",
+            "standard_form": "어딜요?",
+            "dialect_form": "어딜요?",
+            "speaker_id": "1",
+            "start": 162.6,
+            "end": 163.43,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "어딜요?",
+                    "standard": "어딜요?",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.32",
+            "form": "우리끼리 시원한 맥주 한잔.",
+            "standard_form": "우리끼리 시원한 맥주 한잔.",
+            "dialect_form": "우리끼리 시원한 맥주 한잔.",
+            "speaker_id": "1",
+            "start": 166.55,
+            "end": 168.7,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "우리끼리",
+                    "standard": "우리끼리",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "시원한",
+                    "standard": "시원한",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "맥주",
+                    "standard": "맥주",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "한잔.",
+                    "standard": "한잔.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.33",
+            "start": 169.43,
+            "end": 173.14,
+            "speaker_id": "1",
+            "form": "안그래도 우리 (성제들한테)/(형제들한테) 내가 한번 쏘고 싶었거든.",
+            "standard_form": "안그래도 우리 형제들한테 내가 한번 쏘고 싶었거든.",
+            "dialect_form": "안그래도 우리 성제들한테 내가 한번 쏘고 싶었거든.",
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "안그래도",
+                    "standard": "안그래도",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "우리",
+                    "standard": "우리",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "성제들한테",
+                    "standard": "형제들한테",
+                    "isDialect": true
+                },
+                {
+                    "id": 4,
+                    "eojeol": "내가",
+                    "standard": "내가",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "한번",
+                    "standard": "한번",
+                    "isDialect": false
+                },
+                {
+                    "id": 6,
+                    "eojeol": "쏘고",
+                    "standard": "쏘고",
+                    "isDialect": false
+                },
+                {
+                    "id": 7,
+                    "eojeol": "싶었거든.",
+                    "standard": "싶었거든.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.34",
+            "form": "알겠습니다.",
+            "standard_form": "알겠습니다.",
+            "dialect_form": "알겠습니다.",
+            "speaker_id": "1",
+            "start": 176.26,
+            "end": 177.17,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "알겠습니다.",
+                    "standard": "알겠습니다.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.35",
+            "form": "@이름2 이랑 다 데리고 나갈려고 했던 참인데 니가 없음 어쩌나 했는데 잘됐다.",
+            "standard_form": "&name2& 이랑 다 데리고 나갈려고 했던 참인데 니가 없음 어쩌나 했는데 잘됐다.",
+            "dialect_form": "&name2& 이랑 다 데리고 나갈려고 했던 참인데 니가 없음 어쩌나 했는데 잘됐다.",
+            "speaker_id": "1",
+            "start": 179.5,
+            "end": 184.51,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "&name2&",
+                    "standard": "&name2&",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "이랑",
+                    "standard": "이랑",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "다",
+                    "standard": "다",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "데리고",
+                    "standard": "데리고",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "나갈려고",
+                    "standard": "나갈려고",
+                    "isDialect": false
+                },
+                {
+                    "id": 6,
+                    "eojeol": "했던",
+                    "standard": "했던",
+                    "isDialect": false
+                },
+                {
+                    "id": 7,
+                    "eojeol": "참인데",
+                    "standard": "참인데",
+                    "isDialect": false
+                },
+                {
+                    "id": 8,
+                    "eojeol": "니가",
+                    "standard": "니가",
+                    "isDialect": false
+                },
+                {
+                    "id": 9,
+                    "eojeol": "없음",
+                    "standard": "없음",
+                    "isDialect": false
+                },
+                {
+                    "id": 10,
+                    "eojeol": "어쩌나",
+                    "standard": "어쩌나",
+                    "isDialect": false
+                },
+                {
+                    "id": 11,
+                    "eojeol": "했는데",
+                    "standard": "했는데",
+                    "isDialect": false
+                },
+                {
+                    "id": 12,
+                    "eojeol": "잘됐다.",
+                    "standard": "잘됐다.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.36",
+            "form": "음.",
+            "standard_form": "음.",
+            "dialect_form": "음.",
+            "speaker_id": "1",
+            "start": 188.42,
+            "end": 189.82,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "음.",
+                    "standard": "음.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.37",
+            "form": "집에 들어갔다 나오면 또 우리끼리 빠져 나오는 것 같으니까",
+            "standard_form": "집에 들어갔다 나오면 또 우리끼리 빠져 나오는 것 같으니까",
+            "dialect_form": "집에 들어갔다 나오면 또 우리끼리 빠져 나오는 것 같으니까",
+            "speaker_id": "1",
+            "start": 194.73,
+            "end": 198.61,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "집에",
+                    "standard": "집에",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "들어갔다",
+                    "standard": "들어갔다",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "나오면",
+                    "standard": "나오면",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "또",
+                    "standard": "또",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "우리끼리",
+                    "standard": "우리끼리",
+                    "isDialect": false
+                },
+                {
+                    "id": 6,
+                    "eojeol": "빠져",
+                    "standard": "빠져",
+                    "isDialect": false
+                },
+                {
+                    "id": 7,
+                    "eojeol": "나오는",
+                    "standard": "나오는",
+                    "isDialect": false
+                },
+                {
+                    "id": 8,
+                    "eojeol": "것",
+                    "standard": "것",
+                    "isDialect": false
+                },
+                {
+                    "id": 9,
+                    "eojeol": "같으니까",
+                    "standard": "같으니까",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.38",
+            "form": "내가 @이름2이 데리고 나올게.",
+            "standard_form": "내가 &name2&이 데리고 나올게.",
+            "dialect_form": "내가 &name2&이 데리고 나올게.",
+            "speaker_id": "1",
+            "start": 199.13,
+            "end": 200.53,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "내가",
+                    "standard": "내가",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "&name2&이",
+                    "standard": "&name2&이",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "데리고",
+                    "standard": "데리고",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "나올게.",
+                    "standard": "나올게.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.39",
+            "form": "여기 잠깐만.",
+            "standard_form": "여기 잠깐만.",
+            "dialect_form": "여기 잠깐만.",
+            "speaker_id": "1",
+            "start": 204.63,
+            "end": 205.97,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "여기",
+                    "standard": "여기",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "잠깐만.",
+                    "standard": "잠깐만.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.40",
+            "form": "아 아 아니 형 아니 (저게)/(저기) 그러지말고 내가.",
+            "standard_form": "아 아 아니 형 아니 저기 그러지말고 내가.",
+            "dialect_form": "아 아 아니 형 아니 저게 그러지말고 내가.",
+            "speaker_id": "1",
+            "start": 209.75,
+            "end": 213.57,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "아",
+                    "standard": "아",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "아",
+                    "standard": "아",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "아니",
+                    "standard": "아니",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "형",
+                    "standard": "형",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "아니",
+                    "standard": "아니",
+                    "isDialect": false
+                },
+                {
+                    "id": 6,
+                    "eojeol": "저게",
+                    "standard": "저기",
+                    "isDialect": true
+                },
+                {
+                    "id": 7,
+                    "eojeol": "그러지말고",
+                    "standard": "그러지말고",
+                    "isDialect": false
+                },
+                {
+                    "id": 8,
+                    "eojeol": "내가.",
+                    "standard": "내가.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.41",
+            "form": "우리 @이름1 부탁 (한다이)/(해) 삼십 초만.",
+            "standard_form": "우리 &name1& 부탁 해 삼십 초만.",
+            "dialect_form": "우리 &name1& 부탁 한다이 삼십 초만.",
+            "speaker_id": "1",
+            "start": 217.66,
+            "end": 220.89,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "우리",
+                    "standard": "우리",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "&name1&",
+                    "standard": "&name1&",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "부탁",
+                    "standard": "부탁",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "한다이",
+                    "standard": "해",
+                    "isDialect": true
+                },
+                {
+                    "id": 5,
+                    "eojeol": "삼십",
+                    "standard": "삼십",
+                    "isDialect": false
+                },
+                {
+                    "id": 6,
+                    "eojeol": "초만.",
+                    "standard": "초만.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.42",
+            "form": "아아 안녕하셨어요?",
+            "standard_form": "아아 안녕하셨어요?",
+            "dialect_form": "아아 안녕하셨어요?",
+            "speaker_id": "1",
+            "start": 224.85,
+            "end": 227.86,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "아아",
+                    "standard": "아아",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "안녕하셨어요?",
+                    "standard": "안녕하셨어요?",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.43",
+            "form": "(야야야.)/(네네네.)",
+            "standard_form": "네네네.",
+            "dialect_form": "야야야.",
+            "speaker_id": "1",
+            "start": 230.98,
+            "end": 232.47,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "야야야.",
+                    "standard": "네네네.",
+                    "isDialect": true
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.44",
+            "form": "넌 임마 어떻게 (이제오나.)/(이제와.)",
+            "standard_form": "넌 임마 어떻게 이제와.",
+            "dialect_form": "넌 임마 어떻게 이제오나.",
+            "speaker_id": "1",
+            "start": 235.56,
+            "end": 237.74,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "넌",
+                    "standard": "넌",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "임마",
+                    "standard": "임마",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "어떻게",
+                    "standard": "어떻게",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "이제오나.",
+                    "standard": "이제와.",
+                    "isDialect": true
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.45",
+            "form": "정신없는데 좀 일찍 와서 거들지 않고.",
+            "standard_form": "정신없는데 좀 일찍 와서 거들지 않고.",
+            "dialect_form": "정신없는데 좀 일찍 와서 거들지 않고.",
+            "speaker_id": "1",
+            "start": 240.64,
+            "end": 243.31,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "정신없는데",
+                    "standard": "정신없는데",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "좀",
+                    "standard": "좀",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "일찍",
+                    "standard": "일찍",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "와서",
+                    "standard": "와서",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "거들지",
+                    "standard": "거들지",
+                    "isDialect": false
+                },
+                {
+                    "id": 6,
+                    "eojeol": "않고.",
+                    "standard": "않고.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.46",
+            "form": "어?",
+            "standard_form": "어?",
+            "dialect_form": "어?",
+            "speaker_id": "1",
+            "start": 246.78,
+            "end": 247.14954545454546,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "어?",
+                    "standard": "어?",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.47",
+            "start": 248.13,
+            "end": 249.49,
+            "speaker_id": "1",
+            "form": "엄마는 (어데)/(어디) 가셨어요?",
+            "standard_form": "엄마는 어디 가셨어요?",
+            "dialect_form": "엄마는 어데 가셨어요?",
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "엄마는",
+                    "standard": "엄마는",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "어데",
+                    "standard": "어디",
+                    "isDialect": true
+                },
+                {
+                    "id": 3,
+                    "eojeol": "가셨어요?",
+                    "standard": "가셨어요?",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.48",
+            "form": "글쎄 말이다.",
+            "standard_form": "글쎄 말이다.",
+            "dialect_form": "글쎄 말이다.",
+            "speaker_id": "1",
+            "start": 252.69,
+            "end": 253.89,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "글쎄",
+                    "standard": "글쎄",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "말이다.",
+                    "standard": "말이다.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.49",
+            "form": "한참 정신 없을 때 누가 왔는지 잠깐 간다고 하더더니만 감감이다 감감이.",
+            "standard_form": "한참 정신 없을 때 누가 왔는지 잠깐 간다고 하더더니만 감감이다 감감이.",
+            "dialect_form": "한참 정신 없을 때 누가 왔는지 잠깐 간다고 하더더니만 감감이다 감감이.",
+            "speaker_id": "1",
+            "start": 259.54,
+            "end": 265.34,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "한참",
+                    "standard": "한참",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "정신",
+                    "standard": "정신",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "없을",
+                    "standard": "없을",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "때",
+                    "standard": "때",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "누가",
+                    "standard": "누가",
+                    "isDialect": false
+                },
+                {
+                    "id": 6,
+                    "eojeol": "왔는지",
+                    "standard": "왔는지",
+                    "isDialect": false
+                },
+                {
+                    "id": 7,
+                    "eojeol": "잠깐",
+                    "standard": "잠깐",
+                    "isDialect": false
+                },
+                {
+                    "id": 8,
+                    "eojeol": "간다고",
+                    "standard": "간다고",
+                    "isDialect": false
+                },
+                {
+                    "id": 9,
+                    "eojeol": "하더더니만",
+                    "standard": "하더더니만",
+                    "isDialect": false
+                },
+                {
+                    "id": 10,
+                    "eojeol": "감감이다",
+                    "standard": "감감이다",
+                    "isDialect": false
+                },
+                {
+                    "id": 11,
+                    "eojeol": "감감이.",
+                    "standard": "감감이.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.50",
+            "form": "네.",
+            "standard_form": "네.",
+            "dialect_form": "네.",
+            "speaker_id": "1",
+            "start": 269.7,
+            "end": 270.63,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "네.",
+                    "standard": "네.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.51",
+            "form": "네.",
+            "standard_form": "네.",
+            "dialect_form": "네.",
+            "speaker_id": "1",
+            "start": 274.24,
+            "end": 275.01,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "네.",
+                    "standard": "네.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.52",
+            "form": "갑니다.",
+            "standard_form": "갑니다.",
+            "dialect_form": "갑니다.",
+            "speaker_id": "1",
+            "start": 278.91,
+            "end": 280.17,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "갑니다.",
+                    "standard": "갑니다.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.53",
+            "form": "오빠 (게신)/(얼른) 들어가서 엄마 좀 찾아와라 얼른 미치겠다.",
+            "standard_form": "오빠 얼른 들어가서 엄마 좀 찾아와라 얼른 미치겠다.",
+            "dialect_form": "오빠 게신 들어가서 엄마 좀 찾아와라 얼른 미치겠다.",
+            "speaker_id": "1",
+            "start": 283.29,
+            "end": 287.68,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "오빠",
+                    "standard": "오빠",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "게신",
+                    "standard": "얼른",
+                    "isDialect": true
+                },
+                {
+                    "id": 3,
+                    "eojeol": "들어가서",
+                    "standard": "들어가서",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "엄마",
+                    "standard": "엄마",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "좀",
+                    "standard": "좀",
+                    "isDialect": false
+                },
+                {
+                    "id": 6,
+                    "eojeol": "찾아와라",
+                    "standard": "찾아와라",
+                    "isDialect": false
+                },
+                {
+                    "id": 7,
+                    "eojeol": "얼른",
+                    "standard": "얼른",
+                    "isDialect": false
+                },
+                {
+                    "id": 8,
+                    "eojeol": "미치겠다.",
+                    "standard": "미치겠다.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.54",
+            "start": 291.39,
+            "end": 292.76,
+            "speaker_id": "1",
+            "form": "네.",
+            "standard_form": "네.",
+            "dialect_form": "네.",
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "네.",
+                    "standard": "네.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.55",
+            "start": 294.34,
+            "end": 295.7,
+            "speaker_id": "1",
+            "form": "갑니다.",
+            "standard_form": "갑니다.",
+            "dialect_form": "갑니다.",
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "갑니다.",
+                    "standard": "갑니다.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.56",
+            "start": 297.81,
+            "end": 298.94,
+            "speaker_id": "1",
+            "form": "사리요.",
+            "standard_form": "사리요.",
+            "dialect_form": "사리요.",
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "사리요.",
+                    "standard": "사리요.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.57",
+            "form": "(똑발로)/(똑바로) 들으세요 언니.",
+            "standard_form": "똑바로 들으세요 언니.",
+            "dialect_form": "똑발로 들으세요 언니.",
+            "speaker_id": "1",
+            "start": 302.55,
+            "end": 304.19,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "똑발로",
+                    "standard": "똑바로",
+                    "isDialect": true
+                },
+                {
+                    "id": 2,
+                    "eojeol": "들으세요",
+                    "standard": "들으세요",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "언니.",
+                    "standard": "언니.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN20710503.1.1.58",
+            "form": "사정이야 어떻게 됐든 그인 나를 택했어요.",
+            "standard_form": "사정이야 어떻게 됐든 그인 나를 택했어요.",
+            "dialect_form": "사정이야 어떻게 됐든 그인 나를 택했어요.",
+            "speaker_id": "1",
+            "start": 306.69,
+            "end": 310.42,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "사정이야",
+                    "standard": "사정이야",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "어떻게",
+                    "standard": "어떻게",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "됐든",
+                    "standard": "됐든",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "그인",
+                    "standard": "그인",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "나를",
+                    "standard": "나를",
+                    "isDialect": false
+                },
+                {
+                    "id": 6,
+                    "eojeol": "택했어요.",
+                    "standard": "택했어요.",
+                    "isDialect": false
+                }
+            ]
+        }
+    ]
+}

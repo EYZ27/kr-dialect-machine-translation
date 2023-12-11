@@ -1,0 +1,228 @@
+{
+    "id": "DGDQ20002065",
+    "metadata": {
+        "title": "강원방언 AI 학습데이터 DGDQ20002065",
+        "creator": "디큐",
+        "distributor": "디큐",
+        "year": "2021",
+        "category": "강원방언 > 사적 대화 > 일상 대화",
+        "annotation_level": [
+            ""
+        ],
+        "sampling": "본문 전체",
+        "author": "개인 발화자",
+        "publisher": "개인 발화 녹음",
+        "date": "20210118",
+        "topic": "회사/학교"
+    },
+    "speaker": [
+        {
+            "id": "1",
+            "name": "null",
+            "age": "40대",
+            "occupation": "서비스 종사자",
+            "sex": "여성",
+            "birthplace": "강원",
+            "principal_residence": "강원",
+            "current_residence": "강원",
+            "education": "고졸"
+        }
+    ],
+    "setting": {
+        "relation": "기타"
+    },
+    "utterance": [
+        {
+            "id": "DGDQ20002065.1.1.1",
+            "form": "아뇨 저 사표 냈어요.",
+            "standard_form": "아뇨 저 사표 냈어요.",
+            "dialect_form": "아뇨 저 사표 냈어요.",
+            "speaker_id": "1",
+            "start": 1,
+            "end": 3.71,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "아뇨",
+                    "standard": "아뇨",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "저",
+                    "standard": "저",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "사표",
+                    "standard": "사표",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "냈어요.",
+                    "standard": "냈어요.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGDQ20002065.1.1.2",
+            "form": "왜요?",
+            "standard_form": "왜요?",
+            "dialect_form": "왜요?",
+            "speaker_id": "1",
+            "start": 3.71,
+            "end": 5.87,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "왜요?",
+                    "standard": "왜요?",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGDQ20002065.1.1.3",
+            "form": "보다시피요 애 키워줄 (사램이)/(사람이) 없다 (보이께)/(보니까) 아무래도 걸리더라구요.",
+            "standard_form": "보다시피요 애 키워줄 사람이 없다 보니까 아무래도 걸리더라구요.",
+            "dialect_form": "보다시피요 애 키워줄 사램이 없다 보이께 아무래도 걸리더라구요.",
+            "speaker_id": "1",
+            "start": 5.87,
+            "end": 11.18,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "보다시피요",
+                    "standard": "보다시피요",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "애",
+                    "standard": "애",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "키워줄",
+                    "standard": "키워줄",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "사램이",
+                    "standard": "사람이",
+                    "isDialect": true
+                },
+                {
+                    "id": 5,
+                    "eojeol": "없다",
+                    "standard": "없다",
+                    "isDialect": false
+                },
+                {
+                    "id": 6,
+                    "eojeol": "보이께",
+                    "standard": "보니까",
+                    "isDialect": true
+                },
+                {
+                    "id": 7,
+                    "eojeol": "아무래도",
+                    "standard": "아무래도",
+                    "isDialect": false
+                },
+                {
+                    "id": 8,
+                    "eojeol": "걸리더라구요.",
+                    "standard": "걸리더라구요.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGDQ20002065.1.1.4",
+            "form": "에?",
+            "standard_form": "에?",
+            "dialect_form": "에?",
+            "speaker_id": "1",
+            "start": 11.52,
+            "end": 13.72,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "에?",
+                    "standard": "에?",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGDQ20002065.1.1.5",
+            "form": "그럼",
+            "standard_form": "그럼",
+            "dialect_form": "그럼",
+            "speaker_id": "1",
+            "start": 13.72,
+            "end": 15,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "그럼",
+                    "standard": "그럼",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGDQ20002065.1.1.6",
+            "form": "아 @이름1씨 (점슴)/(점심) 드시러 가세요?",
+            "standard_form": "아 &name1&씨 점심 드시러 가세요?",
+            "dialect_form": "아 &name1&씨 점슴 드시러 가세요?",
+            "speaker_id": "1",
+            "start": 16,
+            "end": 19.39,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "아",
+                    "standard": "아",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "@이름1씨",
+                    "standard": "@이름1씨",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "점슴",
+                    "standard": "점심",
+                    "isDialect": true
+                },
+                {
+                    "id": 4,
+                    "eojeol": "드시러",
+                    "standard": "드시러",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "가세요?",
+                    "standard": "가세요?",
+                    "isDialect": false
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,414 @@
+{
+    "id": "DGIN21710368",
+    "metadata": {
+        "title": "강원방언 AI 학습데이터 DGIN21710368",
+        "creator": "인피닉",
+        "distributor": "인피닉",
+        "year": "2021",
+        "category": "강원방언 > 사적 대화 > 일상 대화",
+        "annotation_level": [
+            ""
+        ],
+        "sampling": "본문 전체",
+        "author": "개인 발화자",
+        "publisher": "개인 발화 녹음",
+        "date": "20210104",
+        "topic": "회사/학교"
+    },
+    "speaker": [
+        {
+            "id": "1",
+            "name": "null",
+            "age": "30대",
+            "occupation": "서비스 종사자",
+            "sex": "남성",
+            "birthplace": "강원",
+            "principal_residence": "강원",
+            "current_residence": "강원",
+            "education": "대졸"
+        }
+    ],
+    "setting": {
+        "relation": "기타"
+    },
+    "utterance": [
+        {
+            "id": "DGIN21710368.1.1.1",
+            "form": "@이름1 씨가 진작에 혐의 인정 했으면 (이딴)/(이런) 일 안 생겼어요.",
+            "standard_form": "&name1& 씨가 진작에 혐의 인정 했으면 이런 일 안 생겼어요.",
+            "dialect_form": "&name1& 씨가 진작에 혐의 인정 했으면 이딴 일 안 생겼어요.",
+            "speaker_id": "1",
+            "start": 2.84,
+            "end": 5.93,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "&name1&",
+                    "standard": "&name1&",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "씨가",
+                    "standard": "씨가",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "진작에",
+                    "standard": "진작에",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "혐의",
+                    "standard": "혐의",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "인정",
+                    "standard": "인정",
+                    "isDialect": false
+                },
+                {
+                    "id": 6,
+                    "eojeol": "했으면",
+                    "standard": "했으면",
+                    "isDialect": false
+                },
+                {
+                    "id": 7,
+                    "eojeol": "이딴",
+                    "standard": "이런",
+                    "isDialect": true
+                },
+                {
+                    "id": 8,
+                    "eojeol": "일",
+                    "standard": "일",
+                    "isDialect": false
+                },
+                {
+                    "id": 9,
+                    "eojeol": "안",
+                    "standard": "안",
+                    "isDialect": false
+                },
+                {
+                    "id": 10,
+                    "eojeol": "생겼어요.",
+                    "standard": "생겼어요.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN21710368.1.1.2",
+            "form": "@이름1 씨가 @이름2 오빨 (증말루)/(정말로) 사랑한다면 이번 일 직접 해결해요.",
+            "standard_form": "&name1& 씨가 &name2& 오빨 정말로 사랑한다면 이번 일 직접 해결해요.",
+            "dialect_form": "&name1& 씨가 &name2& 오빨 증말루 사랑한다면 이번 일 직접 해결해요.",
+            "speaker_id": "1",
+            "start": 8,
+            "end": 12,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "&name1&",
+                    "standard": "&name1&",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "씨가",
+                    "standard": "씨가",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "&name2&",
+                    "standard": "&name2&",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "오빨",
+                    "standard": "오빨",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "증말루",
+                    "standard": "정말로",
+                    "isDialect": true
+                },
+                {
+                    "id": 6,
+                    "eojeol": "사랑한다면",
+                    "standard": "사랑한다면",
+                    "isDialect": false
+                },
+                {
+                    "id": 7,
+                    "eojeol": "이번",
+                    "standard": "이번",
+                    "isDialect": false
+                },
+                {
+                    "id": 8,
+                    "eojeol": "일",
+                    "standard": "일",
+                    "isDialect": false
+                },
+                {
+                    "id": 9,
+                    "eojeol": "직접",
+                    "standard": "직접",
+                    "isDialect": false
+                },
+                {
+                    "id": 10,
+                    "eojeol": "해결해요.",
+                    "standard": "해결해요.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN21710368.1.1.3",
+            "form": "내일 진상규명회에서 @이름1 씨 (혼재)/(혼자) 한 일이라고 말하고 @이름2 오빠 혐의 벗게 해달라구요.",
+            "standard_form": "내일 진상규명회에서 &name1& 씨 혼자 한 일이라고 말하고 &name2& 오빠 혐의 벗게 해달라구요.",
+            "dialect_form": "내일 진상규명회에서 &name1& 씨 혼재 한 일이라고 말하고 &name2& 오빠 혐의 벗게 해달라구요.",
+            "speaker_id": "1",
+            "start": 15.57,
+            "end": 22,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "내일",
+                    "standard": "내일",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "진상규명회에서",
+                    "standard": "진상규명회에서",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "&name1&",
+                    "standard": "&name1&",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "씨",
+                    "standard": "씨",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "혼재",
+                    "standard": "혼자",
+                    "isDialect": true
+                },
+                {
+                    "id": 6,
+                    "eojeol": "한",
+                    "standard": "한",
+                    "isDialect": false
+                },
+                {
+                    "id": 7,
+                    "eojeol": "일이라고",
+                    "standard": "일이라고",
+                    "isDialect": false
+                },
+                {
+                    "id": 8,
+                    "eojeol": "말하고",
+                    "standard": "말하고",
+                    "isDialect": false
+                },
+                {
+                    "id": 9,
+                    "eojeol": "&name2&",
+                    "standard": "&name2&",
+                    "isDialect": false
+                },
+                {
+                    "id": 10,
+                    "eojeol": "오빠",
+                    "standard": "오빠",
+                    "isDialect": false
+                },
+                {
+                    "id": 11,
+                    "eojeol": "혐의",
+                    "standard": "혐의",
+                    "isDialect": false
+                },
+                {
+                    "id": 12,
+                    "eojeol": "벗게",
+                    "standard": "벗게",
+                    "isDialect": false
+                },
+                {
+                    "id": 13,
+                    "eojeol": "해달라구요.",
+                    "standard": "해달라구요.",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN21710368.1.1.4",
+            "form": "@이름1 씨가 진짜 오빨 사랑한다며는 당연히 그래야 되는 거 아니겠어요?",
+            "standard_form": "&name1& 씨가 진짜 오빨 사랑한다며는 당연히 그래야 되는 거 아니겠어요?",
+            "dialect_form": "&name1& 씨가 진짜 오빨 사랑한다며는 당연히 그래야 되는 거 아니겠어요?",
+            "speaker_id": "1",
+            "start": 24.94,
+            "end": 30,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "&name1&",
+                    "standard": "&name1&",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "씨가",
+                    "standard": "씨가",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "진짜",
+                    "standard": "진짜",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "오빨",
+                    "standard": "오빨",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "사랑한다며는",
+                    "standard": "사랑한다며는",
+                    "isDialect": false
+                },
+                {
+                    "id": 6,
+                    "eojeol": "당연히",
+                    "standard": "당연히",
+                    "isDialect": false
+                },
+                {
+                    "id": 7,
+                    "eojeol": "그래야",
+                    "standard": "그래야",
+                    "isDialect": false
+                },
+                {
+                    "id": 8,
+                    "eojeol": "되는",
+                    "standard": "되는",
+                    "isDialect": false
+                },
+                {
+                    "id": 9,
+                    "eojeol": "거",
+                    "standard": "거",
+                    "isDialect": false
+                },
+                {
+                    "id": 10,
+                    "eojeol": "아니겠어요?",
+                    "standard": "아니겠어요?",
+                    "isDialect": false
+                }
+            ]
+        },
+        {
+            "id": "DGIN21710368.1.1.5",
+            "form": "@이름1 씨가 진작에 혐의 인정 (했으문)/(했으면) (이딴)/(이런) 일 안 생겼어요.",
+            "standard_form": "&name1& 씨가 진작에 혐의 인정 했으면 이런 일 안 생겼어요.",
+            "dialect_form": "&name1& 씨가 진작에 혐의 인정 했으문 이딴 일 안 생겼어요.",
+            "speaker_id": "1",
+            "start": 33.54,
+            "end": 36.28,
+            "note": "",
+            "eojeolList": [
+                {
+                    "id": 1,
+                    "eojeol": "&name1&",
+                    "standard": "&name1&",
+                    "isDialect": false
+                },
+                {
+                    "id": 2,
+                    "eojeol": "씨가",
+                    "standard": "씨가",
+                    "isDialect": false
+                },
+                {
+                    "id": 3,
+                    "eojeol": "진작에",
+                    "standard": "진작에",
+                    "isDialect": false
+                },
+                {
+                    "id": 4,
+                    "eojeol": "혐의",
+                    "standard": "혐의",
+                    "isDialect": false
+                },
+                {
+                    "id": 5,
+                    "eojeol": "인정",
+                    "standard": "인정",
+                    "isDialect": false
+                },
+                {
+                    "id": 6,
+                    "eojeol": "했으문",
+                    "standard": "했으면",
+                    "isDialect": true
+                },
+                {
+                    "id": 7,
+                    "eojeol": "이딴",
+                    "standard": "이런",
+                    "isDialect": true
+                },
+                {
+                    "id": 8,
+                    "eojeol": "일",
+                    "standard": "일",
+                    "isDialect": false
+                },
+                {
+                    "id": 9,
+                    "eojeol": "안",
+                    "standard": "안",
+                    "isDialect": false
+                },
+                {
+                    "id": 10,
+                    "eojeol": "생겼어요.",
+                    "standard": "생겼어요.",
+                    "isDialect": false
+                }
+            ]
+        }
+    ]
+}

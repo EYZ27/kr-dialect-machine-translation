@@ -1,0 +1,1828 @@
+{
+	"id": "DZES20000362",
+	"metadata": {
+		"title": "DZES20000362",
+		"creator": "솔트룩스",
+		"distributor": "솔트룩스",
+		"year": "2020",
+		"category": "제주방언 > 사적 대화 > 일상 대화",
+		"annotation_level": [
+			"원시"
+		],
+		"sampling": "본문 전체",
+		"author": "개인 발화자",
+		"publisher": "개인 발화 녹음",
+		"date": "20201222",
+		"topic": "먹거리"
+	},
+	"speaker": [
+		{
+			"id": "1",
+			"name": "null",
+			"age": "60대 이상",
+			"sex": "여성",
+			"occupation": "무직/취업준비생",
+			"birthplace": "제주",
+			"principal_residence": "제주",
+			"current_residence": "제주",
+			"education": "대학원 이상"
+		},
+		{
+			"id": "2",
+			"name": "null",
+			"age": "60대 이상",
+			"sex": "여성",
+			"occupation": "무직/취업준비생",
+			"birthplace": "제주",
+			"principal_residence": "제주",
+			"current_residence": "제주",
+			"education": "대졸"
+		},
+		{
+			"id": "3",
+			"name": "null",
+			"age": "60대 이상",
+			"sex": "여성",
+			"occupation": "무직/취업준비생",
+			"birthplace": "제주",
+			"principal_residence": "제주",
+			"current_residence": "제주",
+			"education": "대졸"
+		}
+	],
+	"setting": {
+		"relation": "친구"
+	},
+	"utterance": [
+		{
+			"id": "DZES20000362_1.1.1.1",
+			"start": 0.04,
+			"end": 1.96,
+			"speaker_id": "1",
+			"form": "(())",
+			"standard_form": "(())",
+			"dialect_form": "(())",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "(())",
+					"standard": "(())",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.2",
+			"start": 1.96,
+			"end": 3.2,
+			"speaker_id": "1",
+			"form": "(느네)/(너네) 왔구나 (게)/(#게)",
+			"standard_form": "너네 왔구나 #게",
+			"dialect_form": "느네 왔구나 게",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "느네",
+					"standard": "너네",
+					"isDialect": true
+				},
+				{
+					"id": 2,
+					"eojeol": "왔구나",
+					"standard": "왔구나",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "게",
+					"standard": "#게",
+					"isDialect": true
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.3",
+			"start": 3.2,
+			"end": 3.69,
+			"speaker_id": "2",
+			"form": "네.",
+			"standard_form": "네.",
+			"dialect_form": "네.",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "네.",
+					"standard": "네.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.4",
+			"start": 3.69,
+			"end": 4.91,
+			"speaker_id": "1",
+			"form": "아이들 (왔수다.)/(왔어요.)",
+			"standard_form": "아이들 왔어요.",
+			"dialect_form": "아이들 왔수다.",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "아이들",
+					"standard": "아이들",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "왔수다.",
+					"standard": "왔어요.",
+					"isDialect": true
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.5",
+			"start": 4.92,
+			"end": 8.8,
+			"speaker_id": "1",
+			"form": "아이고 오라. 오라. 아이고 추운데 (고생했져.)/(고생했다.) (한*저)/(어서) 들어오라. (한*저)/(어서)",
+			"standard_form": "아이고 오라. 오라. 아이고 추운데 고생했다. 어서 들어오라. 어서",
+			"dialect_form": "아이고 오라. 오라. 아이고 추운데 고생했져. 한*저 들어오라. 한*저",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "아이고",
+					"standard": "아이고",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "오라.",
+					"standard": "오라.",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "오라.",
+					"standard": "오라.",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "아이고",
+					"standard": "아이고",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "추운데",
+					"standard": "추운데",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "고생했져.",
+					"standard": "고생했다.",
+					"isDialect": true
+				},
+				{
+					"id": 7,
+					"eojeol": "한*저",
+					"standard": "어서",
+					"isDialect": true
+				},
+				{
+					"id": 8,
+					"eojeol": "들어오라.",
+					"standard": "들어오라.",
+					"isDialect": false
+				},
+				{
+					"id": 9,
+					"eojeol": "한*저",
+					"standard": "어서",
+					"isDialect": true
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.6",
+			"start": 9.25,
+			"end": 13.18,
+			"speaker_id": "2",
+			"form": "아이고 어저께 저~ (동지인디)/(동지인데) (살아집디가?)/(살았어요?)",
+			"standard_form": "아이고 어저께 저~ 동지인데 살았어요?",
+			"dialect_form": "아이고 어저께 저~ 동지인디 살아집디가?",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "아이고",
+					"standard": "아이고",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "어저께",
+					"standard": "어저께",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "저~",
+					"standard": "저~",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "동지인디",
+					"standard": "동지인데",
+					"isDialect": true
+				},
+				{
+					"id": 5,
+					"eojeol": "살아집디가?",
+					"standard": "살았어요?",
+					"isDialect": true
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.7",
+			"start": 13.18,
+			"end": 16.47142857142857,
+			"speaker_id": "1",
+			"form": "아이고 (요래)/(여기) 앉아보라 (게)/(#게) 앉아 (게)/(#게)",
+			"standard_form": "아이고 여기 앉아보라 #게 앉아 #게",
+			"dialect_form": "아이고 요래 앉아보라 게 앉아 게",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "아이고",
+					"standard": "아이고",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "요래",
+					"standard": "여기",
+					"isDialect": true
+				},
+				{
+					"id": 3,
+					"eojeol": "앉아보라",
+					"standard": "앉아보라",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "게",
+					"standard": "#게",
+					"isDialect": true
+				},
+				{
+					"id": 5,
+					"eojeol": "앉아",
+					"standard": "앉아",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "게",
+					"standard": "#게",
+					"isDialect": true
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.8",
+			"start": 16.481428571428573,
+			"end": 20.86,
+			"speaker_id": "3",
+			"form": "동지가 (지나감신지)/(지나가는지) (말암신디)/(마는지) (팥*죽)/(팥죽) 생각도 안 (햄수다.)/(합니다.)",
+			"standard_form": "동지가 지나가는지 마는지 팥죽 생각도 안 합니다.",
+			"dialect_form": "동지가 지나감신지 말암신디 팥*죽 생각도 안 햄수다.",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "동지가",
+					"standard": "동지가",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "지나감신지",
+					"standard": "지나가는지",
+					"isDialect": true
+				},
+				{
+					"id": 3,
+					"eojeol": "말암신디",
+					"standard": "마는지",
+					"isDialect": true
+				},
+				{
+					"id": 4,
+					"eojeol": "팥*죽",
+					"standard": "팥죽",
+					"isDialect": true
+				},
+				{
+					"id": 5,
+					"eojeol": "생각도",
+					"standard": "생각도",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "안",
+					"standard": "안",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "햄수다.",
+					"standard": "합니다.",
+					"isDialect": true
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.9",
+			"start": 21,
+			"end": 22.08,
+			"speaker_id": "1",
+			"form": "아이고 (팥*죽?)/(팥죽?)",
+			"standard_form": "아이고 팥죽?",
+			"dialect_form": "아이고 팥*죽?",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "아이고",
+					"standard": "아이고",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "팥*죽?",
+					"standard": "팥죽?",
+					"isDialect": true
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.10",
+			"start": 22.09,
+			"end": 24.39,
+			"speaker_id": "1",
+			"form": "야 야 나 (이)/(#이)",
+			"standard_form": "야 야 나 #이",
+			"dialect_form": "야 야 나 이",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "야",
+					"standard": "야",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "야",
+					"standard": "야",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "나",
+					"standard": "나",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "이",
+					"standard": "#이",
+					"isDialect": true
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.11",
+			"start": 24.400000000000002,
+			"end": 26.95,
+			"speaker_id": "1",
+			"form": "어제도 (하*루)/(하루) 종일 (팥*죽)/(팥죽)",
+			"standard_form": "어제도 하루 종일 팥죽",
+			"dialect_form": "어제도 하*루 종일 팥*죽",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "어제도",
+					"standard": "어제도",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "하*루",
+					"standard": "하루",
+					"isDialect": true
+				},
+				{
+					"id": 3,
+					"eojeol": "종일",
+					"standard": "종일",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "팥*죽",
+					"standard": "팥죽",
+					"isDialect": true
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.12",
+			"start": 26.96,
+			"end": 30.39,
+			"speaker_id": "1",
+			"form": "오늘 낮 ((xx)) (팥*죽)/(팥죽) 나 (팥*죽)/(팥죽) (먹으멍)/(먹으면서) (살았져.)/(살았어.)",
+			"standard_form": "오늘 낮 ((xx)) 팥죽 나 팥죽 먹으면서 살았어.",
+			"dialect_form": "오늘 낮 ((xx)) 팥*죽 나 팥*죽 먹으멍 살았져.",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "오늘",
+					"standard": "오늘",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "낮",
+					"standard": "낮",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "((xx))",
+					"standard": "((xx))",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "팥*죽",
+					"standard": "팥죽",
+					"isDialect": true
+				},
+				{
+					"id": 5,
+					"eojeol": "나",
+					"standard": "나",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "팥*죽",
+					"standard": "팥죽",
+					"isDialect": true
+				},
+				{
+					"id": 7,
+					"eojeol": "먹으멍",
+					"standard": "먹으면서",
+					"isDialect": true
+				},
+				{
+					"id": 8,
+					"eojeol": "살았져.",
+					"standard": "살았어.",
+					"isDialect": true
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.13",
+			"start": 30.4,
+			"end": 35.01,
+			"speaker_id": "1",
+			"form": "아이고 저 (남원이에)/(남원에) (이)/(#이) 우리 막 착한 그~ (조케가)/(조카가) (있주게.)/(있어.)",
+			"standard_form": "아이고 저 남원에 #이 우리 막 착한 그~ 조카가 있어.",
+			"dialect_form": "아이고 저 남원이에 이 우리 막 착한 그~ 조케가 있주게.",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "아이고",
+					"standard": "아이고",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "저",
+					"standard": "저",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "남원이에",
+					"standard": "남원에",
+					"isDialect": true
+				},
+				{
+					"id": 4,
+					"eojeol": "이",
+					"standard": "#이",
+					"isDialect": true
+				},
+				{
+					"id": 5,
+					"eojeol": "우리",
+					"standard": "우리",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "막",
+					"standard": "막",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "착한",
+					"standard": "착한",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "그~",
+					"standard": "그~",
+					"isDialect": false
+				},
+				{
+					"id": 9,
+					"eojeol": "조케가",
+					"standard": "조카가",
+					"isDialect": true
+				},
+				{
+					"id": 10,
+					"eojeol": "있주게.",
+					"standard": "있어.",
+					"isDialect": true
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.14",
+			"start": 35.01,
+			"end": 38.89,
+			"speaker_id": "1",
+			"form": "아이고 (야이가)/(얘가) (이)/(#이) 아니 어제 새벽에 전화가 온 (거라.)/(거야.)",
+			"standard_form": "아이고 얘가 #이 아니 어제 새벽에 전화가 온 거야.",
+			"dialect_form": "아이고 야이가 이 아니 어제 새벽에 전화가 온 거라.",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "아이고",
+					"standard": "아이고",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "야이가",
+					"standard": "얘가",
+					"isDialect": true
+				},
+				{
+					"id": 3,
+					"eojeol": "이",
+					"standard": "#이",
+					"isDialect": true
+				},
+				{
+					"id": 4,
+					"eojeol": "아니",
+					"standard": "아니",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "어제",
+					"standard": "어제",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "새벽에",
+					"standard": "새벽에",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "전화가",
+					"standard": "전화가",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "온",
+					"standard": "온",
+					"isDialect": false
+				},
+				{
+					"id": 9,
+					"eojeol": "거라.",
+					"standard": "거야.",
+					"isDialect": true
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.15",
+			"start": 39,
+			"end": 42.92,
+			"speaker_id": "1",
+			"form": "어 이게 (무사)/(왜) (두렁청하게)/(어리둥절하게) 이 새벽에 (전화햄신고)/(전화하는 거지) (행)/(해서) (받앙보난)/(받아보니까) (이)/(#이)",
+			"standard_form": "어 이게 왜 어리둥절하게 이 새벽에 전화하는 거지 해서 받아보니까 #이",
+			"dialect_form": "어 이게 무사 두렁청하게 이 새벽에 전화햄신고 행 받앙보난 이",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "어",
+					"standard": "어",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "이게",
+					"standard": "이게",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "무사",
+					"standard": "왜",
+					"isDialect": true
+				},
+				{
+					"id": 4,
+					"eojeol": "두렁청하게",
+					"standard": "어리둥절하게",
+					"isDialect": true
+				},
+				{
+					"id": 5,
+					"eojeol": "이",
+					"standard": "이",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "새벽에",
+					"standard": "새벽에",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "전화햄신고",
+					"standard": "전화하는 거지",
+					"isDialect": true
+				},
+				{
+					"id": 8,
+					"eojeol": "행",
+					"standard": "해서",
+					"isDialect": true
+				},
+				{
+					"id": 9,
+					"eojeol": "받앙보난",
+					"standard": "받아보니까",
+					"isDialect": true
+				},
+				{
+					"id": 10,
+					"eojeol": "이",
+					"standard": "#이",
+					"isDialect": true
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.16",
+			"start": 42.92,
+			"end": 46.55,
+			"speaker_id": "1",
+			"form": "아니 오늘 (동짓날이난)/(동짓날이니까) 셋어머니 맛좋게 (먹으랜)/(먹으라고)",
+			"standard_form": "아니 오늘 동짓날이니까 셋어머니 맛좋게 먹으라고",
+			"dialect_form": "아니 오늘 동짓날이난 셋어머니 맛좋게 먹으랜",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "아니",
+					"standard": "아니",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "오늘",
+					"standard": "오늘",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "동짓날이난",
+					"standard": "동짓날이니까",
+					"isDialect": true
+				},
+				{
+					"id": 4,
+					"eojeol": "셋어머니",
+					"standard": "셋어머니",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "맛좋게",
+					"standard": "맛좋게",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "먹으랜",
+					"standard": "먹으라고",
+					"isDialect": true
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.17",
+			"start": 46.55,
+			"end": 50.3,
+			"speaker_id": "1",
+			"form": "(팥*죽)/(팥죽) (쒕)/(쒀서) (가져가쿠댄)/(가져갈겠다고) 하는 (거라.)/(거야.)",
+			"standard_form": "팥죽 쒀서 가져갈겠다고 하는 거야.",
+			"dialect_form": "팥*죽 쒕 가져가쿠댄 하는 거라.",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "팥*죽",
+					"standard": "팥죽",
+					"isDialect": true
+				},
+				{
+					"id": 2,
+					"eojeol": "쒕",
+					"standard": "쒀서",
+					"isDialect": true
+				},
+				{
+					"id": 3,
+					"eojeol": "가져가쿠댄",
+					"standard": "가져갈겠다고",
+					"isDialect": true
+				},
+				{
+					"id": 4,
+					"eojeol": "하는",
+					"standard": "하는",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "거라.",
+					"standard": "거야.",
+					"isDialect": true
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.18",
+			"start": 50.30860860403573,
+			"end": 50.9,
+			"speaker_id": "1",
+			"form": "아이고 참 착하기가 원 원",
+			"standard_form": "아이고 참 착하기가 원 원",
+			"dialect_form": "아이고 참 착하기가 원 원",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "아이고",
+					"standard": "아이고",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "참",
+					"standard": "참",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "착하기가",
+					"standard": "착하기가",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "원",
+					"standard": "원",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "원",
+					"standard": "원",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.19",
+			"start": 50.9,
+			"end": 58.92,
+			"speaker_id": "1",
+			"form": "(()) 맛좋게 (팥*죽)/(팥죽) (쒕)/(쒀서) (오난)/(오니까) (이)/(#이) 나 어제 오늘 (팥*죽으로)/(팥죽으로) 다 (배불러버렸져.)/(배불러버렸어.) @웃음",
+			"standard_form": "(()) 맛좋게 팥죽 쒀서 오니까 #이 나 어제 오늘 팥죽으로 다 배불러버렸어. {laughing}",
+			"dialect_form": "(()) 맛좋게 팥*죽 쒕 오난 이 나 어제 오늘 팥*죽으로 다 배불러버렸져. {laughing}",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "(())",
+					"standard": "(())",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "맛좋게",
+					"standard": "맛좋게",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "팥*죽",
+					"standard": "팥죽",
+					"isDialect": true
+				},
+				{
+					"id": 4,
+					"eojeol": "쒕",
+					"standard": "쒀서",
+					"isDialect": true
+				},
+				{
+					"id": 5,
+					"eojeol": "오난",
+					"standard": "오니까",
+					"isDialect": true
+				},
+				{
+					"id": 6,
+					"eojeol": "이",
+					"standard": "#이",
+					"isDialect": true
+				},
+				{
+					"id": 7,
+					"eojeol": "나",
+					"standard": "나",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "어제",
+					"standard": "어제",
+					"isDialect": false
+				},
+				{
+					"id": 9,
+					"eojeol": "오늘",
+					"standard": "오늘",
+					"isDialect": false
+				},
+				{
+					"id": 10,
+					"eojeol": "팥*죽으로",
+					"standard": "팥죽으로",
+					"isDialect": true
+				},
+				{
+					"id": 11,
+					"eojeol": "다",
+					"standard": "다",
+					"isDialect": false
+				},
+				{
+					"id": 12,
+					"eojeol": "배불러버렸져.",
+					"standard": "배불러버렸어.",
+					"isDialect": true
+				},
+				{
+					"id": 13,
+					"eojeol": "{laughing}",
+					"standard": "{laughing}",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.20",
+			"start": 58.92,
+			"end": 63.64,
+			"speaker_id": "2",
+			"form": "아이고 겅헌디 어젠 저~ 애기 (동지난)/(동지라서) (팥*죽)/(팥죽) 안 (먹낸)/(먹는다고) (합디다.)/(하더라고요.)",
+			"standard_form": "아이고 겅헌디 어젠 저~ 애기 동지라서 팥죽 안 먹는다고 하더라고요.",
+			"dialect_form": "아이고 겅헌디 어젠 저~ 애기 동지난 팥*죽 안 먹낸 합디다.",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "아이고",
+					"standard": "아이고",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "겅헌디",
+					"standard": "겅헌디",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "어젠",
+					"standard": "어젠",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "저~",
+					"standard": "저~",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "애기",
+					"standard": "애기",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "동지난",
+					"standard": "동지라서",
+					"isDialect": true
+				},
+				{
+					"id": 7,
+					"eojeol": "팥*죽",
+					"standard": "팥죽",
+					"isDialect": true
+				},
+				{
+					"id": 8,
+					"eojeol": "안",
+					"standard": "안",
+					"isDialect": false
+				},
+				{
+					"id": 9,
+					"eojeol": "먹낸",
+					"standard": "먹는다고",
+					"isDialect": true
+				},
+				{
+					"id": 10,
+					"eojeol": "합디다.",
+					"standard": "하더라고요.",
+					"isDialect": true
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.21",
+			"start": 63.64,
+			"end": 66.18,
+			"speaker_id": "2",
+			"form": "(누게)/(누구) 말이 예 저~",
+			"standard_form": "누구 말이 예 저~",
+			"dialect_form": "누게 말이 예 저~",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "누게",
+					"standard": "누구",
+					"isDialect": true
+				},
+				{
+					"id": 2,
+					"eojeol": "말이",
+					"standard": "말이",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "예",
+					"standard": "예",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "저~",
+					"standard": "저~",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.22",
+			"start": 66.25,
+			"end": 70.22,
+			"speaker_id": "2",
+			"form": "(겡)/(그래서) 난 (팥*죽)/(팥죽) 생각도 안 (행)/(하고) (이신디)/(있는데)",
+			"standard_form": "그래서 난 팥죽 생각도 안 하고 있는데",
+			"dialect_form": "겡 난 팥*죽 생각도 안 행 이신디",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "겡",
+					"standard": "그래서",
+					"isDialect": true
+				},
+				{
+					"id": 2,
+					"eojeol": "난",
+					"standard": "난",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "팥*죽",
+					"standard": "팥죽",
+					"isDialect": true
+				},
+				{
+					"id": 4,
+					"eojeol": "생각도",
+					"standard": "생각도",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "안",
+					"standard": "안",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "행",
+					"standard": "하고",
+					"isDialect": true
+				},
+				{
+					"id": 7,
+					"eojeol": "이신디",
+					"standard": "있는데",
+					"isDialect": true
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.23",
+			"start": 70.25,
+			"end": 72.14,
+			"speaker_id": "2",
+			"form": "아 (누게가)/(누가) (저녁이)/(저녁에)",
+			"standard_form": "아 누가 저녁에",
+			"dialect_form": "아 누게가 저녁이",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "아",
+					"standard": "아",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "누게가",
+					"standard": "누가",
+					"isDialect": true
+				},
+				{
+					"id": 3,
+					"eojeol": "저녁이",
+					"standard": "저녁에",
+					"isDialect": true
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.24",
+			"start": 72.15,
+			"end": 76.59,
+			"speaker_id": "2",
+			"form": "(양)/(저기요) (이수과?)/(있어요?) (해네)/(해서) 이거 (먹음서)/(드세요) (행)/(해서) 가져온 거 (보난)/(보니까)",
+			"standard_form": "저기요 있어요? 해서 이거 드세요 해서 가져온 거 보니까",
+			"dialect_form": "양 이수과? 해네 이거 먹음서 행 가져온 거 보난",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "양",
+					"standard": "저기요",
+					"isDialect": true
+				},
+				{
+					"id": 2,
+					"eojeol": "이수과?",
+					"standard": "있어요?",
+					"isDialect": true
+				},
+				{
+					"id": 3,
+					"eojeol": "해네",
+					"standard": "해서",
+					"isDialect": true
+				},
+				{
+					"id": 4,
+					"eojeol": "이거",
+					"standard": "이거",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "먹음서",
+					"standard": "드세요",
+					"isDialect": true
+				},
+				{
+					"id": 6,
+					"eojeol": "행",
+					"standard": "해서",
+					"isDialect": true
+				},
+				{
+					"id": 7,
+					"eojeol": "가져온",
+					"standard": "가져온",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "거",
+					"standard": "거",
+					"isDialect": false
+				},
+				{
+					"id": 9,
+					"eojeol": "보난",
+					"standard": "보니까",
+					"isDialect": true
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.25",
+			"start": 76.75,
+			"end": 79.45,
+			"speaker_id": "2",
+			"form": "(팥*)/(팥) (시루떡이라마씨.)/(시루떡이에요.)",
+			"standard_form": "팥 시루떡이에요.",
+			"dialect_form": "팥* 시루떡이라마씨.",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "팥*",
+					"standard": "팥",
+					"isDialect": true
+				},
+				{
+					"id": 2,
+					"eojeol": "시루떡이라마씨.",
+					"standard": "시루떡이에요.",
+					"isDialect": true
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.26",
+			"start": 79.46000000000001,
+			"end": 84.11,
+			"speaker_id": "2",
+			"form": "야 이거 무슨 일이니? 이거 (무사)/(왜) 시루떡을 가져 (와시니)/(왔어) 니네 (식게해나시냐?)/(제사했었어?)",
+			"standard_form": "야 이거 무슨 일이니? 이거 왜 시루떡을 가져 왔어 니네 제사했었어?",
+			"dialect_form": "야 이거 무슨 일이니? 이거 무사 시루떡을 가져 와시니 니네 식게해나시냐?",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "야",
+					"standard": "야",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "이거",
+					"standard": "이거",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "무슨",
+					"standard": "무슨",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "일이니?",
+					"standard": "일이니?",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "이거",
+					"standard": "이거",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "무사",
+					"standard": "왜",
+					"isDialect": true
+				},
+				{
+					"id": 7,
+					"eojeol": "시루떡을",
+					"standard": "시루떡을",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "가져",
+					"standard": "가져",
+					"isDialect": false
+				},
+				{
+					"id": 9,
+					"eojeol": "와시니",
+					"standard": "왔어",
+					"isDialect": true
+				},
+				{
+					"id": 10,
+					"eojeol": "니네",
+					"standard": "니네",
+					"isDialect": false
+				},
+				{
+					"id": 11,
+					"eojeol": "식게해나시냐?",
+					"standard": "제사했었어?",
+					"isDialect": true
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.27",
+			"start": 84.25,
+			"end": 85.6,
+			"speaker_id": "2",
+			"form": "아니 그게 아니고",
+			"standard_form": "아니 그게 아니고",
+			"dialect_form": "아니 그게 아니고",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "아니",
+					"standard": "아니",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "그게",
+					"standard": "그게",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "아니고",
+					"standard": "아니고",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.28",
+			"start": 85.75,
+			"end": 91.8,
+			"speaker_id": "2",
+			"form": "어머니가 저기 애기 (동지라부난)/(동지라서) 팥죽 안 (쑨댄)/(쑨다고) (하멍)/(하면서) 시루떡 (먹은댄)/(먹는다고) (허나네)/(하니까)",
+			"standard_form": "어머니가 저기 애기 동지라서 팥죽 안 쑨다고 하면서 시루떡 먹는다고 하니까",
+			"dialect_form": "어머니가 저기 애기 동지라부난 팥죽 안 쑨댄 하멍 시루떡 먹은댄 허나네",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "어머니가",
+					"standard": "어머니가",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "저기",
+					"standard": "저기",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "애기",
+					"standard": "애기",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "동지라부난",
+					"standard": "동지라서",
+					"isDialect": true
+				},
+				{
+					"id": 5,
+					"eojeol": "팥죽",
+					"standard": "팥죽",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "안",
+					"standard": "안",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "쑨댄",
+					"standard": "쑨다고",
+					"isDialect": true
+				},
+				{
+					"id": 8,
+					"eojeol": "하멍",
+					"standard": "하면서",
+					"isDialect": true
+				},
+				{
+					"id": 9,
+					"eojeol": "시루떡",
+					"standard": "시루떡",
+					"isDialect": false
+				},
+				{
+					"id": 10,
+					"eojeol": "먹은댄",
+					"standard": "먹는다고",
+					"isDialect": true
+				},
+				{
+					"id": 11,
+					"eojeol": "허나네",
+					"standard": "하니까",
+					"isDialect": true
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.29",
+			"start": 91.8,
+			"end": 96.82,
+			"speaker_id": "2",
+			"form": "나 이거 저 (생각하여네)/(생각해서) (하*끔)/(조금) (잡숴봅서)/(드셔보세요) (행)/(해서) (가져왔수다.)/(가져왔어요.) (하난)/(하니까)",
+			"standard_form": "나 이거 저 생각해서 조금 드셔보세요 해서 가져왔어요. 하니까",
+			"dialect_form": "나 이거 저 생각하여네 하*끔 잡숴봅서 행 가져왔수다. 하난",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "나",
+					"standard": "나",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "이거",
+					"standard": "이거",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "저",
+					"standard": "저",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "생각하여네",
+					"standard": "생각해서",
+					"isDialect": true
+				},
+				{
+					"id": 5,
+					"eojeol": "하*끔",
+					"standard": "조금",
+					"isDialect": true
+				},
+				{
+					"id": 6,
+					"eojeol": "잡숴봅서",
+					"standard": "드셔보세요",
+					"isDialect": true
+				},
+				{
+					"id": 7,
+					"eojeol": "행",
+					"standard": "해서",
+					"isDialect": true
+				},
+				{
+					"id": 8,
+					"eojeol": "가져왔수다.",
+					"standard": "가져왔어요.",
+					"isDialect": true
+				},
+				{
+					"id": 9,
+					"eojeol": "하난",
+					"standard": "하니까",
+					"isDialect": true
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.30",
+			"start": 96.83,
+			"end": 99.74,
+			"speaker_id": "2",
+			"form": "(기냐?)/(그래?) 애기 동지?",
+			"standard_form": "그래? 애기 동지?",
+			"dialect_form": "기냐? 애기 동지?",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "기냐?",
+					"standard": "그래?",
+					"isDialect": true
+				},
+				{
+					"id": 2,
+					"eojeol": "애기",
+					"standard": "애기",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "동지?",
+					"standard": "동지?",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.31",
+			"start": 101,
+			"end": 105.75,
+			"speaker_id": "2",
+			"form": "(영)/(이렇게) (보난)/(보니까) 달력을 (보난)/(보니까) 십일 월 칠 (일이난)/(일이니까) 아 열흘 안에 (드난)/(드니까)",
+			"standard_form": "이렇게 보니까 달력을 보니까 십일 월 칠 일이니까 아 열흘 안에 드니까",
+			"dialect_form": "영 보난 달력을 보난 십일 월 칠 일이난 아 열흘 안에 드난",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "영",
+					"standard": "이렇게",
+					"isDialect": true
+				},
+				{
+					"id": 2,
+					"eojeol": "보난",
+					"standard": "보니까",
+					"isDialect": true
+				},
+				{
+					"id": 3,
+					"eojeol": "달력을",
+					"standard": "달력을",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "보난",
+					"standard": "보니까",
+					"isDialect": true
+				},
+				{
+					"id": 5,
+					"eojeol": "십일",
+					"standard": "십일",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "월",
+					"standard": "월",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "칠",
+					"standard": "칠",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "일이난",
+					"standard": "일이니까",
+					"isDialect": true
+				},
+				{
+					"id": 9,
+					"eojeol": "아",
+					"standard": "아",
+					"isDialect": false
+				},
+				{
+					"id": 10,
+					"eojeol": "열흘",
+					"standard": "열흘",
+					"isDialect": false
+				},
+				{
+					"id": 11,
+					"eojeol": "안에",
+					"standard": "안에",
+					"isDialect": false
+				},
+				{
+					"id": 12,
+					"eojeol": "드난",
+					"standard": "드니까",
+					"isDialect": true
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.32",
+			"start": 105.75,
+			"end": 110.4,
+			"speaker_id": "2",
+			"form": "(겅핸했구나)/(그랬구나) 그저 옛날 들은 말은 (이서도)/(있어도) 그 생각을 하나도 안 (해신디)/(했는데)",
+			"standard_form": "그랬구나 그저 옛날 들은 말은 있어도 그 생각을 하나도 안 했는데",
+			"dialect_form": "겅핸했구나 그저 옛날 들은 말은 이서도 그 생각을 하나도 안 해신디",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "겅핸했구나",
+					"standard": "그랬구나",
+					"isDialect": true
+				},
+				{
+					"id": 2,
+					"eojeol": "그저",
+					"standard": "그저",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "옛날",
+					"standard": "옛날",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "들은",
+					"standard": "들은",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "말은",
+					"standard": "말은",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "이서도",
+					"standard": "있어도",
+					"isDialect": true
+				},
+				{
+					"id": 7,
+					"eojeol": "그",
+					"standard": "그",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "생각을",
+					"standard": "생각을",
+					"isDialect": false
+				},
+				{
+					"id": 9,
+					"eojeol": "하나도",
+					"standard": "하나도",
+					"isDialect": false
+				},
+				{
+					"id": 10,
+					"eojeol": "안",
+					"standard": "안",
+					"isDialect": false
+				},
+				{
+					"id": 11,
+					"eojeol": "해신디",
+					"standard": "했는데",
+					"isDialect": true
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.33",
+			"start": 110.4,
+			"end": 114.01,
+			"speaker_id": "2",
+			"form": "(게)/(#게) 난 (팥*죽)/(팥죽) 대신에 시루떡 (먹었수다.)/(먹었어요.)",
+			"standard_form": "#게 난 팥죽 대신에 시루떡 먹었어요.",
+			"dialect_form": "게 난 팥*죽 대신에 시루떡 먹었수다.",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "게",
+					"standard": "#게",
+					"isDialect": true
+				},
+				{
+					"id": 2,
+					"eojeol": "난",
+					"standard": "난",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "팥*죽",
+					"standard": "팥죽",
+					"isDialect": true
+				},
+				{
+					"id": 4,
+					"eojeol": "대신에",
+					"standard": "대신에",
+					"isDialect": false
+				},
+				{
+					"id": 5,
+					"eojeol": "시루떡",
+					"standard": "시루떡",
+					"isDialect": false
+				},
+				{
+					"id": 6,
+					"eojeol": "먹었수다.",
+					"standard": "먹었어요.",
+					"isDialect": true
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.34",
+			"start": 114.02000000000001,
+			"end": 118.34,
+			"speaker_id": "1",
+			"form": "(야이는)/(얘는) 아는 것도 (하)/(많아) (이)/(#이) 난 그런 거 (하*나도)/(하나도) 모른다.",
+			"standard_form": "얘는 아는 것도 많아 #이 난 그런 거 하나도 모른다.",
+			"dialect_form": "야이는 아는 것도 하 이 난 그런 거 하*나도 모른다.",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "야이는",
+					"standard": "얘는",
+					"isDialect": true
+				},
+				{
+					"id": 2,
+					"eojeol": "아는",
+					"standard": "아는",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "것도",
+					"standard": "것도",
+					"isDialect": false
+				},
+				{
+					"id": 4,
+					"eojeol": "하",
+					"standard": "많아",
+					"isDialect": true
+				},
+				{
+					"id": 5,
+					"eojeol": "이",
+					"standard": "#이",
+					"isDialect": true
+				},
+				{
+					"id": 6,
+					"eojeol": "난",
+					"standard": "난",
+					"isDialect": false
+				},
+				{
+					"id": 7,
+					"eojeol": "그런",
+					"standard": "그런",
+					"isDialect": false
+				},
+				{
+					"id": 8,
+					"eojeol": "거",
+					"standard": "거",
+					"isDialect": false
+				},
+				{
+					"id": 9,
+					"eojeol": "하*나도",
+					"standard": "하나도",
+					"isDialect": true
+				},
+				{
+					"id": 10,
+					"eojeol": "모른다.",
+					"standard": "모른다.",
+					"isDialect": false
+				}
+			]
+		},
+		{
+			"id": "DZES20000362_1.1.1.35",
+			"start": 118.35000000000001,
+			"end": 119.99,
+			"speaker_id": "1",
+			"form": "애기 동지가 (무시)/(어떤) 거니?",
+			"standard_form": "애기 동지가 어떤 거니?",
+			"dialect_form": "애기 동지가 무시 거니?",
+			"note": "",
+			"eojeolList": [
+				{
+					"id": 1,
+					"eojeol": "애기",
+					"standard": "애기",
+					"isDialect": false
+				},
+				{
+					"id": 2,
+					"eojeol": "동지가",
+					"standard": "동지가",
+					"isDialect": false
+				},
+				{
+					"id": 3,
+					"eojeol": "무시",
+					"standard": "어떤",
+					"isDialect": true
+				},
+				{
+					"id": 4,
+					"eojeol": "거니?",
+					"standard": "거니?",
+					"isDialect": false
+				}
+			]
+		}
+	]
+}
